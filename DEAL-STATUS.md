@@ -43,6 +43,7 @@
 |----------|-------|--------|--------------|
 | **212 Elm St, Somerville, MA 02144** | MA | New site from Rags and Tatiana Gupta. Zack met with the agent on 2/6/26 and agent will be touring the property on Monday or Tuesday to send more information. Also going to take pictures and get us an LOI. He already spoke with building ownership and they are open to leasing to a school. | *2026-02-07* |
 | **17785 N Pacesetter Way Scottsdale AZ 85255** | AZ | 🟡 Zack sent proposal to Andy & Neeraj 2/4 for buy vs lease decision. Awaiting their direction.  | *2026-02-04* |
+| **775 Columbus Ave New York NY** | NY | 🟡 Neeraj and Andy want to keep this alive — believe it's still a good option. Waiting on Tasha's assessment: can she fill enrollment and hire guides in time, or combination of both. Ideally moving forward. Do NOT tell owner we are passing — hold. As of 2/7/26 | *2026-02-07* |
 | **Hayground School - Bridgehampton NY (Summer Camp)** | NY | 🟡 Preliminary discussions indicate openness to simultaneous operation. Issue: shared space, not exclusive use we desire. | *2026-02-05* |
 | **The Racquet Lounge - Southampton NY (Summer Camp)** | NY | 🟡 Active discussions. Meeting with ownership scheduled for today (2/5). | *2026-02-05* |
 
@@ -64,7 +65,6 @@
 | **2701 Valley View Ln Farmers Branch TX 75234** | TX | 🟢 Followed up 2/4 to confirm availability. Property meets all of our needs. | *2026-02-04* |
 | **4525 Lemmon Ave Dallas TX 75219** | TX | 🟡 Screening complete, awaiting review | *2026-01-28 19:04* |
 | **8618 Fenton St Silver Spring MD 20910** | MD | 🟡 Waiting on response. Follow up sent. | *2026-02-04* |
-| **775 Columbus Ave New York NY** | NY | 🟡 Waiting on final decision from Neeraj, Andy, and Tasha.  | *2026-02-04* |
 | **Stony Brook University Southampton Campus (Summer Camp)** | NY | 🟡 Initial outreach sent. Awaiting response for exploratory discussions. | *2026-02-05* |
 | **Le Mans NYC** | NY | 🟡 Screening complete, awaiting review | *2026-01-28 19:04* |
 | **180 Maiden Lane New York NY** | NY | 🟢 Alpha School operating | *2026-01-28 19:04* |
@@ -98,8 +98,8 @@
 | Stage 3: Lease Ready | 4 |
 | Stage 2: Lease Negotiations | 10 |
 | Stage 1: LOI In Progress | 3 |
-| Stage 0.5: Due Diligence | 4 |
-| Stage 0: Tracking | 19 |
+| Stage 0.5: Due Diligence | 5 |
+| Stage 0: Tracking | 18 |
 | Lease Signed (Ops) | 11 |
 
 **Total Active Deals: 40**
