@@ -21,6 +21,7 @@
 | **1128 Harmon Pl Minneapolis MN** | MN | 🟡 Lease on existing space can be easily adapted for new unit we will be taking as opposed to old unit.  | *2026-01-28 19:04* |
 | **7979 Ivanhoe Ave La Jolla CA** | CA | 🟢 Counter proposal received and executed. Being sent back to landlord 2/4. Operations kicked off deeper review. Need to confirm zoning as it is an existing school, but they have a CUP that expires end of 2027 and we just need to make sure we can still run a school in that space after that. | *2026-02-07* |
 | **123 Washington St Norwalk CT 06854** | CT | 🟢 Received countersigned LOI on 2/6/26. Matterport being scheduled. Introduction between landlord and Robbie Forrest from Operations made. Lease is being drafted. NDA is currently under Landlord review, as they would like to see financials.  | *2026-02-04* |
+| **445 N Wymore Rd, Winter Park, FL 32789** | FL | 🟡 Updated LOI Received — Zack executed the LOI and sent back for countersignature from Landlord on 2/5/26 | *2026-02-03 11:30* |
 | **5625 Schumacher Ln Houston TX 77057** | TX | 🟢 LOI executed. Matterport complete.  | *2026-02-04* |
 | **McGarrah Jesse Building Austin TX (Austin 250)** | TX | 🟡 Decision needed by end of week - two options being presented to Neeraj | *2026-01-28* |
 | **7514 Wisconsin Ave, Bethesda, MD 20814** | MD | 🟢 LOI Signed — Pending Execution | *2026-02-03 11:30* |
@@ -32,7 +33,6 @@
 
 | Property | State | Status | Last Updated |
 |----------|-------|--------|--------------|
-| **445 N Wymore Rd, Winter Park, FL 32789** | FL | 🟡 Updated LOI Received — Zack executed the LOI and sent back for countersignature from Landlord on 2/5/26 | *2026-02-03 11:30* |
 | **511 W 25th St New York NY** | NY | 🟡 Proposal redlines in progress.  | *2026-01-28 19:04* |
 | **Ross School - Bridgehampton NY (Summer Camp)** | NY | 🟢 Formal offer submitted. Under review by Ross School Board of Directors. Decision expected within one week. | *2026-02-05* |
 | **10220 NE Points Dr Kirkland WA 98033** | WA | 🟡 Former University of Washington location identified. Suite 100. | *2026-02-07* |
@@ -96,8 +96,8 @@
 |-------|-------|
 | Stage 4: Handoff to Ops | 0 |
 | Stage 3: Lease Ready | 4 |
-| Stage 2: Lease Negotiations | 9 |
-| Stage 1: LOI In Progress | 4 |
+| Stage 2: Lease Negotiations | 10 |
+| Stage 1: LOI In Progress | 3 |
 | Stage 0.5: Due Diligence | 4 |
 | Stage 0: Tracking | 19 |
 | Lease Signed (Ops) | 11 |
