@@ -33,9 +33,9 @@
 
 | Property | State | Status | Last Updated |
 |----------|-------|--------|--------------|
-| **511 W 25th St New York NY** | NY | 🟡 Proposal redlines in progress.  | *2026-01-28 19:04* |
+| **511 W 25th St New York NY** | NY | 🟡 Proposal redlines in progress. "Ironworks" building. | *2026-02-07* |
 | **Ross School - Bridgehampton NY (Summer Camp)** | NY | 🟢 Formal offer submitted. Under review by Ross School Board of Directors. Decision expected within one week. | *2026-02-05* |
-| **10220 NE Points Dr Kirkland WA 98033** | WA | 🟡 Former University of Washington location identified. Suite 100. | *2026-02-07* |
+| **10220 NE Points Dr Kirkland WA 98033** | WA | 🔴 Former University of Washington location identified. Suite 100. | *2026-02-07* |
 
 ### **STAGE 0.5: ACTIVE DUE DILIGENCE**
 
