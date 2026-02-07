@@ -59,12 +59,12 @@
 | **4525 Lemmon Ave Dallas TX 75219** | TX | 🟡 Screening complete, awaiting review | *2026-01-28 19:04* |
 | **8618 Fenton St Silver Spring MD 20910** | MD | 🟡 Waiting on response. Follow up sent. | *2026-02-04* |
 | **17785 N Pacesetter Way Scottsdale AZ 85255** | AZ | 🟡 Zack sent proposal to Andy & Neeraj 2/4 for buy vs lease decision. Awaiting their direction.  | *2026-02-04* |
-| **511 W 25th St New York NY** | NY | 🟡 Screening complete, awaiting review | *2026-01-28 19:04* |
-| **775 Columbus Ave New York NY** | NY | 🟡 Waiting on final decision from Neeraj, Andy, and Tasha. Tasha's concern: hard for kids transitioning out to 180 Maiden Lane when they turn 6. | *2026-02-04* |
+| **511 W 25th St New York NY** | NY | 🟡 Proposal redlines in progress.  | *2026-01-28 19:04* |
+| **775 Columbus Ave New York NY** | NY | 🟡 Waiting on final decision from Neeraj, Andy, and Tasha.  | *2026-02-04* |
 | **Stony Brook University Southampton Campus (Summer Camp)** | NY | 🟡 Initial outreach sent. Awaiting response for exploratory discussions. | *2026-02-05* |
 | **Le Mans NYC** | NY | 🟡 Screening complete, awaiting review | *2026-01-28 19:04* |
 | **180 Maiden Lane New York NY** | NY | 🟢 Alpha School operating | *2026-01-28 19:04* |
-| **10220 NE Points Dr Kirkland WA 98033** | WA | 🟡 New location identified. Suite 100. | *2026-02-07* |
+| **10220 NE Points Dr Kirkland WA 98033** | WA | 🟡 Former University of Washington location identified. Suite 100. | *2026-02-07* |
 | **209 10th Ave S Nashville TN (Cummins Station)** | TN | 🟡 Under evaluation - multiple options, alcohol licensing concerns | *2026-01-28* |
 
 ---
