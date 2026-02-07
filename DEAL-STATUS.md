@@ -9,13 +9,13 @@
 
 | Property | State | Status | Last Updated |
 |----------|-------|--------|--------------|
-| **2200 NW 5th Ave Boca Raton FL** | FL | 🟢 Lease in hand. Matterport complete 2/2. Devin from Ops onsite 2/2. Waiting Ops sign-off & exec visit by Friday 2/6. | *2026-02-04* |
+| **2200 NW 5th Ave Boca Raton FL** | FL | 🟢 Non-refundable $33k deposit executed 2/6. Wire kicked off with Finance for 2/9. Lease must be executed by 2/20. Ops has 2-week extension for inspections. | *2026-02-07* |
 
 ### **STAGE 2: LEASE NEGOTIATIONS**
 
 | Property | State | Status | Last Updated |
 |----------|-------|--------|--------------|
-| **123 Washington St Norwalk CT 06854** | CT | 🟢 Waiting on countersigned LOI. Then will schedule Matterport and make intro to Robbie (Ops). | *2026-02-04* |
+| **123 Washington St Norwalk CT 06854** | CT | 🟢 Received countersigned LOI on 2/6/26. Matterport being scheduled. Introduction between landlord and Robbie Forrest from Operations made. Lease is being drafted. NDA is currently under Landlord review, as they would like to see financials.  | *2026-02-04* |
 | **5625 Schumacher Ln Houston TX 77057** | TX | 🟢 LOI executed. Matterport complete. Waiting on lease draft from landlord. | *2026-02-04* |
 | **2000 Woodlands Pkwy The Woodlands TX** | TX | 🟡 Zack in conversation with Bill Ackman's Chief of Staff (John Saxon) on 10% tuition discount for Howard Hughes Corp employees. Pushed to Neeraj 2/4, waiting response. Already said no 2x but they keep pushing. | *2026-02-04* |
 | **McGarrah Jesse Building Austin TX (Austin 250)** | TX | 🟡 Decision needed by end of week - two options being presented to Neeraj | *2026-01-28* |
@@ -28,8 +28,8 @@
 
 | Property | State | Status | Last Updated |
 |----------|-------|--------|--------------|
-| **7979 Ivanhoe Ave La Jolla CA** | CA | 🟢 Counter proposal received and executed. Being sent back to landlord 2/4. Operations kicked off deeper review. | *2026-02-04* |
-| **445 N Wymore Rd, Winter Park, FL 32789** | FL | 🟡 Updated LOI Received — Pending Review | *2026-02-03 11:30* |
+| **7979 Ivanhoe Ave La Jolla CA** | CA | 🟢 Counter proposal received and executed. Being sent back to landlord 2/4. Operations kicked off deeper review. Need to confirm zoning as it is an existing school, but they have a CUP that expires end of 2027 and we just need to make sure we can still run a school in that space after that. | *2026-02-04* |
+| **445 N Wymore Rd, Winter Park, FL 32789** | FL | 🟡 Updated LOI Received — Zack executed the LOI and sent back for countersignature from Landlord on 2/5/26 | *2026-02-03 11:30* |
 | **Ross School - Bridgehampton NY (Summer Camp)** | NY | 🟢 Formal offer submitted. Under review by Ross School Board of Directors. Decision expected within one week. | *2026-02-05* |
 | **156 William St New York NY** | NY | 🟢 LOI signed. Operations beginning paperwork for preschool registration in NY. Awaiting countersigned LOI and draft of lease. | *2026-02-04* |
 | **350 E South Water St Chicago IL** | IL | 🟢 LOI executed. Operations working through diligence. Neeraj working on financing and purchase agreement. | *2026-02-04* |
@@ -58,7 +58,7 @@
 | **2701 Valley View Ln Farmers Branch TX 75234** | TX | 🟢 Followed up 2/4 to confirm availability. Property meets all of our needs. | *2026-02-04* |
 | **4525 Lemmon Ave Dallas TX 75219** | TX | 🟡 Screening complete, awaiting review | *2026-01-28 19:04* |
 | **8618 Fenton St Silver Spring MD 20910** | MD | 🟡 Waiting on response. Follow up sent. | *2026-02-04* |
-| **17785 N Pacesetter Way Scottsdale AZ 85255** | AZ | 🟡 Zack sent proposal to Andy & Neeraj 2/4 for buy vs lease decision. Awaiting their direction. | *2026-02-04* |
+| **17785 N Pacesetter Way Scottsdale AZ 85255** | AZ | 🟡 Zack sent proposal to Andy & Neeraj 2/4 for buy vs lease decision. Awaiting their direction.  | *2026-02-04* |
 | **511 W 25th St New York NY** | NY | 🟡 Screening complete, awaiting review | *2026-01-28 19:04* |
 | **775 Columbus Ave New York NY** | NY | 🟡 Waiting on final decision from Neeraj, Andy, and Tasha. Tasha's concern: hard for kids transitioning out to 180 Maiden Lane when they turn 6. | *2026-02-04* |
 | **Stony Brook University Southampton Campus (Summer Camp)** | NY | 🟡 Initial outreach sent. Awaiting response for exploratory discussions. | *2026-02-05* |
