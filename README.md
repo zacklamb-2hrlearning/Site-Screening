@@ -33,7 +33,7 @@ Live deal pipeline status for Alpha School real estate operations.
   | Building Quality | 20 |
   | Adjacent Risk | 10 |
 
-  **Thresholds:** GREEN ≥85 | AMBER 70-84 | RED <70
+  **Thresholds:** GREEN 75-100 | AMBER 50-74 | RED 0-49
 
   ---
 
