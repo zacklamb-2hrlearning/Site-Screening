@@ -34,7 +34,7 @@
 | Property | State | Status | Last Updated |
 |----------|-------|--------|--------------|
 | **1 Beach St, San Francisco, CA** | CA | 🟡 Zack sent LOI to Neeraj for approval 2/6. Neeraj: "I need and will ask for Joe approval." Awaiting Joe sign-off before LOI goes to landlord. Need to get executed by EOD 2/9/26 to keep this possibility.  | *2026-02-08* |
-| **Coconut Grove, Miami, FL (Allen Morris Development)** | FL | 🟡 Allen Morris Company (Harley Mayoff) sent revised term sheet 2/5. Ross Burack provided pricing for Joe: ~$115 PSF/yr for both 75K and 25K SF options, 10% increases every 5 years, 6-8 months free rent, landlord build-to-suit, 30-year lease with 15-year termination option (repay LL termination fee). Awaiting Joe/leadership decision. | *2026-02-08* |
+| **Coconut Grove, Miami, FL (Allen Morris Development)** | FL | 🟡 Allen Morris Company (Harley Mayoff) sent revised term sheet 2/5. Pricing for Joe: ~$115 PSF/yr for both 75K and 25K SF options, 10% increases every 5 years, 6-8 months free rent, landlord build-to-suit, 30-year lease with 15-year termination option (repay LL termination fee). Awaiting Joe/leadership decision. | *2026-02-08* |
 | **511 W 25th St New York NY** | NY | 🟡 Proposal redlines in progress. "Ironworks" building. | *2026-02-07* |
 | **Ross School - Bridgehampton NY (Summer Camp)** | NY | 🟢 Formal offer submitted. Under review by Ross School Board of Directors. Decision expected within one week. | *2026-02-05* |
 | **10220 NE Points Dr Kirkland WA 98033** | WA | 🟡 Former University of Washington location identified. Suite 100. | *2026-02-07* |
