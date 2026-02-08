@@ -11,7 +11,7 @@
 |----------|-------|--------|--------------|
 | **2200 NW 5th Ave Boca Raton FL** | FL | 🟢 Non-refundable $33k deposit executed 2/6. Wire kicked off with Finance for 2/9. Lease must be executed by 2/20. Ops has 2-week extension for inspections. | *2026-02-07* |
 | **2000 Woodlands Pkwy The Woodlands TX** | TX | 🟡 Zack in conversation with Bill Ackman's Chief of Staff (John Saxon) on 10% tuition discount for Howard Hughes Corp employees. Pushed to Neeraj 2/4, waiting response. Already said no 2x but they keep pushing. | *2026-02-07* |
-| **1750 Rufe Snow Dr Keller TX** | TX | 🟢 Confirming exit language from CIO (Neeraj) for foundation/structure. Owner Christine confirming. Lease out for signature 2/4 or 2/5. Israe (Ops) handling utility transfer. | *2026-02-07* |
+| **1750 Rufe Snow Dr Keller TX** | TX | 🟢 Confirming exit language from CIO (Neeraj) for foundation/structure. Owner Christine confirming. Lease out for signature 2/4 or 2/5. Israe (Ops) handling utility transfer. | *2026-02-08* |
 | **838 SW 1st St Portland OR** | OR | 🟢 Ownership reviewing lease - looks good. Kris Vogt (NAI Elliott) excited about progress — "Look forward to hearing from you Thursday!" (2/4) | *2026-02-07* |
 
 ### **STAGE 2: LEASE NEGOTIATIONS**
@@ -33,7 +33,7 @@
 
 | Property | State | Status | Last Updated |
 |----------|-------|--------|--------------|
-| **1 Beach St, San Francisco, CA** | CA | 🟡 Ross Burack (RTL) sent LOI to Neeraj for approval 2/6. Neeraj: "I need and will ask for Joe approval." Awaiting Joe sign-off before LOI goes to landlord. Ross also noted SF LOI had assignment/sublet changes. | *2026-02-08* |
+| **1 Beach St, San Francisco, CA** | CA | 🟡 Zack sent LOI to Neeraj for approval 2/6. Neeraj: "I need and will ask for Joe approval." Awaiting Joe sign-off before LOI goes to landlord. Need to get executed by EOD 2/9/26 to keep this possibility.  | *2026-02-08* |
 | **Coconut Grove, Miami, FL (Allen Morris Development)** | FL | 🟡 Allen Morris Company (Harley Mayoff) sent revised term sheet 2/5. Ross Burack provided pricing for Joe: ~$115 PSF/yr for both 75K and 25K SF options, 10% increases every 5 years, 6-8 months free rent, landlord build-to-suit, 30-year lease with 15-year termination option (repay LL termination fee). Awaiting Joe/leadership decision. | *2026-02-08* |
 | **511 W 25th St New York NY** | NY | 🟡 Proposal redlines in progress. "Ironworks" building. | *2026-02-07* |
 | **Ross School - Bridgehampton NY (Summer Camp)** | NY | 🟢 Formal offer submitted. Under review by Ross School Board of Directors. Decision expected within one week. | *2026-02-05* |
@@ -44,7 +44,7 @@
 | Property | State | Status | Last Updated |
 |----------|-------|--------|--------------|
 | **212 Elm St, Somerville, MA 02144** | MA | New site from Rags and Tatiana Gupta. Zack met with the agent on 2/6/26 and agent will be touring the property on Monday or Tuesday to send more information. Also going to take pictures and get us an LOI. He already spoke with building ownership and they are open to leasing to a school. | *2026-02-07* |
-| **17785 N Pacesetter Way Scottsdale AZ 85255** | AZ | 🟡 Zack sent proposal to Andy & Neeraj 2/4 for buy vs lease decision. Awaiting their direction.  | *2026-02-04* |
+| **17785 N Pacesetter Way Scottsdale AZ 85255** | AZ | 🟡 Zack sent proposal to Andy & Neeraj 2/4 for buy decision. Awaiting their direction.  | *2026-02-04* |
 | **775 Columbus Ave New York NY** | NY | 🟡 Neeraj and Andy want to keep this alive — believe it's still a good option. Waiting on Tasha's assessment: can she fill enrollment and hire guides in time, or combination of both. Ideally moving forward. Do NOT tell owner we are passing — hold. As of 2/7/26 | *2026-02-07* |
 | **Hayground School - Bridgehampton NY (Summer Camp)** | NY | 🟡 Preliminary discussions indicate openness to simultaneous operation. Issue: shared space, not exclusive use we desire. | *2026-02-05* |
 | **The Racquet Lounge - Southampton NY (Summer Camp)** | NY | 🟡 Active discussions. Meeting with ownership scheduled for today (2/5). | *2026-02-05* |
@@ -63,8 +63,8 @@
 | **OKC TBD** | OK | 🟡 Screening complete, awaiting review | *2026-01-28 19:04* |
 | **461 W 9th St San Pedro CA** | CA | 🟢 GREAT — Strategic South Bay overflow location | *2026-01-29* |
 | **2751 Colorado Blvd Los Angeles CA 90041** | CA | 🟡 Screening complete, awaiting review | *2026-01-28 19:04* |
-| **20 E Elm St, Greenwich, CT** | CT | 🟡 Leslie Steines (RTL) sent listing 2/6. 12,657 SF ground floor + 722 SF lower level. $90 PSF + $13.5 PSF NNN = ~$1.31M/year. No engagement yet. | *2026-02-08* |
-| **4646 Dubai Way Frisco TX 75034** | TX | 🟡 Screening complete, awaiting response from broker | *2026-01-28 19:04* |
+| **20 E Elm St, Greenwich, CT** | CT | 🟡 12,657 SF ground floor + 722 SF lower level. $90 PSF + $13.5 PSF NNN = ~$1.31M/year.  | *2026-02-08* |
+| **4646 Dubai Way Frisco TX 75034** | TX | 🟡 Conversation in progress with the broker. Trying to understand how the overall site could be broken up to allow us to have a smaller footprint in the building. | *2026-01-28 19:04* |
 | **2701 Valley View Ln Farmers Branch TX 75234** | TX | 🟢 Followed up 2/4 to confirm availability. Property meets all of our needs. | *2026-02-04* |
 | **4525 Lemmon Ave Dallas TX 75219** | TX | 🟡 Screening complete, awaiting review | *2026-01-28 19:04* |
 | **8618 Fenton St Silver Spring MD 20910** | MD | 🟡 Waiting on response. Follow up sent. | *2026-02-04* |
