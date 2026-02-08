@@ -39,7 +39,7 @@ Live deal pipeline status for Alpha School real estate operations.
 
   ## Contact
 
-  Zack Lamb - Director of Real Estate
+  Zack Lamb
   zack.lamb@2hourlearning.com
 
-  **Last updated:** February 3, 2026
+  **Last updated:** February 8, 2026
