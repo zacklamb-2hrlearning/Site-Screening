@@ -1,5 +1,5 @@
 # Alpha Real Estate — Master Deal Status
-**Auto-generated:** February 7, 2026 | **For:** Leadership Review
+**Auto-generated:** February 8, 2026 | **For:** Leadership Review
 
 ---
 
@@ -33,6 +33,8 @@
 
 | Property | State | Status | Last Updated |
 |----------|-------|--------|--------------|
+| **1 Beach St, San Francisco, CA** | CA | 🟡 Ross Burack (RTL) sent LOI to Neeraj for approval 2/6. Neeraj: "I need and will ask for Joe approval." Awaiting Joe sign-off before LOI goes to landlord. Ross also noted SF LOI had assignment/sublet changes. | *2026-02-08* |
+| **Coconut Grove, Miami, FL (Allen Morris Development)** | FL | 🟡 Allen Morris Company (Harley Mayoff) sent revised term sheet 2/5. Ross Burack provided pricing for Joe: ~$115 PSF/yr for both 75K and 25K SF options, 10% increases every 5 years, 6-8 months free rent, landlord build-to-suit, 30-year lease with 15-year termination option (repay LL termination fee). Awaiting Joe/leadership decision. | *2026-02-08* |
 | **511 W 25th St New York NY** | NY | 🟡 Proposal redlines in progress. "Ironworks" building. | *2026-02-07* |
 | **Ross School - Bridgehampton NY (Summer Camp)** | NY | 🟢 Formal offer submitted. Under review by Ross School Board of Directors. Decision expected within one week. | *2026-02-05* |
 | **10220 NE Points Dr Kirkland WA 98033** | WA | 🟡 Former University of Washington location identified. Suite 100. | *2026-02-07* |
@@ -61,10 +63,12 @@
 | **OKC TBD** | OK | 🟡 Screening complete, awaiting review | *2026-01-28 19:04* |
 | **461 W 9th St San Pedro CA** | CA | 🟢 GREAT — Strategic South Bay overflow location | *2026-01-29* |
 | **2751 Colorado Blvd Los Angeles CA 90041** | CA | 🟡 Screening complete, awaiting review | *2026-01-28 19:04* |
+| **20 E Elm St, Greenwich, CT** | CT | 🟡 Leslie Steines (RTL) sent listing 2/6. 12,657 SF ground floor + 722 SF lower level. $90 PSF + $13.5 PSF NNN = ~$1.31M/year. No engagement yet. | *2026-02-08* |
 | **4646 Dubai Way Frisco TX 75034** | TX | 🟡 Screening complete, awaiting response from broker | *2026-01-28 19:04* |
 | **2701 Valley View Ln Farmers Branch TX 75234** | TX | 🟢 Followed up 2/4 to confirm availability. Property meets all of our needs. | *2026-02-04* |
 | **4525 Lemmon Ave Dallas TX 75219** | TX | 🟡 Screening complete, awaiting review | *2026-01-28 19:04* |
 | **8618 Fenton St Silver Spring MD 20910** | MD | 🟡 Waiting on response. Follow up sent. | *2026-02-04* |
+| **44 Woods Ln, East Hampton, NY** | NY | 🟡 Jake Kelly (Serhant) flagged East Hampton Jewish Center as Hamptons summer camp target 2/6. Director willing to connect. No engagement yet. | *2026-02-08* |
 | **Stony Brook University Southampton Campus (Summer Camp)** | NY | 🟡 Initial outreach sent. Awaiting response for exploratory discussions. | *2026-02-05* |
 | **Le Mans NYC** | NY | 🟡 Screening complete, awaiting review | *2026-01-28 19:04* |
 | **180 Maiden Lane New York NY** | NY | 🟢 Alpha School operating | *2026-01-28 19:04* |
@@ -97,14 +101,14 @@
 | Stage 4: Handoff to Ops | 0 |
 | Stage 3: Lease Ready | 4 |
 | Stage 2: Lease Negotiations | 10 |
-| Stage 1: LOI In Progress | 3 |
+| Stage 1: LOI In Progress | 5 |
 | Stage 0.5: Due Diligence | 5 |
-| Stage 0: Tracking | 18 |
+| Stage 0: Tracking | 20 |
 | Lease Signed (Ops) | 11 |
 
-**Total Active Deals: 40**
+**Total Active Deals: 44**
 **Total Finalized: 11**
 
 ---
 
-*Auto-generated from Zacks-Scratchpad on 2026-02-07*
+*Auto-generated from Zacks-Scratchpad on 2026-02-08*
