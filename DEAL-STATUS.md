@@ -5,93 +5,93 @@
 
 ## PIPELINE BY STAGE
 
-### **STAGE 3: LEASE READY FOR EXECUTION**
+### **STAGE 3: FINAL LEASE** (4)
 
-| Property | State | Status | Last Updated |
-|----------|-------|--------|--------------|
-| **2200 NW 5th Ave Boca Raton FL** | FL | 🟢 Non-refundable $33k deposit executed 2/6. Wire kicked off with Finance for 2/9. Lease must be executed by 2/20. Ops has 2-week extension for inspections. | *2026-02-07* |
-| **2000 Woodlands Pkwy The Woodlands TX** | TX | 🟡 Zack in conversation with Bill Ackman's Chief of Staff (John Saxon) on 10% tuition discount for Howard Hughes Corp employees. Pushed to Neeraj 2/4, waiting response. Already said no 2x but they keep pushing. | *2026-02-07* |
-| **1750 Rufe Snow Dr Keller TX** | TX | 🟢 Confirming exit language from CIO (Neeraj) for foundation/structure. Owner Christine confirming. Lease out for signature 2/4 or 2/5. Israe (Ops) handling utility transfer. | *2026-02-08* |
-| **838 SW 1st St Portland OR** | OR | 🟢 Ownership reviewing lease - looks good. Kris Vogt (NAI Elliott) excited about progress — "Look forward to hearing from you Thursday!" (2/4) | *2026-02-07* |
+| Property | Status | Last Updated |
+|----------|--------|--------------|
+| **1750 Rufe Snow Dr Keller TX** | 🟢 Confirming exit language from CIO (Neeraj) for foundation/structure. Owner Christine confirming. Lease out for sign... | *2026-02-08* |
+| **2000 Woodlands Pkwy The Woodlands TX** | 🟡 Zack in conversation with Bill Ackman's Chief of Staff (John Saxon) on 10% tuition discount for Howard Hughes Corp ... | *2026-02-07* |
+| **2200 NW 5th Ave Boca Raton FL** | 🟢 Non-refundable $33k deposit executed 2/6. Wire kicked off with Finance for 2/9. Lease must be executed by 2/20. Ops... | *2026-02-07* |
+| **838 SW 1st St Portland OR** | 🟢 Ownership reviewing lease - looks good. Kris Vogt (NAI Elliott) excited about progress — "Look forward to hearing f... | *2026-02-07* |
 
-### **STAGE 2: LEASE NEGOTIATIONS**
+### **STAGE 2: LEASE NEGOTIATIONS** (10)
 
-| Property | State | Status | Last Updated |
-|----------|-------|--------|--------------|
-| **1128 Harmon Pl Minneapolis MN** | MN | 🟡 Lease on existing space can be easily adapted for new unit we will be taking as opposed to old unit. | *2026-02-07* |
-| **7979 Ivanhoe Ave La Jolla CA** | CA | 🟢 Counter proposal received and executed. Being sent back to landlord 2/4. Operations kicked off deeper review. Need to confirm zoning as it is an existing school, but they have a CUP that expires end of 2027 and we just need to make sure we can still run a school in that space after that. | *2026-02-07* |
-| **123 Washington St Norwalk CT 06854** | CT | 🟢 Received countersigned LOI on 2/6/26. Matterport done. Introduction between landlord (Nathan Wilson, AGW Partners) and Robbie Forrest from Operations made. Lease is being drafted. NDA is currently under Landlord review, as they would like to see financials. | *2026-02-07* |
-| **445 N Wymore Rd, Winter Park, FL 32789** | FL | 🟡 Updated LOI Received — Zack executed the LOI and sent back for countersignature from Landlord on 2/5/26. | *2026-02-03 11:30* |
-| **5625 Schumacher Ln Houston TX 77057** | TX | 🟢 LOI executed. Matterport complete (Digital Twin ready as of 2/5). | *2026-02-07* |
-| **McGarrah Jesse Building Austin TX (Austin 250)** | TX | 🟡 Neeraj waiting on CO2 extension decision from current landlord, then will make decision on 121 W 6th. Need decision by 2/11, if possible. | *2026-02-09* |
-| **7514 Wisconsin Ave, Bethesda, MD 20814** | MD | 🟢 LOI Signed — Pending Execution | *2026-02-03 11:30* |
-| **156 William St New York NY** | NY | 🟢 LOI signed. Operations beginning paperwork for preschool registration in NY. Awaiting countersigned LOI and draft of lease. | *2026-02-07* |
-| **350 E South Water St Chicago IL** | IL | 🟢 LOI executed. Operations working through diligence. Neeraj working on financing and purchase agreement. | *2026-02-07* |
-| **307 Southgate Ct Brentwood TN** | TN | 🟢 LOI signed Jan 8. Redlines with attorneys. Zack met onsite 2/3.  | *2026-02-04* |
+| Property | Status | Last Updated |
+|----------|--------|--------------|
+| **1128 Harmon Pl Minneapolis MN** | 🟡 Lease on existing space can be easily adapted for new unit we will be taking as opposed to old unit. | *2026-02-07* |
+| **123 Washington St Norwalk CT 06854** | 🟢 Received countersigned LOI on 2/6/26. Matterport done. Introduction between landlord (Nathan Wilson, AGW Partners) ... | *2026-02-07* |
+| **156 William St New York NY** | 🟢 LOI signed. Operations beginning paperwork for preschool registration in NY. Awaiting countersigned LOI and draft o... | *2026-02-07* |
+| **307 Southgate Ct Brentwood TN** | 🟢 LOI signed Jan 8. Redlines with attorneys. Zack met onsite 2/3. | *2026-02-04* |
+| **350 E South Water St Chicago IL** | 🟢 LOI executed. Operations working through diligence. Neeraj working on financing and purchase agreement. | *2026-02-07* |
+| **445 N Wymore Rd, Winter Park, FL 32789** | 🟡 Updated LOI Received — Zack executed the LOI and sent back for countersignature from Landlord on 2/5/26. | *2026-02-03* |
+| **5625 Schumacher Ln Houston TX 77057** | 🟢 LOI executed. Matterport complete (Digital Twin ready as of 2/5). | *2026-02-07* |
+| **7514 Wisconsin Ave, Bethesda, MD 20814** | 🟢 LOI Signed — Pending Execution | *2026-02-03* |
+| **7979 Ivanhoe Ave La Jolla CA** | 🟢 Counter proposal received and executed. Being sent back to landlord 2/4. Operations kicked off deeper review. Need ... | *2026-02-07* |
+| **McGarrah Jesse Building Austin TX (Austin 250)** | 🟡 Neeraj waiting on CO2 extension decision from current landlord, then will make decision on 121 W 6th. Need decision... | *2026-02-09* |
 
-### **STAGE 1: LOI IN PROGRESS**
+### **STAGE 1: LOI IN PROGRESS** (6)
 
-| Property | State | Status | Last Updated |
-|----------|-------|--------|--------------|
-| **1 Beach St, San Francisco, CA** | CA | 🟡 Zack sent LOI to Neeraj for approval 2/6. Neeraj: "I need and will ask for Joe approval." Awaiting Joe sign-off before LOI goes to landlord. Need to get executed by EOD 2/9/26 to keep this possibility.  | *2026-02-08* |
-| **Coconut Grove, Miami, FL (Allen Morris Development)** | FL | 🟡 AMCO term sheet received 2/5. Two scenarios offered (AMCO has no preference): | *2026-02-09* |
-| **2925 Riverglen Dr, Fort Worth, TX 76109** | TX | 🟡 RFP sent via JLL (John Davidson). $37.50/SF NNN + $10 NNN ($47.50/SF all-in). 27,411 SF full building. 10-year term + 2x5yr renewals. 2.75% annual escalations. 5 months free rent. Year 7: $2.2M break option. Developer coming back end of week with next steps. Commencement target Sept 1, 2027. | *2026-02-09* |
-| **511 W 25th St New York NY** | NY | 🟡 Counter redlines in progress. "Ironworks" building. Zack shared with Neeraj 2/9 — need Neeraj/Andy review/approval to move forward. Target 2/13 to send back to landlord. Year 15: $16M break fee. | *2026-02-09* |
-| **Ross School - Bridgehampton NY (Summer Camp)** | NY | 🟢 Formal offer submitted. Under review by Ross School Board of Directors. Decision expected within one week. | *2026-02-05* |
-| **10220 NE Points Dr Kirkland WA 98033** | WA | 🟡 Former University of Washington location identified. Suite 100. | *2026-02-07* |
+| Property | Status | Last Updated |
+|----------|--------|--------------|
+| **1 Beach St, San Francisco, CA** | 🟡 Zack sent LOI to Neeraj for approval 2/6. Neeraj: "I need and will ask for Joe approval." Awaiting Joe sign-off bef... | *2026-02-08* |
+| **10220 NE Points Dr Kirkland WA 98033** | 🟡 Former University of Washington location identified. Suite 100. | *2026-02-07* |
+| **2925 Riverglen Dr, Fort Worth, TX 76109** | 🟡 RFP sent via JLL (John Davidson). $37.50/SF NNN + $10 NNN ($47.50/SF all-in). 27,411 SF full building. 10-year term... | *2026-02-09* |
+| **511 W 25th St New York NY** | 🟡 Counter redlines in progress. "Ironworks" building. Zack shared with Neeraj 2/9 — need Neeraj/Andy review/approval ... | *2026-02-09* |
+| **Coconut Grove, Miami, FL (Allen Morris Development)** | 🟡 AMCO term sheet received 2/5. Two scenarios offered (AMCO has no preference): | *2026-02-09* |
+| **Ross School - Bridgehampton NY (Summer Camp)** | 🟢 Formal offer submitted. Under review by Ross School Board of Directors. Decision expected within one week. | *2026-02-05* |
 
-### **STAGE 0.5: ACTIVE DUE DILIGENCE**
+### **STAGE 0.5: ACTIVE DUE DILIGENCE** (5)
 
-| Property | State | Status | Last Updated |
-|----------|-------|--------|--------------|
-| **212 Elm St, Somerville, MA 02144** | MA | New site from Rags and Tatiana Gupta. Zack met with the agent on 2/6/26 and agent will be touring the property on Monday or Tuesday to send more information. Also going to take pictures and get us an LOI. He already spoke with building ownership and they are open to leasing to a school. | *2026-02-07* |
-| **17785 N Pacesetter Way Scottsdale AZ 85255** | AZ | 🟡 No longer a lease — now pursuing as a BUY opportunity. Listed at $6.3M, JLL believes achievable at or just below $6M. Waiting on market comps from JLL. Will share with Neeraj and Andy when received. | *2026-02-09* |
-| **775 Columbus Ave New York NY** | NY | 🟡 Neeraj and Andy want to keep this alive — believe it's still a good option. Waiting on Tasha's assessment: can she fill enrollment and hire guides in time, or combination of both. Ideally moving forward. Do NOT tell owner we are passing — hold. As of 2/7/26 | *2026-02-07* |
-| **Hayground School - Bridgehampton NY (Summer Camp)** | NY | 🟡 Preliminary discussions indicate openness to simultaneous operation. Issue: shared space, not exclusive use we desire. | *2026-02-05* |
-| **The Racquet Lounge - Southampton NY (Summer Camp)** | NY | 🟡 Active discussions. Meeting with ownership scheduled for today (2/5). | *2026-02-05* |
+| Property | Status | Last Updated |
+|----------|--------|--------------|
+| **17785 N Pacesetter Way Scottsdale AZ 85255** | 🟡 No longer a lease — now pursuing as a BUY opportunity. Listed at $6.3M, JLL believes achievable at or just below $6... | *2026-02-09* |
+| **212 Elm St, Somerville, MA 02144** | New site from Rags and Tatiana Gupta. Zack met with the agent on 2/6/26 and agent will be touring the property on Mon... | *2026-02-07* |
+| **775 Columbus Ave New York NY** | 🟡 Neeraj and Andy want to keep this alive — believe it's still a good option. Waiting on Tasha's assessment: can she ... | *2026-02-07* |
+| **Hayground School - Bridgehampton NY (Summer Camp)** | 🟡 Preliminary discussions indicate openness to simultaneous operation. Issue: shared space, not exclusive use we desire. | *2026-02-05* |
+| **The Racquet Lounge - Southampton NY (Summer Camp)** | 🟡 Active discussions. Meeting with ownership scheduled for today (2/5). | *2026-02-05* |
 
-### **STAGE 0: IDENTIFIED / TRACKING**
+### **STAGE 0: IDENTIFIED / TRACKING** (20)
 
-| Property | State | Status | Last Updated |
-|----------|-------|--------|--------------|
-| **210 Little Falls St Falls Church VA 22046** | VA | 🟢 GREAT - Across from City Hall | *2026-01-28 19:04* |
-| **Bozeman MT TBD** | MT | 🟡 Site selection in progress with parent funding secured by Brannin McBee | *2026-01-28 19:04* |
-| **31 Waltham St Lexington MA 02421** | MA | 🟡 Follow up sent. No response yet. Perfect potential site for us. | *2026-02-04* |
-| **Massachusetts Hall, Cambridge, MA 02138** | MA | New site identified — Harvard University | *2026-02-07* |
-| **130 Arsenal Yards Blvd, Watertown, MA 02472** | MA | Parent led initiative: Rags and Tatiana Gupta  | *2026-02-07* |
-| **33722 Woodward Ave Birmingham MI 48009** | MI | 🟡 Screening complete, awaiting review | *2026-01-28 19:04* |
-| **1869 E Maple Rd Troy MI 48083** | MI | 🟡 Screening complete, awaiting review | *2026-01-28 19:04* |
-| **OKC TBD** | OK | 🟡 Screening complete, awaiting review | *2026-01-28 19:04* |
-| **461 W 9th St San Pedro CA** | CA | 🟢 GREAT — Strategic South Bay overflow location | *2026-01-29* |
-| **2751 Colorado Blvd Los Angeles CA 90041** | CA | 🟡 Screening complete, awaiting review | *2026-01-28 19:04* |
-| **20 E Elm St, Greenwich, CT** | CT | 🟡 12,657 SF ground floor + 722 SF lower level. $90 PSF + $13.5 PSF NNN = ~$1.31M/year.  | *2026-02-08* |
-| **4646 Dubai Way Frisco TX 75034** | TX | 🟡 Conversation in progress with the broker. Trying to understand how the overall site could be broken up to allow us to have a smaller footprint in the building. | *2026-01-28 19:04* |
-| **2701 Valley View Ln Farmers Branch TX 75234** | TX | 🟢 Followed up 2/4 to confirm availability. Property meets all of our needs. | *2026-02-04* |
-| **4525 Lemmon Ave Dallas TX 75219** | TX | 🟡 Screening complete, awaiting review | *2026-01-28 19:04* |
-| **8618 Fenton St Silver Spring MD 20910** | MD | 🟡 Waiting on response. Follow up sent. | *2026-02-04* |
-| **44 Woods Ln, East Hampton, NY** | NY | 🟡 Jake Kelly (Serhant) flagged East Hampton Jewish Center as Hamptons summer camp target 2/6. Director willing to connect. No engagement yet. | *2026-02-08* |
-| **Stony Brook University Southampton Campus (Summer Camp)** | NY | 🟡 Initial outreach sent. Awaiting response for exploratory discussions. | *2026-02-05* |
-| **Le Mans NYC** | NY | 🟡 Screening complete, awaiting review | *2026-01-28 19:04* |
-| **180 Maiden Lane New York NY** | NY | 🟢 Alpha School operating | *2026-01-28 19:04* |
-| **209 10th Ave S Nashville TN (Cummins Station)** | TN | 🟡 Under evaluation - multiple options, alcohol licensing concerns | *2026-01-28* |
+| Property | Status | Last Updated |
+|----------|--------|--------------|
+| **130 Arsenal Yards Blvd, Watertown, MA 02472** | Parent led initiative: Rags and Tatiana Gupta | *2026-02-07* |
+| **180 Maiden Lane New York NY** | 🟢 Alpha School operating | *2026-01-28* |
+| **1869 E Maple Rd Troy MI 48083** | 🟡 Screening complete, awaiting review | *2026-01-28* |
+| **20 E Elm St, Greenwich, CT** | 🟡 12,657 SF ground floor + 722 SF lower level. $90 PSF + $13.5 PSF NNN = ~$1.31M/year. | *2026-02-08* |
+| **209 10th Ave S Nashville TN (Cummins Station)** | 🟡 Under evaluation - multiple options, alcohol licensing concerns | *2026-01-28* |
+| **210 Little Falls St Falls Church VA 22046** | 🟢 GREAT - Across from City Hall | *2026-01-28* |
+| **2701 Valley View Ln Farmers Branch TX 75234** | 🟢 Followed up 2/4 to confirm availability. Property meets all of our needs. | *2026-02-04* |
+| **2751 Colorado Blvd Los Angeles CA 90041** | 🟡 Screening complete, awaiting review | *2026-01-28* |
+| **31 Waltham St Lexington MA 02421** | 🟡 Follow up sent. No response yet. Perfect potential site for us. | *2026-02-04* |
+| **33722 Woodward Ave Birmingham MI 48009** | 🟡 Screening complete, awaiting review | *2026-01-28* |
+| **44 Woods Ln, East Hampton, NY** | 🟡 Jake Kelly (Serhant) flagged East Hampton Jewish Center as Hamptons summer camp target 2/6. Director willing to con... | *2026-02-08* |
+| **4525 Lemmon Ave Dallas TX 75219** | 🟡 Screening complete, awaiting review | *2026-01-28* |
+| **461 W 9th St San Pedro CA** | 🟢 GREAT — Strategic South Bay overflow location | *2026-01-29* |
+| **4646 Dubai Way Frisco TX 75034** | 🟡 Conversation in progress with the broker. Trying to understand how the overall site could be broken up to allow us ... | *2026-01-28* |
+| **8618 Fenton St Silver Spring MD 20910** | 🟡 Waiting on response. Follow up sent. | *2026-02-04* |
+| **Bozeman MT TBD** | 🟡 Site selection in progress with parent funding secured by Brannin McBee | *2026-01-28* |
+| **Massachusetts Hall, Cambridge, MA 02138** | New site identified — Harvard University | *2026-02-07* |
+| **Le Mans NYC** | 🟡 Screening complete, awaiting review | *2026-01-28* |
+| **OKC TBD** | 🟡 Screening complete, awaiting review | *2026-01-28* |
+| **Stony Brook University Southampton Campus (Summer Camp)** | 🟡 Initial outreach sent. Awaiting response for exploratory discussions. | *2026-02-05* |
 
 ---
 
-## LEASE SIGNED — OPS HANDOFF
+## OPERATIONAL (11)
 
-| Property | State | Status | Last Updated |
-|----------|-------|--------|--------------|
-| **1169 Canton St, Roswell, GA 30075** | GA | Lease Signed 10/28/25 | *2026-01-28* |
-| **300 Cambridge St, Boston, MA 02114** | MA | Lease Signed 11/28/25 | *2026-01-28* |
-| **3002 Main St, Santa Monica, CA 90405** | CA | Lease Signed 10/27/25 | *2026-01-28* |
-| **4260 El Camino Real, Palo Alto, CA 94306** | CA | Lease Signed 10/22/25 | *2026-01-28* |
-| **3741 Buchanan St, San Francisco, CA 94123** | CA | Lease Signed 7/15/25 | *2026-01-28* |
-| **5201 Park Blvd, Piedmont, CA 94611** | CA | Lease Signed 10/23/25 | *2026-01-28* |
-| **27 East Cota St, Santa Barbara, CA 93101** | CA | Lease Signed 7/21/25 | *2026-01-28* |
-| **5100 N Dixie Hwy, Fort Lauderdale, FL 33308** | FL | Lease Signed 2/4/26 | *2026-02-07* |
-| **5252 Ehrlich Rd, Tampa, FL 33624** | FL | Lease Signed 7/22/25 | *2026-01-28* |
-| **3300 Bryant Irvin Rd, Fort Worth, TX 76109** | TX | Lease Signed 1/29/25 | *2026-01-28* |
-| **Plaza del Mar Shopping Center, 138 PR-693, Dorado, PR** | PR | Lease Signed 11/27/25 | *2026-01-28* |
+| Property | Status | Last Updated |
+|----------|--------|--------------|
+| **1169 Canton St, Roswell, GA 30075** | Lease signed — operational | *2026-01-28* |
+| **27 East Cota St, Santa Barbara, CA 93101** | Lease signed — operational | *2026-01-28* |
+| **300 Cambridge St, Boston, MA 02114** | Lease signed — operational | *2026-01-28* |
+| **3002 Main St, Santa Monica, CA 90405** | Lease signed — operational | *2026-01-28* |
+| **3300 Bryant Irvin Rd, Fort Worth, TX 76109** | Lease signed — operational | *2026-01-28* |
+| **3741 Buchanan St, San Francisco, CA 94123** | Lease signed — operational | *2026-01-28* |
+| **4260 El Camino Real, Palo Alto, CA 94306** | Lease signed — operational | *2026-01-28* |
+| **5100 N Dixie Hwy, Fort Lauderdale, FL 33308** | Lease signed — operational | *2026-02-07* |
+| **5201 Park Blvd, Piedmont, CA 94611** | Lease signed — operational | *2026-01-28* |
+| **5252 Ehrlich Rd, Tampa, FL 33624** | Lease signed — operational | *2026-01-28* |
+| **Plaza del Mar Shopping Center, 138 PR-693, Dorado, PR** | Lease signed — operational | *2026-01-28* |
 
 ---
 
@@ -100,16 +100,18 @@
 | Stage | Count |
 |-------|-------|
 | Stage 4: Handoff to Ops | 0 |
-| Stage 3: Lease Ready | 4 |
+| Stage 3: Final Lease | 4 |
 | Stage 2: Lease Negotiations | 10 |
 | Stage 1: LOI In Progress | 6 |
 | Stage 0.5: Due Diligence | 5 |
 | Stage 0: Tracking | 20 |
-| Lease Signed (Ops) | 11 |
+| Operational | 11 |
+| Dead | 25 |
 
 **Total Active Deals: 45**
-**Total Finalized: 11**
+**Total Operational: 11**
+**Total Dead: 25**
 
 ---
 
-*Auto-generated from Zacks-Scratchpad on 2026-02-09*
+*Auto-generated from Pipeline/ on 2026-02-09*
