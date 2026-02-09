@@ -1,5 +1,5 @@
 # Alpha Real Estate — Master Deal Status
-**Auto-generated:** February 8, 2026 | **For:** Leadership Review
+**Auto-generated:** February 9, 2026 | **For:** Leadership Review
 
 ---
 
@@ -23,7 +23,7 @@
 | **123 Washington St Norwalk CT 06854** | CT | 🟢 Received countersigned LOI on 2/6/26. Matterport done. Introduction between landlord (Nathan Wilson, AGW Partners) and Robbie Forrest from Operations made. Lease is being drafted. NDA is currently under Landlord review, as they would like to see financials. | *2026-02-07* |
 | **445 N Wymore Rd, Winter Park, FL 32789** | FL | 🟡 Updated LOI Received — Zack executed the LOI and sent back for countersignature from Landlord on 2/5/26. | *2026-02-03 11:30* |
 | **5625 Schumacher Ln Houston TX 77057** | TX | 🟢 LOI executed. Matterport complete (Digital Twin ready as of 2/5). | *2026-02-07* |
-| **McGarrah Jesse Building Austin TX (Austin 250)** | TX | 🟡 Decision needed by end of week - two options being presented to Neeraj | *2026-01-28* |
+| **McGarrah Jesse Building Austin TX (Austin 250)** | TX | 🟡 Neeraj waiting on CO2 extension decision from current landlord, then will make decision on 121 W 6th. Need decision by 2/11, if possible. | *2026-02-09* |
 | **7514 Wisconsin Ave, Bethesda, MD 20814** | MD | 🟢 LOI Signed — Pending Execution | *2026-02-03 11:30* |
 | **156 William St New York NY** | NY | 🟢 LOI signed. Operations beginning paperwork for preschool registration in NY. Awaiting countersigned LOI and draft of lease. | *2026-02-07* |
 | **350 E South Water St Chicago IL** | IL | 🟢 LOI executed. Operations working through diligence. Neeraj working on financing and purchase agreement. | *2026-02-07* |
@@ -34,8 +34,9 @@
 | Property | State | Status | Last Updated |
 |----------|-------|--------|--------------|
 | **1 Beach St, San Francisco, CA** | CA | 🟡 Zack sent LOI to Neeraj for approval 2/6. Neeraj: "I need and will ask for Joe approval." Awaiting Joe sign-off before LOI goes to landlord. Need to get executed by EOD 2/9/26 to keep this possibility.  | *2026-02-08* |
-| **Coconut Grove, Miami, FL (Allen Morris Development)** | FL | 🟡 Allen Morris Company (Harley Mayoff) sent revised term sheet 2/5. Pricing for Joe: ~$115 PSF/yr for both 75K and 25K SF options, 10% increases every 5 years, 6-8 months free rent, landlord build-to-suit, 30-year lease with 15-year termination option (repay LL termination fee). Awaiting Joe/leadership decision. | *2026-02-08* |
-| **511 W 25th St New York NY** | NY | 🟡 Proposal redlines in progress. "Ironworks" building. | *2026-02-07* |
+| **Coconut Grove, Miami, FL (Allen Morris Development)** | FL | 🟡 AMCO term sheet received 2/5. Two scenarios offered (AMCO has no preference): | *2026-02-09* |
+| **2925 Riverglen Dr, Fort Worth, TX 76109** | TX | 🟡 RFP sent via JLL (John Davidson). $37.50/SF NNN + $10 NNN ($47.50/SF all-in). 27,411 SF full building. 10-year term + 2x5yr renewals. 2.75% annual escalations. 5 months free rent. Year 7: $2.2M break option. Developer coming back end of week with next steps. Commencement target Sept 1, 2027. | *2026-02-09* |
+| **511 W 25th St New York NY** | NY | 🟡 Counter redlines in progress. "Ironworks" building. Zack shared with Neeraj 2/9 — need Neeraj/Andy review/approval to move forward. Target 2/13 to send back to landlord. Year 15: $16M break fee. | *2026-02-09* |
 | **Ross School - Bridgehampton NY (Summer Camp)** | NY | 🟢 Formal offer submitted. Under review by Ross School Board of Directors. Decision expected within one week. | *2026-02-05* |
 | **10220 NE Points Dr Kirkland WA 98033** | WA | 🟡 Former University of Washington location identified. Suite 100. | *2026-02-07* |
 
@@ -44,7 +45,7 @@
 | Property | State | Status | Last Updated |
 |----------|-------|--------|--------------|
 | **212 Elm St, Somerville, MA 02144** | MA | New site from Rags and Tatiana Gupta. Zack met with the agent on 2/6/26 and agent will be touring the property on Monday or Tuesday to send more information. Also going to take pictures and get us an LOI. He already spoke with building ownership and they are open to leasing to a school. | *2026-02-07* |
-| **17785 N Pacesetter Way Scottsdale AZ 85255** | AZ | 🟡 Zack sent proposal to Andy & Neeraj 2/4 for buy decision. Awaiting their direction.  | *2026-02-04* |
+| **17785 N Pacesetter Way Scottsdale AZ 85255** | AZ | 🟡 No longer a lease — now pursuing as a BUY opportunity. Listed at $6.3M, JLL believes achievable at or just below $6M. Waiting on market comps from JLL. Will share with Neeraj and Andy when received. | *2026-02-09* |
 | **775 Columbus Ave New York NY** | NY | 🟡 Neeraj and Andy want to keep this alive — believe it's still a good option. Waiting on Tasha's assessment: can she fill enrollment and hire guides in time, or combination of both. Ideally moving forward. Do NOT tell owner we are passing — hold. As of 2/7/26 | *2026-02-07* |
 | **Hayground School - Bridgehampton NY (Summer Camp)** | NY | 🟡 Preliminary discussions indicate openness to simultaneous operation. Issue: shared space, not exclusive use we desire. | *2026-02-05* |
 | **The Racquet Lounge - Southampton NY (Summer Camp)** | NY | 🟡 Active discussions. Meeting with ownership scheduled for today (2/5). | *2026-02-05* |
@@ -101,14 +102,14 @@
 | Stage 4: Handoff to Ops | 0 |
 | Stage 3: Lease Ready | 4 |
 | Stage 2: Lease Negotiations | 10 |
-| Stage 1: LOI In Progress | 5 |
+| Stage 1: LOI In Progress | 6 |
 | Stage 0.5: Due Diligence | 5 |
 | Stage 0: Tracking | 20 |
 | Lease Signed (Ops) | 11 |
 
-**Total Active Deals: 44**
+**Total Active Deals: 45**
 **Total Finalized: 11**
 
 ---
 
-*Auto-generated from Zacks-Scratchpad on 2026-02-08*
+*Auto-generated from Zacks-Scratchpad on 2026-02-09*
