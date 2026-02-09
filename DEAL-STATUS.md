@@ -37,7 +37,7 @@
 | **10220 NE Points Dr Kirkland WA 98033** | 🟡 Former University of Washington location identified. Suite 100. | *2026-02-07* |
 | **2925 Riverglen Dr, Fort Worth, TX 76109** | 🟡 RFP sent via JLL (John Davidson). $37.50/SF NNN + $10 NNN ($47.50/SF all-in). 27,411 SF full building. 10-year term... | *2026-02-09* |
 | **511 W 25th St New York NY** | 🟡 Counter redlines in progress. "Ironworks" building. Zack shared with Neeraj 2/9 — need Neeraj/Andy review/approval ... | *2026-02-09* |
-| **Coconut Grove, Miami, FL (Allen Morris Development)** | 🟡 AMCO term sheet received 2/5. Two scenarios offered (AMCO has no preference): | *2026-02-09* |
+| **Coconut Grove, Miami, FL (Allen Morris Development)** | 🟡 AMCO term sheet received 2/5. Two scenarios offered (AMCO has no preference). Ross reviewing, Harley followed up 2/... | *2026-02-09* |
 | **Ross School - Bridgehampton NY (Summer Camp)** | 🟢 Formal offer submitted. Under review by Ross School Board of Directors. Decision expected within one week. | *2026-02-05* |
 
 ### **STAGE 0.5: ACTIVE DUE DILIGENCE** (5)
