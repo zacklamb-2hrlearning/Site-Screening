@@ -29,7 +29,7 @@
 | **7979 Ivanhoe Ave La Jolla CA** | 🟢 Counter proposal received and executed. Being sent back to landlord 2/4. Operations kicked off deeper review. Need ... | *2026-02-07* |
 | **McGarrah Jesse Building Austin TX (Austin 250)** | 🟡 Neeraj waiting on CO2 extension decision from current landlord, then will make decision on 121 W 6th. Need decision... | *2026-02-09* |
 
-### **STAGE 1: LOI IN PROGRESS** (6)
+### **STAGE 1: LOI IN PROGRESS** (7)
 
 | Property | Status | Last Updated |
 |----------|--------|--------------|
@@ -37,6 +37,7 @@
 | **10220 NE Points Dr Kirkland WA 98033** | 🟡 Former University of Washington location identified. Suite 100. | *2026-02-07* |
 | **2925 Riverglen Dr, Fort Worth, TX 76109** | 🟡 RFP sent via JLL (John Davidson). $37.50/SF NNN + $10 NNN ($47.50/SF all-in). 27,411 SF full building. 10-year term... | *2026-02-09* |
 | **511 W 25th St New York NY** | 🟡 Counter redlines in progress. "Ironworks" building. Zack shared with Neeraj 2/9 — need Neeraj/Andy review/approval ... | *2026-02-09* |
+| **600-614 Chapala St, Santa Barbara, CA 93101** | 🟡 LL response received 2/2/26. Tenant redline in progress. Two standalone buildings (former Sonos HQ). ~1 block from ... | *2026-02-09* |
 | **Coconut Grove, Miami, FL (Allen Morris Development)** | 🟡 AMCO term sheet received 2/5. Two scenarios offered (AMCO has no preference). Ross reviewing, Harley followed up 2/... | *2026-02-09* |
 | **Ross School - Bridgehampton NY (Summer Camp)** | 🟢 Formal offer submitted. Under review by Ross School Board of Directors. Decision expected within one week. | *2026-02-05* |
 
@@ -102,13 +103,13 @@
 | Stage 4: Handoff to Ops | 0 |
 | Stage 3: Final Lease | 4 |
 | Stage 2: Lease Negotiations | 10 |
-| Stage 1: LOI In Progress | 6 |
+| Stage 1: LOI In Progress | 7 |
 | Stage 0.5: Due Diligence | 5 |
 | Stage 0: Tracking | 20 |
 | Operational | 11 |
 | Dead | 25 |
 
-**Total Active Deals: 45**
+**Total Active Deals: 46**
 **Total Operational: 11**
 **Total Dead: 25**
 
