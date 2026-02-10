@@ -34,7 +34,7 @@
 | Property | Status | Last Updated |
 |----------|--------|--------------|
 | **1 Beach St, San Francisco, CA** | 🟡 Zack sent LOI to Neeraj for approval 2/6. Neeraj: "I need and will ask for Joe approval." Awaiting Joe sign-off bef... | *2026-02-08* |
-| **10220 NE Points Dr Kirkland WA 98033** | 🟡 Former University of Washington location identified. Suite 100. | *2026-02-10* |
+| **10220 NE Points Dr Kirkland WA 98033** | 🟡 Former University of Washington location identified. Suite 100. | *2026-02-07* |
 | **2925 Riverglen Dr, Fort Worth, TX 76109** | 🟡 RFP sent via JLL (John Davidson). $37.50/SF NNN + $10 NNN ($47.50/SF all-in). 27,411 SF full building. 10-year term... | *2026-02-09* |
 | **511 W 25th St New York NY** | 🟡 Counter redlines in progress. "Ironworks" building. Zack shared with Neeraj 2/9 — need Neeraj/Andy review/approval ... | *2026-02-09* |
 | **600-614 Chapala St, Santa Barbara, CA 93101** | 🟡 LL response received 2/2/26. Tenant redline in progress. Two standalone buildings (former Sonos HQ). ~1 block from ... | *2026-02-09* |
@@ -52,12 +52,11 @@
 | **Hayground School - Bridgehampton NY (Summer Camp)** | 🟡 Preliminary discussions indicate openness to simultaneous operation. Issue: shared space, not exclusive use we desire. | *2026-02-05* |
 | **The Racquet Lounge - Southampton NY (Summer Camp)** | 🟡 Active discussions. Meeting with ownership scheduled for today (2/5). | *2026-02-05* |
 
-### **STAGE 0: IDENTIFIED / TRACKING** (20)
+### **STAGE 0: IDENTIFIED / TRACKING** (19)
 
 | Property | Status | Last Updated |
 |----------|--------|--------------|
 | **130 Arsenal Yards Blvd, Watertown, MA 02472** | Parent led initiative: Rags and Tatiana Gupta | *2026-02-07* |
-| **180 Maiden Lane New York NY** | 🟢 Alpha School operating | *2026-01-28* |
 | **1869 E Maple Rd Troy MI 48083** | 🟡 Screening complete, awaiting review | *2026-01-28* |
 | **20 E Elm St, Greenwich, CT** | 🟡 12,657 SF ground floor + 722 SF lower level. $90 PSF + $13.5 PSF NNN = ~$1.31M/year. | *2026-02-08* |
 | **209 10th Ave S Nashville TN (Cummins Station)** | 🟡 Under evaluation - multiple options, alcohol licensing concerns | *2026-01-28* |
@@ -79,11 +78,12 @@
 
 ---
 
-## OPERATIONAL (11)
+## OPERATIONAL (12)
 
 | Property | Status | Last Updated |
 |----------|--------|--------------|
 | **1169 Canton St, Roswell, GA 30075** | Lease signed — operational | *2026-01-28* |
+| **180 Maiden Lane New York NY** | 🟢 Alpha School operating | *2026-02-10* |
 | **27 East Cota St, Santa Barbara, CA 93101** | Lease signed — operational | *2026-01-28* |
 | **300 Cambridge St, Boston, MA 02114** | Lease signed — operational | *2026-01-28* |
 | **3002 Main St, Santa Monica, CA 90405** | Lease signed — operational | *2026-01-28* |
@@ -106,12 +106,12 @@
 | Stage 2: Lease Negotiations | 10 |
 | Stage 1: LOI In Progress | 7 |
 | Stage 0.5: Due Diligence | 6 |
-| Stage 0: Tracking | 20 |
-| Operational | 11 |
+| Stage 0: Tracking | 19 |
+| Operational | 12 |
 | Dead | 25 |
 
-**Total Active Deals: 47**
-**Total Operational: 11**
+**Total Active Deals: 46**
+**Total Operational: 12**
 **Total Dead: 25**
 
 ---
