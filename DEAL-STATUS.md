@@ -45,7 +45,7 @@
 
 | Property | Status | Last Updated |
 |----------|--------|--------------|
-| **17785 N Pacesetter Way Scottsdale AZ 85255** | 🟡 No longer a lease — now pursuing as a BUY opportunity. Listed at $6.3M, JLL believes achievable at or just below $6... | *2026-02-09* |
+| **17785 N Pacesetter Way Scottsdale AZ 85255** | 🟡 BUY opportunity. Listed at $6.3M. JLL (Keith Lammersen) suggests $5,999,999 offer to "stay in the game" — $300K red... | *2026-02-10* |
 | **212 Elm St, Somerville, MA 02144** | New site from Rags and Tatiana Gupta. Zack met with the agent on 2/6/26 and agent will be touring the property on Mon... | *2026-02-07* |
 | **6555 Dallas Pkwy, Frisco, TX 75034 — Pinnacle Montessori** | Zack is actively emailing with brokers. AV has cleared zoning/demographics. AI site screening complete. This is a FOR... | *2026-02-10* |
 | **775 Columbus Ave New York NY** | 🟡 Open go/no-go decision. Andy/Neeraj/leadership deciding whether to proceed or shut down. Need clear call so resourc... | *2026-02-10* |
