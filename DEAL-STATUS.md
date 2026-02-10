@@ -9,11 +9,11 @@
 
 | Property | Status | Last Updated |
 |----------|--------|--------------|
-| **1750 Rufe Snow Dr Keller TX** | 🟢 Lease sent, expected to be signed today (2/10). Some DocuSign confusion on landlord side. CRITICAL: Utilities must ... | *2026-02-10* |
+| **1750 Rufe Snow Dr Keller TX** | 🟢 Lease at DocuSign — Zack sent Andy the link. Texas entity creation approved by Neeraj and submitted by Tina Erales.... | *2026-02-10* |
 | **2000 Woodlands Pkwy The Woodlands TX** | 🟡 Open questions from landlord/ops remain. Neeraj and Zack need to sync on outstanding items and respond so deal can ... | *2026-02-10* |
 | **2200 NW 5th Ave Boca Raton FL** | 🟡 Two-week extension purchased on timeline. LIDAR scan underway to confirm as-built conditions and estimate floor pla... | *2026-02-10* |
 | **7979 Ivanhoe Ave La Jolla CA** | 🟢 LEASE RECEIVED. Michael Shkreli (RTL) sent the lease for 7979 Ivanhoe today. RTL went back to landlord with additio... | *2026-02-10* |
-| **838 SW 1st St Portland OR** | 🟢 Lease redlined — sewage/backflow language added by lawyers. Awaiting landlord review/approval. Zack targeting execu... | *2026-02-10* |
+| **838 SW 1st St Portland OR** | 🟢 Lease language finalized by Elissa Davis (SRD Legal) and approved by Zack. Going back to landlord now. NOTE: Robbie... | *2026-02-10* |
 
 ### **STAGE 2: LEASE NEGOTIATIONS** (10)
 
@@ -21,12 +21,12 @@
 |----------|--------|--------------|
 | **1 Beach St, San Francisco, CA** | 🟢 LOI EXECUTED. Ross Burack (RTL) added wording for free rent ("greater of 10 months"), Zack re-signed. LOI sent to l... | *2026-02-10* |
 | **1128 Harmon Pl Minneapolis MN** | 🟡 Landlord ready to move into leasing. Issue: Suite previously had bathroom — landlord removed it and walled off, but... | *2026-02-10* |
-| **123 Washington St Norwalk CT 06854** | 🟢 Confirmed first-floor suite. Countersigned LOI received 2/6. Matterport done. Setup coordinated with Robbie. Lease ... | *2026-02-10* |
+| **123 Washington St Norwalk CT 06854** | 🟢 Matterport and building inspection scheduled for Friday. Nathan Wilson (AGW) coordinating access. Andrea Ewalefo sc... | *2026-02-10* |
 | **156 William St New York NY** | 🟢 COUNTER PROPOSAL RECEIVED — Michael Shkreli (RTL) says it "looks good." Clean copy included. Zack to review. Also: ... | *2026-02-10* |
 | **307 Southgate Ct Brentwood TN** | 🟢 LOI signed Jan 8. Redlines with attorneys. Zack met onsite 2/3. RE team does not need anything from Zack — ops/desi... | *2026-02-10* |
 | **350 E South Water St Chicago IL** | 🟢 LOI executed. Operations working through diligence. Neeraj working on financing and purchase agreement. | *2026-02-10* |
-| **445 N Wymore Rd, Winter Park, FL 32789** | 🟡 Updated LOI Received — Zack executed the LOI and sent back for countersignature from Landlord on 2/5/26. | *2026-02-10* |
-| **5625 Schumacher Ln Houston TX 77057** | 🟢 LOI executed. Matterport complete (Digital Twin ready as of 2/5). Under review — team checking notes but no immedia... | *2026-02-10* |
+| **445 N Wymore Rd, Winter Park, FL 32789** | 🟢 CUP CONFIRMED. City said they would renew/re-grant the conditional use permit. Leslie Steines (RTL) confirmed. Robb... | *2026-02-10* |
+| **5625 Schumacher Ln Houston TX 77057** | 🟡 LOI executed. Matterport complete. Zack asked Joseph Bejjani (landlord) for lease draft on 2/9 — Joseph confirmed "... | *2026-02-10* |
 | **7514 Wisconsin Ave, Bethesda, MD 20814** | 🟢 Ownership reviewed financials. Call scheduled with Richard Coppola (LPC) and ownership for 2:00pm 2/11. Landlord wa... | *2026-02-10* |
 | **McGarrah Jesse Building Austin TX (Austin 250)** | 🟡 Neeraj waiting on CO2 extension decision from current landlord, then will make decision on 121 W 6th. Need decision... | *2026-02-10* |
 
@@ -37,7 +37,7 @@
 | **10220 NE Points Dr Kirkland WA 98033** | 🟡 Former University of Washington location identified. Suite 100. | *2026-02-07* |
 | **17785 N Pacesetter Way Scottsdale AZ 85255** | 🟢 LOI SUBMITTED at $5.99M. Zack approved the number, Daver sent updated counter with $5.99M purchase price reflected.... | *2026-02-10* |
 | **2925 Riverglen Dr, Fort Worth, TX 76109** | 🟡 RFP sent via JLL (John Davidson). $37.50/SF NNN + $10 NNN ($47.50/SF all-in). 27,411 SF full building. 10-year term... | *2026-02-09* |
-| **511 W 25th St New York NY** | 🟡 Counter redlines in progress. "Ironworks" building. Zack shared with Neeraj 2/9 — need Neeraj/Andy review/approval ... | *2026-02-09* |
+| **511 W 25th St New York NY** | 🟡 Counter redlines in progress. "Ironworks" building. Zack sent Neeraj zoning contingency language details today (2/1... | *2026-02-09* |
 | **600-614 Chapala St, Santa Barbara, CA 93101** | 🟡 LL response received 2/2/26. Tenant redline in progress. Two standalone buildings (former Sonos HQ). ~1 block from ... | *2026-02-09* |
 | **Coconut Grove, Miami, FL (Allen Morris Development)** | 🟡 AMCO term sheet received 2/5. Two scenarios offered (AMCO has no preference). Ross reviewing, Harley followed up 2/... | *2026-02-09* |
 | **Ross School - Bridgehampton NY (Summer Camp)** | 🟢 Proposal submitted. Mark following up with board chair. Campus described as "gorgeous" — Alpha would be a significa... | *2026-02-10* |
@@ -46,7 +46,7 @@
 
 | Property | Status | Last Updated |
 |----------|--------|--------------|
-| **212 Elm St, Somerville, MA 02144** | New site from Rags and Tatiana Gupta. Zack met with the agent on 2/6/26 and agent will be touring the property on Mon... | *2026-02-07* |
+| **212 Elm St, Somerville, MA 02144** | 🟢 Brochure received from Ryan Hurd (Cushman & Wakefield). 3rd floor suite, 6,484 SF, asking high $40s/low $50s gross.... | *2026-02-10* |
 | **6555 Dallas Pkwy, Frisco, TX 75034 — Pinnacle Montessori** | Zack is actively emailing with brokers. AV has cleared zoning/demographics. AI site screening complete. This is a FOR... | *2026-02-10* |
 | **775 Columbus Ave New York NY** | 🟡 Open go/no-go decision. Andy/Neeraj/leadership deciding whether to proceed or shut down. Need clear call so resourc... | *2026-02-10* |
 | **Bozeman MT TBD** | 🟢 GREEN LIGHT. Zack confirmed "we are a go on Bozeman." Mike Schlauch (SU Platinum) and Zack scheduling call for tomo... | *2026-02-10* |
