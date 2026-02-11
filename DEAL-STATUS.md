@@ -114,11 +114,11 @@
 | Stage 0.5: Due Diligence | 6 |
 | Stage 0: Tracking | 19 |
 | Operational | 12 |
-| Dead | 25 |
+| Dead | 26 |
 
 **Total Active Deals: 47**
 **Total Operational: 12**
-**Total Dead: 25**
+**Total Dead: 26**
 
 ---
 
