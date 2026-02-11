@@ -1,18 +1,23 @@
 # Alpha Real Estate — Master Deal Status
-**Auto-generated:** February 10, 2026 | **For:** Leadership Review
+**Auto-generated:** February 11, 2026 | **For:** Leadership Review
 
 ---
 
 ## PIPELINE BY STAGE
 
-### **STAGE 3: FINAL LEASE** (5)
+### **STAGE 4: HANDOFF TO OPS** (1)
 
 | Property | Status | Last Updated |
 |----------|--------|--------------|
-| **1750 Rufe Snow Dr Keller TX** | 🟢 Lease at DocuSign — Zack sent Andy the link. Texas entity creation approved by Neeraj and submitted by Tina Erales.... | *2026-02-10* |
-| **2000 Woodlands Pkwy The Woodlands TX** | 🟡 Open questions from landlord/ops remain. Neeraj and Zack need to sync on outstanding items and respond so deal can ... | *2026-02-10* |
+| **1750 Rufe Snow Dr Keller TX** | 🟢 LEASE EXECUTED. Christine Kunkle confirmed "it's official" on 2/10. Vendor (Alan Miles) visiting site 2/11 at 9am f... | *2026-02-11* |
+
+### **STAGE 3: FINAL LEASE** (4)
+
+| Property | Status | Last Updated |
+|----------|--------|--------------|
+| **2000 Woodlands Pkwy The Woodlands TX** | 🟡 Zack sent outstanding Q's to landlord attorney Lisa (2/11 3:54am). Open questions from landlord/ops remain. Neeraj ... | *2026-02-10* |
 | **2200 NW 5th Ave Boca Raton FL** | 🟡 Two-week extension purchased on timeline. LIDAR scan underway to confirm as-built conditions and estimate floor pla... | *2026-02-10* |
-| **7979 Ivanhoe Ave La Jolla CA** | 🟢 LEASE RECEIVED. Michael Shkreli (RTL) sent the lease for 7979 Ivanhoe today. RTL went back to landlord with additio... | *2026-02-10* |
+| **7979 Ivanhoe Ave La Jolla CA** | 🟢 LEASE RECEIVED. Zack asked landlord to execute and return LOI (2/11 5:37am). Michael Shkreli (RTL) sent the lease f... | *2026-02-10* |
 | **838 SW 1st St Portland OR** | 🟢 Lease language finalized by Elissa Davis (SRD Legal) and approved by Zack. Going back to landlord now. NOTE: Robbie... | *2026-02-10* |
 
 ### **STAGE 2: LEASE NEGOTIATIONS** (10)
@@ -22,12 +27,12 @@
 | **1 Beach St, San Francisco, CA** | 🟢 LOI EXECUTED. Ross Burack (RTL) added wording for free rent ("greater of 10 months"), Zack re-signed. LOI sent to l... | *2026-02-10* |
 | **1128 Harmon Pl Minneapolis MN** | 🟡 Landlord ready to move into leasing. Issue: Suite previously had bathroom — landlord removed it and walled off, but... | *2026-02-10* |
 | **123 Washington St Norwalk CT 06854** | 🟢 Matterport and building inspection scheduled for Friday. Nathan Wilson (AGW) coordinating access. Andrea Ewalefo sc... | *2026-02-10* |
-| **156 William St New York NY** | 🟢 COUNTER PROPOSAL RECEIVED — Michael Shkreli (RTL) says it "looks good." Clean copy included. Zack to review. Also: ... | *2026-02-10* |
+| **156 William St New York NY** | 🟢 COUNTER PROPOSAL RECEIVED — Michael Shkreli (RTL) says it "looks good." Clean copy included. Zack requested PDF of ... | *2026-02-10* |
 | **307 Southgate Ct Brentwood TN** | 🟢 LOI signed Jan 8. Redlines with attorneys. Zack met onsite 2/3. RE team does not need anything from Zack — ops/desi... | *2026-02-10* |
 | **350 E South Water St Chicago IL** | 🟢 LOI executed. Operations working through diligence. Neeraj working on financing and purchase agreement. | *2026-02-10* |
 | **445 N Wymore Rd, Winter Park, FL 32789** | 🟢 CUP CONFIRMED. City said they would renew/re-grant the conditional use permit. Leslie Steines (RTL) confirmed. Robb... | *2026-02-10* |
 | **5625 Schumacher Ln Houston TX 77057** | 🟡 LOI executed. Matterport complete. Zack asked Joseph Bejjani (landlord) for lease draft on 2/9 — Joseph confirmed "... | *2026-02-10* |
-| **7514 Wisconsin Ave, Bethesda, MD 20814** | 🟢 Ownership reviewed financials. Call scheduled with Richard Coppola (LPC) and ownership for 2:00pm 2/11. Landlord wa... | *2026-02-10* |
+| **7514 Wisconsin Ave, Bethesda, MD 20814** | 🟢 CALL TODAY 2:00pm CT with Richard Coppola (LPC) and ownership. Ownership reviewed financials. Landlord wants a "bri... | *2026-02-10* |
 | **McGarrah Jesse Building Austin TX (Austin 250)** | 🟡 Neeraj waiting on CO2 extension decision from current landlord, then will make decision on 121 W 6th. Need decision... | *2026-02-10* |
 
 ### **STAGE 1: LOI IN PROGRESS** (7)
@@ -46,10 +51,10 @@
 
 | Property | Status | Last Updated |
 |----------|--------|--------------|
-| **212 Elm St, Somerville, MA 02144** | 🟢 Brochure received from Ryan Hurd (Cushman & Wakefield). 3rd floor suite, 6,484 SF, asking high $40s/low $50s gross.... | *2026-02-10* |
+| **212 Elm St, Somerville, MA 02144** | 🟡 BATHROOM ISSUE — Shared hallway restrooms, NOT private in-suite. This is a Tier 1 instant kill per screening criter... | *2026-02-10* |
 | **6555 Dallas Pkwy, Frisco, TX 75034 — Pinnacle Montessori** | Zack is actively emailing with brokers. AV has cleared zoning/demographics. AI site screening complete. This is a FOR... | *2026-02-10* |
 | **775 Columbus Ave New York NY** | 🟡 Open go/no-go decision. Andy/Neeraj/leadership deciding whether to proceed or shut down. Need clear call so resourc... | *2026-02-10* |
-| **Bozeman MT TBD** | 🟢 GREEN LIGHT. Zack confirmed "we are a go on Bozeman." Mike Schlauch (SU Platinum) and Zack scheduling call for tomo... | *2026-02-10* |
+| **Bozeman MT TBD** | 🟢 GREEN LIGHT. Call with Mike Schlauch (SU Platinum) TODAY 10:30am CT. Zack confirmed "we are a go on Bozeman." Also:... | *2026-02-10* |
 | **Hayground School - Bridgehampton NY (Summer Camp)** | 🟡 Preliminary discussions indicate openness to simultaneous operation. Issue: shared space, not exclusive use we desire. | *2026-02-05* |
 | **The Racquet Lounge - Southampton NY (Summer Camp)** | 🟡 Active discussions. Meeting with ownership scheduled for today (2/5). | *2026-02-05* |
 
@@ -102,8 +107,8 @@
 
 | Stage | Count |
 |-------|-------|
-| Stage 4: Handoff to Ops | 0 |
-| Stage 3: Final Lease | 5 |
+| Stage 4: Handoff to Ops | 1 |
+| Stage 3: Final Lease | 4 |
 | Stage 2: Lease Negotiations | 10 |
 | Stage 1: LOI In Progress | 7 |
 | Stage 0.5: Due Diligence | 6 |
@@ -117,4 +122,4 @@
 
 ---
 
-*Auto-generated from Pipeline/ on 2026-02-10*
+*Auto-generated from Pipeline/ on 2026-02-11*
