@@ -62,7 +62,7 @@
 | **Hayground School - Bridgehampton NY (Summer Camp)** | 🟡 Preliminary discussions indicate openness to simultaneous operation. Issue: shared space, not exclusive use we desire. | *2026-02-05* |
 | **The Racquet Lounge - Southampton NY (Summer Camp)** | 🟡 Active discussions. Meeting with ownership scheduled for today (2/5). | *2026-02-05* |
 
-### **STAGE 0: IDENTIFIED / TRACKING** (20)
+### **STAGE 0: IDENTIFIED / TRACKING** (21)
 
 | Property | Status | Last Updated |
 |----------|--------|--------------|
@@ -76,6 +76,7 @@
 | **2751 Colorado Blvd Los Angeles CA 90041** | 🟡 Screening complete, awaiting review | *2026-01-28* |
 | **31 Waltham St Lexington MA 02421** | 🟡 Follow up sent. No response yet. Perfect potential site for us. | *2026-02-04* |
 | **33722 Woodward Ave Birmingham MI 48009** | 🟡 Screening complete, awaiting review | *2026-01-28* |
+| **3501 S Colorado Blvd, Cherry Hills Village, CO 80113** | AI site screening complete. Score: 82/100 — GREEN. Strong candidate. Property is a 58,000 SF church campus on 5.32 ac... | *2026-02-11* |
 | **44 Woods Ln, East Hampton, NY** | 🟡 Jake Kelly (Serhant) flagged East Hampton Jewish Center as Hamptons summer camp target 2/6. Director willing to con... | *2026-02-08* |
 | **4525 Lemmon Ave Dallas TX 75219** | 🟡 Screening complete, awaiting review | *2026-01-28* |
 | **461 W 9th St San Pedro CA** | 🟢 GREAT — Strategic South Bay overflow location | *2026-01-29* |
@@ -117,11 +118,11 @@
 | Stage 2: Lease Negotiations | 10 |
 | Stage 1: LOI In Progress | 9 |
 | Stage 0.5: Due Diligence | 8 |
-| Stage 0: Tracking | 20 |
+| Stage 0: Tracking | 21 |
 | Operational | 12 |
 | Dead | 26 |
 
-**Total Active Deals: 52**
+**Total Active Deals: 53**
 **Total Operational: 12**
 **Total Dead: 26**
 
