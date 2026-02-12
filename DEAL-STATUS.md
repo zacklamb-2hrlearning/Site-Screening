@@ -28,7 +28,7 @@
 | **123 Washington St Norwalk CT 06854** | 🟢 Nathan Wilson (AGW) confirmed access — on-site contact Gus Desouza will meet team. NOTE: No elevator at property, b... | *2026-02-11* |
 | **156 William St New York NY** | 🟢 Building access CONFIRMED. Matterport access confirmed. Construction docs and floorplans shared with Robbie (2/10-2... | *2026-02-12* |
 | **307 Southgate Ct Brentwood TN** | 🟢 LOI signed Jan 8. Redlines with attorneys. Zack met onsite 2/3. Ops team does not need anything from Zack. Ops enga... | *2026-02-10* |
-| **350 E South Water St Chicago IL** | 🟢 LOI executed. Operations working through diligence. Neeraj working on financing and purchase agreement. | *2026-02-10* |
+| **350 E South Water St Chicago IL** | 🟢 LOI executed. Operations working through diligence. Neeraj working on financing and purchase agreement. With ops. | *2026-02-10* |
 | **445 N Wymore Rd, Winter Park, FL 32789** | 🟡 Waiting on landlord's conditions. Leslie working on getting conditions and approved copies (2/9-2/11). Leslie told ... | *2026-02-12* |
 | **5625 Schumacher Ln Houston TX 77057** | 🟡 LOI executed. Matterport complete. Zack asked Joseph Bejjani (landlord) for lease draft on 2/9 — Joseph confirmed "... | *2026-02-10* |
 | **7514 Wisconsin Ave, Bethesda, MD 20814** | 🟢 CALL TODAY 2:00pm CT with Richard Coppola (LPC) and ownership. Ownership reviewed financials. Landlord wants a "bri... | *2026-02-10* |
