@@ -42,8 +42,8 @@
 | **10220 NE Points Dr Kirkland WA 98033** | 🟡 Counter proposal received from landlord via Michael Shkreli (2/11). RTL marking it up for Zack's review. Ross confi... | *2026-02-12* |
 | **17785 N Pacesetter Way Scottsdale AZ 85255** | 🟢 LOI SUBMITTED at $5.99M. Zack approved the number, Daver sent updated counter with $5.99M purchase price reflected.... | *2026-02-10* |
 | **20 E Elm St, Greenwich, CT** | 🟢 LOI DRAFTED by RTL. Leslie forwarded Greenwich zoning info (2/5, 2/11): Bianca Dygert (Town of Greenwich) confirmed... | *2026-02-12* |
-| **2925 Riverglen Dr, Fort Worth, TX 76109** | 🟡 RFP sent via JLL (John Davidson). $37.50/SF NNN + $10 NNN ($47.50/SF all-in). 27,411 SF full building. 10-year term... | *2026-02-09* |
-| **345 Peachtree Ave NE, Atlanta, GA 30305** | 🟡 LOI BEING DRAFTED by RTL (Leslie confirmed 2/11). BUT Zack's system flagged CUP needed for Atlanta. Leslie shared w... | *2026-02-12* |
+| **2925 Riverglen Dr, Fort Worth, TX 76109** | 🟡 LOI counters nearly complete — target back by 2/13/26. Developer (CHC) has issued architectural CAD backgrounds, no... | *2026-02-12* |
+| **345 Peachtree Ave NE, Atlanta, GA 30305** | 🟡 LOI Sent - Zoning board confirmed location is good to go for K-8 private education. LOI sent  | *2026-02-12* |
 | **511 W 25th St New York NY** | 🟡 Counter needs to go back TODAY. Ross forwarded Ironworks info to Robbie (floorplans, materials from landlord - 2/11... | *2026-02-12* |
 | **600-614 Chapala St, Santa Barbara, CA 93101** | 🟡 LL response received 2/2/26. Tenant redline in progress. Two standalone buildings (former Sonos HQ). ~1 block from ... | *2026-02-09* |
 | **Coconut Grove, Miami, FL (Allen Morris Development)** | 🟡 AMCO term sheet received 2/5. Two scenarios offered (AMCO has no preference). Ross reviewing, Harley followed up 2/... | *2026-02-09* |
