@@ -34,7 +34,7 @@
 | **7514 Wisconsin Ave, Bethesda, MD 20814** | 🟢 CALL TODAY 2:00pm CT with Richard Coppola (LPC) and ownership. Ownership reviewed financials. Landlord wants a "bri... | *2026-02-10* |
 | **McGarrah Jesse Building Austin TX (Austin 250)** | 🟡 Neeraj waiting on CO2 extension decision from current landlord, then will make decision on 121 W 6th. Need decision... | *2026-02-10* |
 
-### **STAGE 1: LOI IN PROGRESS** (12)
+### **STAGE 1: LOI IN PROGRESS** (13)
 
 | Property | Status | Last Updated |
 |----------|--------|--------------|
@@ -45,6 +45,7 @@
 | **212 Elm St, Somerville, MA 02144** | 🟡 LOI sent. Broker meeting with Landlord 2/12 to try and finalize LOI and get sent back to Zack. This is the location... | *2026-02-12* |
 | **2925 Riverglen Dr, Fort Worth, TX 76109** | 🟡 LOI counters nearly complete — target back by 2/13/26. Developer (CHC) has issued architectural CAD backgrounds, no... | *2026-02-12* |
 | **345 Peachtree Ave NE, Atlanta, GA 30305** | 🟡 LOI Sent - Zoning board confirmed location is good to go for K-8 private education. LOI sent 2/12 | *2026-02-12* |
+| **44 Woods Ln, East Hampton, NY** | 🟢 LOI signed 2/12/26. Jake Kelly (Serhant) flagged East Hampton Jewish Center as Hamptons summer camp target 2/6. Dir... | *2026-02-12* |
 | **511 W 25th St New York NY** | 🟡 Counter to go back TODAY. Ross forwarded Ironworks info to Robbie (floorplans, materials from landlord - 2/11). Iro... | *2026-02-12* |
 | **600-614 Chapala St, Santa Barbara, CA 93101** | 🟡 LL response received 2/5/26. Tenant redline in progress. Two standalone buildings (former Sonos HQ). ~1 block from ... | *2026-02-09* |
 | **775 Columbus Ave New York NY** | 🟡 Open go/no-go decision. Andy/Neeraj/leadership deciding whether to proceed or shut down. Need clear call so resourc... | *2026-02-12* |
@@ -60,7 +61,7 @@
 | **Bozeman MT TBD** | 🟢 GREEN LIGHT. Neeraj, Brannin, Zack - Full steam ahead. Have 4 sites we are gathering information on. Brannin will p... | *2026-02-10* |
 | **Hayground School - Bridgehampton NY (Summer Camp)** | 🟡 Preliminary discussions indicate openness to simultaneous operation. Issue: shared space, not exclusive use we desire. | *2026-02-05* |
 
-### **STAGE 0: IDENTIFIED / TRACKING** (33)
+### **STAGE 0: IDENTIFIED / TRACKING** (32)
 
 | Property | Status | Last Updated |
 |----------|--------|--------------|
@@ -87,7 +88,6 @@
 | **33722 Woodward Ave Birmingham MI 48009** | 🟡 Screening complete, awaiting review | *2026-01-28* |
 | **3501 S Colorado Blvd, Cherry Hills Village, CO 80113** | AI site screening complete. Score: 82/100 — GREEN. Ross proposed straight 10-year deal same terms — landlord thinks t... | *2026-02-12* |
 | **3800 Maple Ave, Dallas, TX 75219** | Outreach reply received 2/9/26. Broker Richmond Collinsworth (Bradford) replied: "We have several options available. ... | *2026-02-12* |
-| **44 Woods Ln, East Hampton, NY** | 🟡 Jake Kelly (Serhant) flagged East Hampton Jewish Center as Hamptons summer camp target 2/6. Director willing to con... | *2026-02-08* |
 | **45 E Central St, Natick, MA 01760** | New address from RTL (Leslie Steines) MetroWest/Boston options (2/6/26) and address/demo check list (2/11/26). 8,900 ... | *2026-02-12* |
 | **4525 Lemmon Ave Dallas TX 75219** | 🟡 Screening complete, awaiting review | *2026-01-28* |
 | **460 Swedesford Rd, Wayne, PA 19087** | Outreach reply received 2/9/26. Broker Steve Gersbach (CBRE) sent marketing brochure with floor plans. Asked about si... | *2026-02-12* |
@@ -126,9 +126,9 @@
 | Stage 4: Handoff to Ops | 1 |
 | Stage 3: Final Lease | 4 |
 | Stage 2: Lease Negotiations | 9 |
-| Stage 1: LOI In Progress | 12 |
+| Stage 1: LOI In Progress | 13 |
 | Stage 0.5: Due Diligence | 4 |
-| Stage 0: Tracking | 33 |
+| Stage 0: Tracking | 32 |
 | Operational | 12 |
 | Dead | 32 |
 
