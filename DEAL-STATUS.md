@@ -20,12 +20,11 @@
 | **7979 Ivanhoe Ave La Jolla CA** | 🟢 LEASE IN REVIEW. Zack confirmed "Absolutely. And space looks great." (2/11). LOI signed. Matterport and flyer share... | *2026-02-12* |
 | **838 SW 1st St Portland OR** | 🟢 LANDLORD SIGNED LEASE RETURNED. Kris Vogt (NAI Elliott) sent signed copy of most up-to-date lease (2/12). Sewer iss... | *2026-02-12* |
 
-### **STAGE 2: LEASE NEGOTIATIONS** (10)
+### **STAGE 2: LEASE NEGOTIATIONS** (9)
 
 | Property | Status | Last Updated |
 |----------|--------|--------------|
 | **1 Beach St, San Francisco, CA** | 🟢 LOI EXECUTED. Zack received rent analysis 2/12: 380 students @ $7,500/student = $2.85M revenue, under budget at $2.... | *2026-02-12* |
-| **1128 Harmon Pl Minneapolis MN** | 🟡 Landlord ready to move into leasing. Issue: Suite previously had bathroom — landlord removed it and walled off, but... | *2026-02-10* |
 | **123 Washington St Norwalk CT 06854** | 🟢 Nathan Wilson (AGW) confirmed access — on-site contact Gus Desouza will meet team. NOTE: No elevator at property, b... | *2026-02-11* |
 | **156 William St New York NY** | 🟢 Building access CONFIRMED. Matterport access confirmed. Construction docs and floorplans shared with Robbie (2/10-2... | *2026-02-12* |
 | **307 Southgate Ct Brentwood TN** | 🟢 LOI signed Jan 8. Redlines with attorneys. Zack met onsite 2/3. Ops team does not need anything from Zack. Ops enga... | *2026-02-10* |
@@ -35,29 +34,29 @@
 | **7514 Wisconsin Ave, Bethesda, MD 20814** | 🟢 CALL TODAY 2:00pm CT with Richard Coppola (LPC) and ownership. Ownership reviewed financials. Landlord wants a "bri... | *2026-02-10* |
 | **McGarrah Jesse Building Austin TX (Austin 250)** | 🟡 Neeraj waiting on CO2 extension decision from current landlord, then will make decision on 121 W 6th. Need decision... | *2026-02-10* |
 
-### **STAGE 1: LOI IN PROGRESS** (9)
+### **STAGE 1: LOI IN PROGRESS** (12)
 
 | Property | Status | Last Updated |
 |----------|--------|--------------|
 | **10220 NE Points Dr Kirkland WA 98033** | 🟡 Counter proposal received from landlord (2/11). RTL will handle discussions with broker. Former University of Washi... | *2026-02-12* |
 | **17785 N Pacesetter Way Scottsdale AZ 85255** | 🟢 LOI SUBMITTED at $5.99M. Zack approved the number, Daver sent updated counter with $5.99M purchase price reflected.... | *2026-02-10* |
 | **20 E Elm St, Greenwich, CT** | 🟢 LOI sent. Bianca Dygert (Town of Greenwich) confirmed schools permitted in CGB zone, needs Final Site Plan review w... | *2026-02-12* |
+| **Oak Creek Center — 2000 Springer Dr, Lombard, IL 60148** | 🟡 LOI sent. Village of Lombard zoning email (2/11) confirming: schools are PERMITTED in Oak Creek Planned Development... | *2026-02-12* |
+| **212 Elm St, Somerville, MA 02144** | 🟡 LOI sent. Broker meeting with Landlord 2/12 to try and finalize LOI and get sent back to Zack. This is the location... | *2026-02-12* |
 | **2925 Riverglen Dr, Fort Worth, TX 76109** | 🟡 LOI counters nearly complete — target back by 2/13/26. Developer (CHC) has issued architectural CAD backgrounds, no... | *2026-02-12* |
 | **345 Peachtree Ave NE, Atlanta, GA 30305** | 🟡 LOI Sent - Zoning board confirmed location is good to go for K-8 private education. LOI sent 2/12 | *2026-02-12* |
 | **511 W 25th St New York NY** | 🟡 Counter to go back TODAY. Ross forwarded Ironworks info to Robbie (floorplans, materials from landlord - 2/11). Iro... | *2026-02-12* |
 | **600-614 Chapala St, Santa Barbara, CA 93101** | 🟡 LL response received 2/5/26. Tenant redline in progress. Two standalone buildings (former Sonos HQ). ~1 block from ... | *2026-02-09* |
+| **775 Columbus Ave New York NY** | 🟡 Open go/no-go decision. Andy/Neeraj/leadership deciding whether to proceed or shut down. Need clear call so resourc... | *2026-02-12* |
 | **Coconut Grove, Miami, FL (Allen Morris Development)** | 🟡 AMCO term sheet received 2/5. Two scenarios offered (AMCO has no preference). Ross reviewing, Harley followed up 2/... | *2026-02-09* |
 | **Ross School - Bridgehampton NY (Summer Camp)** | 🟢 Proposal submitted. Mark following up with board chair. Campus described as "gorgeous". Alpha would take significan... | *2026-02-10* |
 
-### **STAGE 0.5: ACTIVE DUE DILIGENCE** (7)
+### **STAGE 0.5: ACTIVE DUE DILIGENCE** (4)
 
 | Property | Status | Last Updated |
 |----------|--------|--------------|
-| **Oak Creek Center — 2000 Springer Dr, Lombard, IL 60148** | 🟡 LOI sent. Village of Lombard zoning email (2/11) confirming: schools are PERMITTED in Oak Creek Planned Development... | *2026-02-12* |
-| **212 Elm St, Somerville, MA 02144** | 🟡 LOI sent. Broker meeting with Landlord 2/12 to try and finalize LOI and get sent back to Zack. This is the location... | *2026-02-10* |
 | **620 5th Ave S, Kirkland, WA** | 🟢 ZONING CONFIRMED. Zoning confirmation from Director of Buildings for City of Kirkland for 620 5th Ave S (2/11). Zac... | *2026-02-12* |
 | **6555 Dallas Pkwy, Frisco, TX 75034 — Pinnacle Montessori** | Zack is actively emailing with brokers. AV has cleared zoning/demographics. AI site screening complete. This is a FOR... | *2026-02-10* |
-| **775 Columbus Ave New York NY** | 🟡 Open go/no-go decision. Andy/Neeraj/leadership deciding whether to proceed or shut down. Need clear call so resourc... | *2026-02-10* |
 | **Bozeman MT TBD** | 🟢 GREEN LIGHT. Neeraj, Brannin, Zack - Full steam ahead. Have 4 sites we are gathering information on. Brannin will p... | *2026-02-10* |
 | **Hayground School - Bridgehampton NY (Summer Camp)** | 🟡 Preliminary discussions indicate openness to simultaneous operation. Issue: shared space, not exclusive use we desire. | *2026-02-05* |
 
@@ -126,16 +125,16 @@
 |-------|-------|
 | Stage 4: Handoff to Ops | 1 |
 | Stage 3: Final Lease | 4 |
-| Stage 2: Lease Negotiations | 10 |
-| Stage 1: LOI In Progress | 9 |
-| Stage 0.5: Due Diligence | 7 |
+| Stage 2: Lease Negotiations | 9 |
+| Stage 1: LOI In Progress | 12 |
+| Stage 0.5: Due Diligence | 4 |
 | Stage 0: Tracking | 33 |
 | Operational | 12 |
-| Dead | 31 |
+| Dead | 32 |
 
-**Total Active Deals: 64**
+**Total Active Deals: 63**
 **Total Operational: 12**
-**Total Dead: 31**
+**Total Dead: 32**
 
 ---
 
