@@ -15,9 +15,9 @@
 
 | Property | Status | Last Updated |
 |----------|--------|--------------|
-| **2000 Woodlands Pkwy The Woodlands TX** | 🟡 TUITION DISCOUNT PUSHED BACK. Zack emailed: "We crossed out tuition discount all the way through our last redline o... | *2026-02-12* |
+| **2000 Woodlands Pkwy The Woodlands TX** | 🟡 Neeraj & Zack working to meet with John Saxon (Chief of Staff/VP Corp Dev) and Jim Carman (President, Texas Howard ... | *2026-02-12* |
 | **2200 NW 5th Ave Boca Raton FL** | 🟡 WIRE PENDING. Landlord annoyed wire hasn't been received yet (Ross 2/10). Ross: "Need actual confirmation from when... | *2026-02-12* |
-| **7979 Ivanhoe Ave La Jolla CA** | 🟢 LEASE IN REVIEW. Zack confirmed "Absolutely. And space looks great." (2/11). Michael Shkreli asked Zack to sign PDF... | *2026-02-12* |
+| **7979 Ivanhoe Ave La Jolla CA** | 🟢 LEASE IN REVIEW. Zack confirmed "Absolutely. And space looks great." (2/11). LOI signed. Matterport and flyer share... | *2026-02-12* |
 | **838 SW 1st St Portland OR** | 🟢 LANDLORD SIGNED LEASE RETURNED. Kris Vogt (NAI Elliott) sent signed copy of most up-to-date lease (2/12). Sewer iss... | *2026-02-12* |
 
 ### **STAGE 2: LEASE NEGOTIATIONS** (10)
@@ -58,7 +58,7 @@
 | **620 5th Ave S, Kirkland, WA** | 🟢 ZONING CONFIRMED. Leslie got zoning confirmation from Kirkland for 620 5th Ave S (2/11). Flyer attached. Leslie: "S... | *2026-02-12* |
 | **6555 Dallas Pkwy, Frisco, TX 75034 — Pinnacle Montessori** | Zack is actively emailing with brokers. AV has cleared zoning/demographics. AI site screening complete. This is a FOR... | *2026-02-10* |
 | **775 Columbus Ave New York NY** | 🟡 Open go/no-go decision. Andy/Neeraj/leadership deciding whether to proceed or shut down. Need clear call so resourc... | *2026-02-10* |
-| **Bozeman MT TBD** | 🟢 GREEN LIGHT. Call with Mike Schlauch (SU Platinum) TODAY 10:30am CT. Zack confirmed "we are a go on Bozeman." Also:... | *2026-02-10* |
+| **Bozeman MT TBD** | 🟢 GREEN LIGHT. Neeraj, Brannin, Zack - Full steam ahead. Have 4 sites we are gathering information on. Brannin will p... | *2026-02-10* |
 | **Hayground School - Bridgehampton NY (Summer Camp)** | 🟡 Preliminary discussions indicate openness to simultaneous operation. Issue: shared space, not exclusive use we desire. | *2026-02-05* |
 
 ### **STAGE 0: IDENTIFIED / TRACKING** (33)
