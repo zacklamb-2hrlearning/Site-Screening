@@ -49,7 +49,7 @@
 | **Coconut Grove, Miami, FL (Allen Morris Development)** | 🟡 AMCO term sheet received 2/5. Two scenarios offered (AMCO has no preference). Ross reviewing, Harley followed up 2/... | *2026-02-09* |
 | **Ross School - Bridgehampton NY (Summer Camp)** | 🟢 Proposal submitted. Mark following up with board chair. Campus described as "gorgeous" — Alpha would be a significa... | *2026-02-10* |
 
-### **STAGE 0.5: ACTIVE DUE DILIGENCE** (8)
+### **STAGE 0.5: ACTIVE DUE DILIGENCE** (7)
 
 | Property | Status | Last Updated |
 |----------|--------|--------------|
@@ -60,9 +60,8 @@
 | **775 Columbus Ave New York NY** | 🟡 Open go/no-go decision. Andy/Neeraj/leadership deciding whether to proceed or shut down. Need clear call so resourc... | *2026-02-10* |
 | **Bozeman MT TBD** | 🟢 GREEN LIGHT. Call with Mike Schlauch (SU Platinum) TODAY 10:30am CT. Zack confirmed "we are a go on Bozeman." Also:... | *2026-02-10* |
 | **Hayground School - Bridgehampton NY (Summer Camp)** | 🟡 Preliminary discussions indicate openness to simultaneous operation. Issue: shared space, not exclusive use we desire. | *2026-02-05* |
-| **The Racquet Lounge - Southampton NY (Summer Camp)** | 🟡 Active discussions. Meeting with ownership scheduled for today (2/5). | *2026-02-05* |
 
-### **STAGE 0: IDENTIFIED / TRACKING** (37)
+### **STAGE 0: IDENTIFIED / TRACKING** (33)
 
 | Property | Status | Last Updated |
 |----------|--------|--------------|
@@ -75,7 +74,6 @@
 | **1869 E Maple Rd Troy MI 48083** | 🟡 Screening complete, awaiting review | *2026-01-28* |
 | **19 Willow St, Natick, MA 01760 (Clock Tower Place)** | AI Site Screen complete. Multi-tenant business park with 7,000 SF available on 1st floor at $21/SF. Building has sepa... | *2026-02-11* |
 | **1950 Craig Rd, Maryland Heights, MO 63146** | AI Site Screen complete. Score: 68/100 (AMBER). Solid suburban office/service center building on 3 acres with ample p... | *2026-02-11* |
-| **209 10th Ave S Nashville TN (Cummins Station)** | 🟡 Under evaluation - multiple options, alcohol licensing concerns | *2026-01-28* |
 | **210 Little Falls St Falls Church VA 22046** | 🟢 GREAT - Across from City Hall | *2026-01-28* |
 | **235 Worcester Rd, Framingham, MA 01701** | New address from RTL (Leslie Steines) MetroWest/Boston options (2/6/26) and address/demo check list (2/11/26). Curren... | *2026-02-12* |
 | **2701 Valley View Ln Farmers Branch TX 75234** | 🟢 Followed up 2/4 to confirm availability. Property meets all of our needs. | *2026-02-04* |
@@ -87,7 +85,6 @@
 | **31 Waltham St Lexington MA 02421** | 🟡 Follow up sent. No response yet. Perfect potential site for us. | *2026-02-04* |
 | **3203 Cole Ave, Dallas, TX 75205** | Outreach reply received 2/9/26. Broker Thomas Glendenning (Shop Companies) replied: "What kind of business are you lo... | *2026-02-12* |
 | **3300 Henry Ave, Philadelphia, PA 19129 (Falls Center)** | New address from RTL (Leslie Steines) address/demo check list (2/11/26). Also presented separately as "Philly Site" (... | *2026-02-12* |
-| **333 River St, Hoboken, NJ 07030** | New address from RTL (Leslie Steines) address/demo check list (2/11/26). Awaiting Andrew Vincent's zoning/demographic... | *2026-02-12* |
 | **33722 Woodward Ave Birmingham MI 48009** | 🟡 Screening complete, awaiting review | *2026-01-28* |
 | **3501 S Colorado Blvd, Cherry Hills Village, CO 80113** | AI site screening complete. Score: 82/100 — GREEN. Ross proposed straight 10-year deal same terms — landlord thinks t... | *2026-02-12* |
 | **3800 Maple Ave, Dallas, TX 75219** | Outreach reply received 2/9/26. Broker Richmond Collinsworth (Bradford) replied: "We have several options available. ... | *2026-02-12* |
@@ -99,8 +96,6 @@
 | **4646 Dubai Way Frisco TX 75034** | 🟡 Conversation in progress with the broker. Trying to understand how the overall site could be broken up to allow us ... | *2026-01-28* |
 | **8618 Fenton St Silver Spring MD 20910** | 🟡 Waiting on response. Follow up sent. | *2026-02-04* |
 | **Massachusetts Hall, Cambridge, MA 02138** | New site identified — Harvard University | *2026-02-07* |
-| **Le Mans NYC** | 🟡 Screening complete, awaiting review | *2026-01-28* |
-| **Magnolia Jewish Organization (Summer Camp Option #2)** | 🟡 Backup / Option #2 summer camp location. Jewish organization (synagogue/community center/school) in Magnolia, TX. G... | *2026-02-10* |
 | **OKC TBD** | 🟡 Screening complete, awaiting review | *2026-01-28* |
 | **Stony Brook University Southampton Campus (Summer Camp)** | 🟡 Initial outreach sent. Awaiting response for exploratory discussions. | *2026-02-05* |
 
@@ -133,14 +128,14 @@
 | Stage 3: Final Lease | 4 |
 | Stage 2: Lease Negotiations | 10 |
 | Stage 1: LOI In Progress | 9 |
-| Stage 0.5: Due Diligence | 8 |
-| Stage 0: Tracking | 37 |
+| Stage 0.5: Due Diligence | 7 |
+| Stage 0: Tracking | 33 |
 | Operational | 12 |
-| Dead | 26 |
+| Dead | 31 |
 
-**Total Active Deals: 69**
+**Total Active Deals: 64**
 **Total Operational: 12**
-**Total Dead: 26**
+**Total Dead: 31**
 
 ---
 
