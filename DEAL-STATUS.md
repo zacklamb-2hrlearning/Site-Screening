@@ -20,7 +20,7 @@
 | **7979 Ivanhoe Ave La Jolla CA** | 🟢 LEASE IN REVIEW. Zack confirmed "Absolutely. And space looks great." (2/11). LOI signed. Matterport and flyer share... | *2026-02-12* |
 | **838 SW 1st St Portland OR** | 🟢 LANDLORD SIGNED LEASE RETURNED. Kris Vogt (NAI Elliott) sent signed copy of most up-to-date lease (2/12). Sewer iss... | *2026-02-12* |
 
-### **STAGE 2: LEASE NEGOTIATIONS** (9)
+### **STAGE 2: LEASE NEGOTIATIONS** (7)
 
 | Property | Status | Last Updated |
 |----------|--------|--------------|
@@ -29,12 +29,10 @@
 | **156 William St New York NY** | 🟢 Building access CONFIRMED. Matterport access confirmed. Construction docs and floorplans shared with Robbie (2/10-2... | *2026-02-12* |
 | **307 Southgate Ct Brentwood TN** | 🟢 LOI signed Jan 8. Redlines with attorneys. Zack met onsite 2/3. Ops team does not need anything from Zack. Ops enga... | *2026-02-10* |
 | **350 E South Water St Chicago IL** | 🟢 LOI executed. Operations working through diligence. Neeraj working on financing and purchase agreement. With ops. | *2026-02-10* |
-| **445 N Wymore Rd, Winter Park, FL 32789** | 🟡 Waiting on landlord's conditions. Leslie working on getting conditions and approved copies (2/9-2/11). Leslie told ... | *2026-02-12* |
 | **5625 Schumacher Ln Houston TX 77057** | 🟡 LOI executed. Matterport complete. Zack asked Joseph Bejjani (landlord) for lease draft on 2/9 — Joseph confirmed "... | *2026-02-10* |
-| **7514 Wisconsin Ave, Bethesda, MD 20814** | 🟢 CALL TODAY 2:00pm CT with Richard Coppola (LPC) and ownership. Ownership reviewed financials. Landlord wants a "bri... | *2026-02-10* |
 | **McGarrah Jesse Building Austin TX (Austin 250)** | 🟡 Neeraj waiting on CO2 extension decision from current landlord, then will make decision on 121 W 6th. Need decision... | *2026-02-10* |
 
-### **STAGE 1: LOI IN PROGRESS** (13)
+### **STAGE 1: LOI IN PROGRESS** (15)
 
 | Property | Status | Last Updated |
 |----------|--------|--------------|
@@ -46,8 +44,10 @@
 | **2925 Riverglen Dr, Fort Worth, TX 76109** | 🟡 LOI counters nearly complete — target back by 2/13/26. Developer (CHC) has issued architectural CAD backgrounds, no... | *2026-02-12* |
 | **345 Peachtree Ave NE, Atlanta, GA 30305** | 🟡 LOI Sent - Zoning board confirmed location is good to go for K-8 private education. LOI sent 2/12 | *2026-02-12* |
 | **44 Woods Ln, East Hampton, NY** | 🟢 LOI signed 2/12/26. Jake Kelly (Serhant) flagged East Hampton Jewish Center as Hamptons summer camp target 2/6. Dir... | *2026-02-12* |
+| **445 N Wymore Rd, Winter Park, FL 32789** | 🟡 Waiting on landlord's conditions. Leslie working on getting conditions and approved copies (2/9-2/11). Leslie told ... | *2026-02-12* |
 | **511 W 25th St New York NY** | 🟡 Counter to go back TODAY. Ross forwarded Ironworks info to Robbie (floorplans, materials from landlord - 2/11). Iro... | *2026-02-12* |
 | **600-614 Chapala St, Santa Barbara, CA 93101** | 🟡 LL response received 2/5/26. Tenant redline in progress. Two standalone buildings (former Sonos HQ). ~1 block from ... | *2026-02-09* |
+| **7514 Wisconsin Ave, Bethesda, MD 20814** | 🟢 CALL TODAY 2:00pm CT with Richard Coppola (LPC) and ownership. Ownership reviewed financials. Landlord wants a "bri... | *2026-02-12* |
 | **775 Columbus Ave New York NY** | 🟡 Open go/no-go decision. Andy/Neeraj/leadership deciding whether to proceed or shut down. Need clear call so resourc... | *2026-02-12* |
 | **Coconut Grove, Miami, FL (Allen Morris Development)** | 🟡 AMCO term sheet received 2/5. Two scenarios offered (AMCO has no preference). Ross reviewing, Harley followed up 2/... | *2026-02-09* |
 | **Ross School - Bridgehampton NY (Summer Camp)** | 🟢 Proposal submitted. Mark following up with board chair. Campus described as "gorgeous". Alpha would take significan... | *2026-02-10* |
@@ -125,8 +125,8 @@
 |-------|-------|
 | Stage 4: Handoff to Ops | 1 |
 | Stage 3: Final Lease | 4 |
-| Stage 2: Lease Negotiations | 9 |
-| Stage 1: LOI In Progress | 13 |
+| Stage 2: Lease Negotiations | 7 |
+| Stage 1: LOI In Progress | 15 |
 | Stage 0.5: Due Diligence | 4 |
 | Stage 0: Tracking | 32 |
 | Operational | 12 |
