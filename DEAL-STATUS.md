@@ -9,7 +9,7 @@
 
 | Property | Status | Last Updated |
 |----------|--------|--------------|
-| **1750 Rufe Snow Dr Keller TX** | 🟢 Lease Executed / Wire Confirmed. Christine received wire transfer confirmation from finance team (2/13). COI reques... | *2026-02-13* |
+| **1750 Rufe Snow Dr Keller TX** | 🟢 Lease Executed / Wire Confirmed. Christine received wire transfer confirmation from finance team (2/13). COI reques... | *2026-02-16* |
 
 ### **STAGE 3: FINAL LEASE** (4)
 
@@ -20,47 +20,39 @@
 | **7979 Ivanhoe Ave La Jolla CA** | 🟢 LEASE IN REVIEW. LOI fully signed by landlord (2/12). Zack: "Off to the races! Let's get this thing closed." Lease ... | *2026-02-13* |
 | **838 SW 1st St Portland OR** | 🟢 Final lease out for signature with Andy. | *2026-02-13* |
 
-### **STAGE 2: LEASE NEGOTIATIONS** (8)
+### **STAGE 2: LEASE NEGOTIATIONS** (10)
 
 | Property | Status | Last Updated |
 |----------|--------|--------------|
-| **1 Beach St, San Francisco, CA** | 🟢 LOI EXECUTED. Zack received rent analysis 2/12: 380 students @ $7,500/student = $2.85M revenue, under budget at $2.... | *2026-02-12* |
-| **123 Washington St Norwalk CT 06854** | 🟢 Nathan Wilson (AGW) confirmed access — on-site contact Gus Desouza will meet team. NOTE: No elevator at property, b... | *2026-02-13* |
-| **156 William St New York NY** | 🟢 Building access CONFIRMED. Matterport access confirmed. Construction docs and floorplans shared with Robbie (2/10-2... | *2026-02-13* |
-| **307 Southgate Ct Brentwood TN** | 🟢 LOI signed Jan 8. Redlines with attorneys. Zack met onsite 2/3. Ops team does not need anything from Zack. Ops enga... | *2026-02-10* |
+| **1 Beach St, San Francisco, CA** | 🟢 LOI EXECUTED. Zack received rent analysis 2/12: 380 students @ $7,500/student = $2.85M revenue, under budget at $2.... | *2026-02-16* |
+| **123 Washington St Norwalk CT 06854** | 🟢 LOI Executed. Nathan Wilson (AGW) confirmed access — on-site contact Gus Desouza will meet team. No elevator at pro... | *2026-02-13* |
+| **156 William St New York NY** | 🟢 LOI Executed. Lease redlines returned by SRD Legal for submission to landlord. Plans/MEP shared with ops. | *2026-02-16* |
+| **307 Southgate Ct Brentwood TN** | 🟢 LOI Executed. Redlines with attorneys. Zack met onsite 2/3. Ops team does not need anything from Zack. Ops engaged. | *2026-02-10* |
 | **350 E South Water St Chicago IL** | 🟢 LOI executed. Operations working through diligence. Neeraj working on financing and purchase agreement. With ops. | *2026-02-10* |
-| **511 W 25th St New York NY** | 🟢 LOI FULLY EXECUTED. Neeraj signed final LOI (2/12). Moving to lease negotiations. Ross sent CADs/as-built plans to ... | *2026-02-13* |
+| **44 Woods Ln, East Hampton, NY** | 🟢 LOI Executed. Jake Kelly (Serhant) flagged East Hampton Jewish Center as Hamptons summer camp target 2/6. Director ... | *2026-02-16* |
+| **511 W 25th St New York NY** | 🟢 LOI FULLY EXECUTED. Neeraj signed final LOI (2/12). Moving to lease negotiations. Ross sent CADs/as-built plans to ... | *2026-02-16* |
 | **5625 Schumacher Ln Houston TX 77057** | 🟡 LOI executed. Matterport complete. Zack asked Joseph Bejjani (landlord) for lease draft on 2/9 — Joseph confirmed "... | *2026-02-10* |
+| **7514 Wisconsin Ave, Bethesda, MD 20814** | 🟢 LOI Executed. Landlord signed. Moving to lease negotiations. Richard Coppola (LPC) and ownership aligned on vision. | *2026-02-16* |
 | **McGarrah Jesse Building Austin TX (Austin 250)** | 🟡 Neeraj waiting on CO2 extension decision from current landlord, then will make decision on 121 W 6th. Need decision... | *2026-02-10* |
 
-### **STAGE 1: LOI IN PROGRESS** (14)
+### **STAGE 1: LOI IN PROGRESS** (12)
 
 | Property | Status | Last Updated |
 |----------|--------|--------------|
 | **10220 NE Points Dr Kirkland WA 98033** | 🟡 Counter proposal received from landlord (2/11). will handle discussions with broker. Former University of Washingto... | *2026-02-12* |
-| **17785 N Pacesetter Way Scottsdale AZ 85255** | 🟢 LOI SUBMITTED at $5.99M. Zack approved the number, Daver sent updated counter with $5.99M purchase price reflected.... | *2026-02-10* |
+| **17785 N Pacesetter Way Scottsdale AZ 85255** | 🟢 LOI SUBMITTED at $5.99M. Zack approved the number, Daver sent updated counter with $5.99M purchase price reflected.... | *2026-02-16* |
 | **20 E Elm St, Greenwich, CT** | 🟢 LOI sent. Bianca Dygert (Town of Greenwich) confirmed schools permitted in CGB zone, needs Final Site Plan review w... | *2026-02-12* |
 | **Oak Creek Center — 2000 Springer Dr, Lombard, IL 60148** | 🟡 LOI sent. Village of Lombard zoning email (2/11) confirming: schools are PERMITTED in Oak Creek Planned Development... | *2026-02-12* |
 | **212 Elm St, Somerville, MA 02144** | 🟡 LOI coming back shortly. Ryan Hurd (Cushman): "Should have your LOI shortly — ownership had a few minor comments." ... | *2026-02-13* |
 | **2925 Riverglen Dr, Fort Worth, TX 76109** | 🟡 LOI counters nearly complete — target back by 2/13/26. JLL (John Davidson) pressuring landlord for CAD response upd... | *2026-02-12* |
 | **345 Peachtree Ave NE, Atlanta, GA 30305** | 🟡 LOI Sent - Zoning board confirmed location is good to go for K-8 private education. LOI sent 2/12 | *2026-02-12* |
-| **44 Woods Ln, East Hampton, NY** | 🟢 LOI signed 2/12/26. Jake Kelly (Serhant) flagged East Hampton Jewish Center as Hamptons summer camp target 2/6. Dir... | *2026-02-12* |
-| **445 N Wymore Rd, Winter Park, FL 32789** | 🟡 Waiting on landlord's conditions. Leslie working on getting conditions and approved copies (2/9-2/11). Leslie told ... | *2026-02-12* |
+| **445 N Wymore Rd, Winter Park, FL 32789** | 🟡 Waiting on landlord's conditions. Leslie working on getting conditions and approved copies (2/9-2/11). Leslie told ... | *2026-02-16* |
 | **600-614 Chapala St, Santa Barbara, CA 93101** | 🟡 LL response received 2/5/26. Tenant redline in progress. Two standalone buildings (former Sonos HQ). ~1 block from ... | *2026-02-09* |
-| **7514 Wisconsin Ave, Bethesda, MD 20814** | 🟢 CALL TODAY 2:00pm CT with Richard Coppola (LPC) and ownership. Ownership reviewed financials. Landlord wants a "bri... | *2026-02-12* |
 | **775 Columbus Ave New York NY** | 🟡 Open go/no-go decision. Andy/Neeraj/leadership deciding whether to proceed or shut down. Need clear call so resourc... | *2026-02-12* |
 | **Coconut Grove, Miami, FL (Allen Morris Development)** | 🟡 AMCO term sheet received 2/5. Two scenarios offered (AMCO has no preference). Ross reviewing, Harley followed up 2/... | *2026-02-09* |
-| **Ross School - Bridgehampton NY (Summer Camp)** | 🟢 Proposal submitted. Mark following up with board chair. Campus described as "gorgeous". Alpha would take significan... | *2026-02-10* |
+| **Ross School - Bridgehampton NY (Summer Camp)** | 🟢 Proposal submitted. Mark following up with board chair. Campus described as "gorgeous". Alpha would take significan... | *2026-02-16* |
 
-### **STAGE 0.5: ACTIVE DUE DILIGENCE** (3)
-
-| Property | Status | Last Updated |
-|----------|--------|--------------|
-| **620 5th Ave S, Kirkland, WA** | 🟢 ZONING CONFIRMED. Zoning confirmation from Director of Buildings for City of Kirkland for 620 5th Ave S (2/11). Zac... | *2026-02-12* |
-| **Bozeman MT TBD** | 🟢 GREEN LIGHT. Neeraj, Brannin, Zack - Full steam ahead. Have 4 sites we are gathering information on. Brannin will p... | *2026-02-10* |
-| **Hayground School - Bridgehampton NY (Summer Camp)** | 🟡 Preliminary discussions indicate openness to simultaneous operation. Issue: shared space, not exclusive use we desire. | *2026-02-05* |
-
-### **STAGE 0: IDENTIFIED / TRACKING** (33)
+### **STAGE 0: IDENTIFIED / TRACKING** (36)
 
 | Property | Status | Last Updated |
 |----------|--------|--------------|
@@ -93,8 +85,11 @@
 | **461 W 9th St San Pedro CA** | 🟢 Screening Complete. Initial Conversations. | *2026-01-29* |
 | **4633 E Shea Blvd, Phoenix, AZ 85028 — The Pyramid** | 🟢 New site. Ross scheduled "Scottsdale Alpha Call" via Teams (2/11-2/12) to discuss The Pyramid. Awaiting call outcom... | *2026-02-13* |
 | **4646 Dubai Way Frisco TX 75034** | 🟡 Screening Complete. Initial Conversations. | *2026-01-28* |
+| **620 5th Ave S, Kirkland, WA** | 🟢 ZONING CONFIRMED. Zoning confirmation from Director of Buildings for City of Kirkland for 620 5th Ave S (2/11). Zac... | *2026-02-12* |
 | **8618 Fenton St Silver Spring MD 20910** | 🟡 Screening Complete. Initial Conversations. | *2026-02-04* |
+| **Bozeman MT TBD** | 🟢 GREEN LIGHT. Neeraj, Brannin, Zack - Full steam ahead. Have 4 sites we are gathering information on. Brannin will p... | *2026-02-10* |
 | **Massachusetts Hall, Cambridge, MA 02138** | 🟡 Screening Complete. Initial Conversations. | *2026-02-07* |
+| **Hayground School - Bridgehampton NY (Summer Camp)** | 🟡 Preliminary discussions indicate openness to simultaneous operation. Issue: shared space, not exclusive use we desire. | *2026-02-05* |
 | **OKC TBD** | 🟡 Screening Complete. Initial Conversations. | *2026-01-28* |
 | **Stony Brook University Southampton Campus (Summer Camp)** | 🟡 Screening Complete. Initial Conversations. | *2026-02-05* |
 
@@ -125,10 +120,10 @@
 |-------|-------|
 | Stage 4: Handoff to Ops | 1 |
 | Stage 3: Final Lease | 4 |
-| Stage 2: Lease Negotiations | 8 |
-| Stage 1: LOI In Progress | 14 |
-| Stage 0.5: Due Diligence | 3 |
-| Stage 0: Tracking | 33 |
+| Stage 2: Lease Negotiations | 10 |
+| Stage 1: LOI In Progress | 12 |
+| Stage 0.5: Due Diligence | 0 |
+| Stage 0: Tracking | 36 |
 | Operational | 12 |
 | Dead | 34 |
 
