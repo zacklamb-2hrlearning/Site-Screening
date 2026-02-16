@@ -52,7 +52,7 @@
 | **Coconut Grove, Miami, FL (Allen Morris Development)** | 🟡 AMCO term sheet received 2/5. Two scenarios offered (AMCO has no preference). Ross reviewing, Harley followed up 2/... | *2026-02-09* |
 | **Ross School - Bridgehampton NY (Summer Camp)** | 🟡 Proposal submitted. Waiting on Board of Directors response on whether they will lease to Alpha. With Ops. Mark foll... | *2026-02-16* |
 
-### **STAGE 0: IDENTIFIED / TRACKING** (36)
+### **STAGE 0: IDENTIFIED / TRACKING** (37)
 
 | Property | Status | Last Updated |
 |----------|--------|--------------|
@@ -86,6 +86,7 @@
 | **4633 E Shea Blvd, Phoenix, AZ 85028 — The Pyramid** | 🟢 New site. Ross scheduled "Scottsdale Alpha Call" via Teams (2/11-2/12) to discuss The Pyramid. Awaiting call outcom... | *2026-02-13* |
 | **4646 Dubai Way Frisco TX 75034** | 🟡 Screening Complete. Initial Conversations. | *2026-01-28* |
 | **620 5th Ave S, Kirkland, WA** | 🟢 ZONING CONFIRMED. Zoning confirmation from Director of Buildings for City of Kirkland for 620 5th Ave S (2/11). Zac... | *2026-02-12* |
+| **6701 Carmel Rd, Charlotte, NC 28226** | Deal created. AI site screening complete. Score: 50/100 — AMBER (low end). Major concerns: 4-story multi-tenant offic... | *2026-02-16* |
 | **8618 Fenton St Silver Spring MD 20910** | 🟡 Screening Complete. Initial Conversations. | *2026-02-04* |
 | **Bozeman MT TBD** | 🟢 GREEN LIGHT. Neeraj, Brannin, Zack - Full steam ahead. Have 4 sites we are gathering information on. Brannin will p... | *2026-02-10* |
 | **Massachusetts Hall, Cambridge, MA 02138** | 🟡 Screening Complete. Initial Conversations. | *2026-02-07* |
@@ -123,11 +124,11 @@
 | Stage 2: Lease Negotiations | 11 |
 | Stage 1: LOI In Progress | 11 |
 | Stage 0.5: Due Diligence | 0 |
-| Stage 0: Tracking | 36 |
+| Stage 0: Tracking | 37 |
 | Operational | 12 |
 | Dead | 34 |
 
-**Total Active Deals: 63**
+**Total Active Deals: 64**
 **Total Operational: 12**
 **Total Dead: 34**
 
