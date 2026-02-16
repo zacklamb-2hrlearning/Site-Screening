@@ -1,5 +1,5 @@
 # Alpha Real Estate — Master Deal Status
-**Auto-generated:** February 13, 2026 | **For:** Leadership Review
+**Auto-generated:** February 16, 2026 | **For:** Leadership Review
 
 ---
 
@@ -60,7 +60,7 @@
 | **Bozeman MT TBD** | 🟢 GREEN LIGHT. Neeraj, Brannin, Zack - Full steam ahead. Have 4 sites we are gathering information on. Brannin will p... | *2026-02-10* |
 | **Hayground School - Bridgehampton NY (Summer Camp)** | 🟡 Preliminary discussions indicate openness to simultaneous operation. Issue: shared space, not exclusive use we desire. | *2026-02-05* |
 
-### **STAGE 0: IDENTIFIED / TRACKING** (32)
+### **STAGE 0: IDENTIFIED / TRACKING** (33)
 
 | Property | Status | Last Updated |
 |----------|--------|--------------|
@@ -73,6 +73,7 @@
 | **1869 E Maple Rd Troy MI 48083** | 🟡 Screening Complete. Initial Conversations. | *2026-01-28* |
 | **19 Willow St, Natick, MA 01760 (Clock Tower Place)** | 🟡 Screening Complete. Initial Conversations. | *2026-02-11* |
 | **1950 Craig Rd, Maryland Heights, MO 63146** | 🟡 Screening Complete. Initial Conversations. | *2026-02-11* |
+| **200 Sorrell Grove Church Rd, Morrisville, NC 27560** | Deal created. AI site screening complete. Score: 73/100 — AMBER. Key concern is parent perception in an airport/offic... | *2026-02-16* |
 | **210 Little Falls St Falls Church VA 22046** | 🟢 Screening Complete. Initial Conversations. | *2026-01-28* |
 | **235 Worcester Rd, Framingham, MA 01701** | 🟡 Screening Complete. Initial Conversations. | *2026-02-12* |
 | **2701 Valley View Ln Farmers Branch TX 75234** | 🟢 Screening Complete. Initial Conversations. | *2026-02-04* |
@@ -127,14 +128,14 @@
 | Stage 2: Lease Negotiations | 8 |
 | Stage 1: LOI In Progress | 14 |
 | Stage 0.5: Due Diligence | 3 |
-| Stage 0: Tracking | 32 |
+| Stage 0: Tracking | 33 |
 | Operational | 12 |
 | Dead | 34 |
 
-**Total Active Deals: 62**
+**Total Active Deals: 63**
 **Total Operational: 12**
 **Total Dead: 34**
 
 ---
 
-*Auto-generated from Pipeline/ on 2026-02-13*
+*Auto-generated from Pipeline/ on 2026-02-16*
