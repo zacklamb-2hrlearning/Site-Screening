@@ -20,7 +20,7 @@
 | **7979 Ivanhoe Ave La Jolla CA** | 🟢 LEASE IN REVIEW. LOI fully signed by landlord (2/12). Zack: "Off to the races! Let's get this thing closed." Lease ... | *2026-02-13* |
 | **838 SW 1st St Portland OR** | 🟢 Final lease out for signature with Andy. | *2026-02-13* |
 
-### **STAGE 2: LEASE NEGOTIATIONS** (10)
+### **STAGE 2: LEASE NEGOTIATIONS** (11)
 
 | Property | Status | Last Updated |
 |----------|--------|--------------|
@@ -33,24 +33,24 @@
 | **511 W 25th St New York NY** | 🟢 LOI FULLY EXECUTED. Neeraj signed final LOI (2/12). Moving to lease negotiations. Ross sent CADs/as-built plans to ... | *2026-02-16* |
 | **5625 Schumacher Ln Houston TX 77057** | 🟡 LOI executed. Matterport complete. Zack asked Joseph Bejjani (landlord) for lease draft on 2/9 — Joseph confirmed "... | *2026-02-10* |
 | **7514 Wisconsin Ave, Bethesda, MD 20814** | 🟢 LOI Executed. Landlord signed. Moving to lease negotiations. Richard Coppola (LPC) and ownership aligned on vision. | *2026-02-16* |
+| **775 Columbus Ave New York NY** | 🟡 Open go/no-go decision. Andy/Neeraj/leadership deciding whether to proceed or shut down. Need clear call so resourc... | *2026-02-16* |
 | **McGarrah Jesse Building Austin TX (Austin 250)** | 🟡 Neeraj waiting on CO2 extension decision from current landlord, then will make decision on 121 W 6th. Need decision... | *2026-02-10* |
 
-### **STAGE 1: LOI IN PROGRESS** (12)
+### **STAGE 1: LOI IN PROGRESS** (11)
 
 | Property | Status | Last Updated |
 |----------|--------|--------------|
 | **10220 NE Points Dr Kirkland WA 98033** | 🟡 Counter proposal received from landlord (2/11). will handle discussions with broker. Former University of Washingto... | *2026-02-12* |
-| **17785 N Pacesetter Way Scottsdale AZ 85255** | 🟢 LOI SUBMITTED at $5.99M. Zack approved the number, Daver sent updated counter with $5.99M purchase price reflected.... | *2026-02-16* |
+| **17785 N Pacesetter Way Scottsdale AZ 85255** | 🟢 LOI SUBMITTED at $5.99M. With Ops. Zack approved the number, Daver sent updated counter with $5.99M purchase price ... | *2026-02-16* |
 | **20 E Elm St, Greenwich, CT** | 🟢 LOI sent. Bianca Dygert (Town of Greenwich) confirmed schools permitted in CGB zone, needs Final Site Plan review w... | *2026-02-12* |
 | **Oak Creek Center — 2000 Springer Dr, Lombard, IL 60148** | 🟡 LOI sent. Village of Lombard zoning email (2/11) confirming: schools are PERMITTED in Oak Creek Planned Development... | *2026-02-12* |
 | **212 Elm St, Somerville, MA 02144** | 🟡 LOI coming back shortly. Ryan Hurd (Cushman): "Should have your LOI shortly — ownership had a few minor comments." ... | *2026-02-13* |
 | **2925 Riverglen Dr, Fort Worth, TX 76109** | 🟡 LOI counters nearly complete — target back by 2/13/26. JLL (John Davidson) pressuring landlord for CAD response upd... | *2026-02-12* |
 | **345 Peachtree Ave NE, Atlanta, GA 30305** | 🟡 LOI Sent - Zoning board confirmed location is good to go for K-8 private education. LOI sent 2/12 | *2026-02-12* |
 | **445 N Wymore Rd, Winter Park, FL 32789** | 🟡 Waiting on landlord's conditions. Leslie working on getting conditions and approved copies (2/9-2/11). Leslie told ... | *2026-02-16* |
-| **600-614 Chapala St, Santa Barbara, CA 93101** | 🟡 LL response received 2/5/26. Tenant redline in progress. Two standalone buildings (former Sonos HQ). ~1 block from ... | *2026-02-09* |
-| **775 Columbus Ave New York NY** | 🟡 Open go/no-go decision. Andy/Neeraj/leadership deciding whether to proceed or shut down. Need clear call so resourc... | *2026-02-12* |
+| **600-614 Chapala St, Santa Barbara, CA 93101** | 🟡 LL response received 2/5/26. Tenant redline in progress. With Ops. Two standalone buildings (former Sonos HQ). ~1 b... | *2026-02-09* |
 | **Coconut Grove, Miami, FL (Allen Morris Development)** | 🟡 AMCO term sheet received 2/5. Two scenarios offered (AMCO has no preference). Ross reviewing, Harley followed up 2/... | *2026-02-09* |
-| **Ross School - Bridgehampton NY (Summer Camp)** | 🟡 Proposal submitted. Waiting on Board of Directors response on whether they will lease to Alpha. Mark following up w... | *2026-02-16* |
+| **Ross School - Bridgehampton NY (Summer Camp)** | 🟡 Proposal submitted. Waiting on Board of Directors response on whether they will lease to Alpha. With Ops. Mark foll... | *2026-02-16* |
 
 ### **STAGE 0: IDENTIFIED / TRACKING** (36)
 
@@ -120,8 +120,8 @@
 |-------|-------|
 | Stage 4: Handoff to Ops | 1 |
 | Stage 3: Final Lease | 4 |
-| Stage 2: Lease Negotiations | 10 |
-| Stage 1: LOI In Progress | 12 |
+| Stage 2: Lease Negotiations | 11 |
+| Stage 1: LOI In Progress | 11 |
 | Stage 0.5: Due Diligence | 0 |
 | Stage 0: Tracking | 36 |
 | Operational | 12 |
