@@ -26,7 +26,7 @@
 |----------|--------|--------------|
 | **1 Beach St, San Francisco, CA** | 🟢 LOI EXECUTED. Zack received rent analysis 2/12: 380 students @ $7,500/student = $2.85M revenue, under budget at $2.... | *2026-02-16* |
 | **123 Washington St Norwalk CT 06854** | 🟢 LOI Executed. Nathan Wilson (AGW) confirmed access — on-site contact Gus Desouza will meet team. No elevator at pro... | *2026-02-13* |
-| **156 William St New York NY** | 🟢 LOI Executed. Lease redlines returned by SRD Legal for submission to landlord. Plans/MEP shared with ops. | *2026-02-16* |
+| **156 William St New York NY** | 🟢 LOI Executed. | *2026-02-16* |
 | **307 Southgate Ct Brentwood TN** | 🟢 LOI Executed. Redlines with attorneys. Zack met onsite 2/3. Ops team does not need anything from Zack. Ops engaged. | *2026-02-10* |
 | **350 E South Water St Chicago IL** | 🟢 LOI executed. Operations working through diligence. Neeraj working on financing and purchase agreement. With ops. | *2026-02-10* |
 | **44 Woods Ln, East Hampton, NY** | 🟢 LOI Executed. Jake Kelly (Serhant) flagged East Hampton Jewish Center as Hamptons summer camp target 2/6. Director ... | *2026-02-16* |
@@ -50,7 +50,7 @@
 | **600-614 Chapala St, Santa Barbara, CA 93101** | 🟡 LL response received 2/5/26. Tenant redline in progress. Two standalone buildings (former Sonos HQ). ~1 block from ... | *2026-02-09* |
 | **775 Columbus Ave New York NY** | 🟡 Open go/no-go decision. Andy/Neeraj/leadership deciding whether to proceed or shut down. Need clear call so resourc... | *2026-02-12* |
 | **Coconut Grove, Miami, FL (Allen Morris Development)** | 🟡 AMCO term sheet received 2/5. Two scenarios offered (AMCO has no preference). Ross reviewing, Harley followed up 2/... | *2026-02-09* |
-| **Ross School - Bridgehampton NY (Summer Camp)** | 🟢 Proposal submitted. Mark following up with board chair. Campus described as "gorgeous". Alpha would take significan... | *2026-02-16* |
+| **Ross School - Bridgehampton NY (Summer Camp)** | 🟡 Proposal submitted. Waiting on Board of Directors response on whether they will lease to Alpha. Mark following up w... | *2026-02-16* |
 
 ### **STAGE 0: IDENTIFIED / TRACKING** (36)
 
