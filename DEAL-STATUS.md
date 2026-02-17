@@ -11,23 +11,23 @@
 |----------|--------|--------------|
 | **1750 Rufe Snow Dr Keller TX** | 🟢 Lease Executed / Wire Confirmed. Christine received wire transfer confirmation from finance team (2/13). COI reques... | *2026-02-16* |
 
-### **STAGE 3: FINAL LEASE** (4)
+### **STAGE 3: FINAL LEASE** (5)
 
 | Property | Status | Last Updated |
 |----------|--------|--------------|
 | **2000 Woodlands Pkwy The Woodlands TX** | 🟡 Neeraj & Zack working to meet with John Saxon (Chief of Staff/VP Corp Dev) and Jim Carman (President, Texas Howard ... | *2026-02-13* |
 | **2200 NW 5th Ave Boca Raton FL** | 🟢 WIRE Sent for two week extension, expiring 2/20. Operations doing their deep diligence. Devin had inspector on site... | *2026-02-12* |
+| **307 Southgate Ct Brentwood TN** | 🟢 Final lease turns. Elissa Davis (SRD Legal) returned marked + clean copies of lease redlines (2/16). Zack forwarded... | *2026-02-16* |
 | **7979 Ivanhoe Ave La Jolla CA** | 🟢 LEASE IN REVIEW. LOI fully signed by landlord (2/12). Zack: "Off to the races! Let's get this thing closed." Lease ... | *2026-02-13* |
 | **838 SW 1st St Portland OR** | 🟢 Final lease out for signature with Andy. | *2026-02-13* |
 
-### **STAGE 2: LEASE NEGOTIATIONS** (11)
+### **STAGE 2: LEASE NEGOTIATIONS** (10)
 
 | Property | Status | Last Updated |
 |----------|--------|--------------|
 | **1 Beach St, San Francisco, CA** | 🟢 LOI EXECUTED. Zack received rent analysis 2/12: 380 students @ $7,500/student = $2.85M revenue, under budget at $2.... | *2026-02-16* |
 | **123 Washington St Norwalk CT 06854** | 🟢 LOI Executed. Nathan Wilson (AGW) confirmed access — on-site contact Gus Desouza will meet team. No elevator at pro... | *2026-02-13* |
 | **156 William St New York NY** | 🟢 LOI Executed. | *2026-02-16* |
-| **307 Southgate Ct Brentwood TN** | 🟢 LOI Executed. Redlines with attorneys. Zack met onsite 2/3. Ops team does not need anything from Zack. Ops engaged. | *2026-02-10* |
 | **350 E South Water St Chicago IL** | 🟢 LOI executed. Operations working through diligence. Neeraj working on financing and purchase agreement. With ops. | *2026-02-10* |
 | **44 Woods Ln, East Hampton, NY** | 🟢 LOI Executed. Jake Kelly (Serhant) flagged East Hampton Jewish Center as Hamptons summer camp target 2/6. Director ... | *2026-02-16* |
 | **511 W 25th St New York NY** | 🟢 LOI FULLY EXECUTED. Neeraj signed final LOI (2/12). Moving to lease negotiations. Ross sent CADs/as-built plans to ... | *2026-02-16* |
@@ -120,8 +120,8 @@
 | Stage | Count |
 |-------|-------|
 | Stage 4: Handoff to Ops | 1 |
-| Stage 3: Final Lease | 4 |
-| Stage 2: Lease Negotiations | 11 |
+| Stage 3: Final Lease | 5 |
+| Stage 2: Lease Negotiations | 10 |
 | Stage 1: LOI In Progress | 11 |
 | Stage 0.5: Due Diligence | 0 |
 | Stage 0: Tracking | 37 |
