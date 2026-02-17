@@ -1,5 +1,5 @@
 # Alpha Real Estate — Master Deal Status
-**Auto-generated:** February 16, 2026 | **For:** Leadership Review
+**Auto-generated:** February 17, 2026 | **For:** Leadership Review
 
 ---
 
@@ -52,7 +52,7 @@
 | **Coconut Grove, Miami, FL (Allen Morris Development)** | 🟡 AMCO term sheet received 2/5. Two scenarios offered (AMCO has no preference). Ross reviewing, Harley followed up 2/... | *2026-02-09* |
 | **Ross School - Bridgehampton NY (Summer Camp)** | 🟡 Proposal submitted. Waiting on Board of Directors response on whether they will lease to Alpha. With Ops. Mark foll... | *2026-02-16* |
 
-### **STAGE 0: IDENTIFIED / TRACKING** (37)
+### **STAGE 0: IDENTIFIED / TRACKING** (38)
 
 | Property | Status | Last Updated |
 |----------|--------|--------------|
@@ -65,6 +65,7 @@
 | **1869 E Maple Rd Troy MI 48083** | 🟡 Screening Complete. Initial Conversations. | *2026-01-28* |
 | **19 Willow St, Natick, MA 01760 (Clock Tower Place)** | 🟡 Screening Complete. Initial Conversations. | *2026-02-11* |
 | **1950 Craig Rd, Maryland Heights, MO 63146** | 🟡 Screening Complete. Initial Conversations. | *2026-02-11* |
+| **200 Highland Blvd, Bozeman, MT 59715** | Deal created. AI site screening complete. Score: 75/100 — GREEN. One of 5 Bozeman sites Zack touring week of 2/16 wit... | *2026-02-16* |
 | **200 Sorrell Grove Church Rd, Morrisville, NC 27560** | Deal created. AI site screening complete. Score: 73/100 — AMBER. Key concern is parent perception in an airport/offic... | *2026-02-16* |
 | **210 Little Falls St Falls Church VA 22046** | 🟢 Screening Complete. Initial Conversations. | *2026-01-28* |
 | **235 Worcester Rd, Framingham, MA 01701** | 🟡 Screening Complete. Initial Conversations. | *2026-02-12* |
@@ -124,14 +125,14 @@
 | Stage 2: Lease Negotiations | 10 |
 | Stage 1: LOI In Progress | 11 |
 | Stage 0.5: Due Diligence | 0 |
-| Stage 0: Tracking | 37 |
+| Stage 0: Tracking | 38 |
 | Operational | 12 |
 | Dead | 34 |
 
-**Total Active Deals: 64**
+**Total Active Deals: 65**
 **Total Operational: 12**
 **Total Dead: 34**
 
 ---
 
-*Auto-generated from Pipeline/ on 2026-02-16*
+*Auto-generated from Pipeline/ on 2026-02-17*
