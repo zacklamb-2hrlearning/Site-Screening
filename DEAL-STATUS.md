@@ -11,17 +11,19 @@
 |----------|--------|--------------|
 | **1750 Rufe Snow Dr Keller TX** | 🟢 Lease Executed / Wire Confirmed. Christine received wire transfer confirmation from finance team (2/13). COI reques... | *2026-02-16* |
 
-### **STAGE 3: FINAL LEASE** (5)
+### **STAGE 3: FINAL LEASE** (7)
 
 | Property | Status | Last Updated |
 |----------|--------|--------------|
 | **2000 Woodlands Pkwy The Woodlands TX** | 🟡 Neeraj & Zack working to meet with John Saxon (Chief of Staff/VP Corp Dev) and Jim Carman (President, Texas Howard ... | *2026-02-13* |
 | **2200 NW 5th Ave Boca Raton FL** | 🟢 WIRE Sent for two week extension, expiring 2/20. Operations doing their deep diligence. Devin had inspector on site... | *2026-02-12* |
 | **307 Southgate Ct Brentwood TN** | 🟢 Final lease turns. Elissa Davis (SRD Legal) returned marked + clean copies of lease redlines (2/16). Zack forwarded... | *2026-02-16* |
+| **511 W 25th St New York NY** | 🟢 FINAL LEASE. LOI fully executed (Neeraj signed 2/12). Ross confirmed attorneys need to speak on this deal ("like Ir... | *2026-02-18* |
 | **7979 Ivanhoe Ave La Jolla CA** | 🟢 LEASE IN REVIEW. LOI fully signed by landlord (2/12). Zack: "Off to the races! Let's get this thing closed." Lease ... | *2026-02-13* |
 | **838 SW 1st St Portland OR** | 🟢 Final lease out for signature. Kris Vogt (NAI Elliott) checking in on sewer line issue — asking if it's causing hes... | *2026-02-13* |
+| **McGarrah Jesse Building Austin TX (Austin 250)** | 🟢 FINAL LEASE. Moving to final lease execution. With ops. | *2026-02-18* |
 
-### **STAGE 2: LEASE NEGOTIATIONS** (10)
+### **STAGE 2: LEASE NEGOTIATIONS** (8)
 
 | Property | Status | Last Updated |
 |----------|--------|--------------|
@@ -30,11 +32,9 @@
 | **156 William St New York NY** | 🟢 LOI Executed. Landlord (LaSalle/Macklowe via CBRE) requested modified security deposit terms (2/17): 1 year rent up... | *2026-02-16* |
 | **350 E South Water St Chicago IL** | 🟢 LOI executed. Operations working through diligence. Neeraj working on financing and purchase agreement. With ops. | *2026-02-10* |
 | **44 Woods Ln, East Hampton, NY** | 🟢 LOI Executed. Jake Kelly (Serhant) flagged East Hampton Jewish Center as Hamptons summer camp target 2/6. Director ... | *2026-02-16* |
-| **511 W 25th St New York NY** | 🟢 LOI FULLY EXECUTED. Neeraj signed final LOI (2/12). Moving to lease negotiations. Ross sent CADs/as-built plans to ... | *2026-02-16* |
 | **5625 Schumacher Ln Houston TX 77057** | 🟡 LOI executed. Matterport complete. Joseph Bejjani confirmed lease draft coming today (2/18). Parking discussion: la... | *2026-02-10* |
 | **7514 Wisconsin Ave, Bethesda, MD 20814** | 🟢 LOI Executed. Landlord signed. Moving to lease negotiations. Richard Coppola (LPC) and ownership aligned on vision. | *2026-02-16* |
 | **775 Columbus Ave New York NY** | 🟡 Open go/no-go decision. Andy/Neeraj/leadership deciding whether to proceed or shut down. Need clear call so resourc... | *2026-02-16* |
-| **McGarrah Jesse Building Austin TX (Austin 250)** | 🟡 Neeraj waiting on CO2 extension decision from current landlord, then will make decision on 121 W 6th. Need decision... | *2026-02-10* |
 
 ### **STAGE 1: LOI IN PROGRESS** (13)
 
@@ -120,8 +120,8 @@
 | Stage | Count |
 |-------|-------|
 | Stage 4: Handoff to Ops | 1 |
-| Stage 3: Final Lease | 5 |
-| Stage 2: Lease Negotiations | 10 |
+| Stage 3: Final Lease | 7 |
+| Stage 2: Lease Negotiations | 8 |
 | Stage 1: LOI In Progress | 13 |
 | Stage 0.5: Due Diligence | 0 |
 | Stage 0: Tracking | 35 |
