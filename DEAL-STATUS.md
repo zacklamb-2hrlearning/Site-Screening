@@ -36,7 +36,7 @@
 | **775 Columbus Ave New York NY** | 🟡 Open go/no-go decision. Andy/Neeraj/leadership deciding whether to proceed or shut down. Need clear call so resourc... | *2026-02-16* |
 | **McGarrah Jesse Building Austin TX (Austin 250)** | 🟡 Neeraj waiting on CO2 extension decision from current landlord, then will make decision on 121 W 6th. Need decision... | *2026-02-10* |
 
-### **STAGE 1: LOI IN PROGRESS** (11)
+### **STAGE 1: LOI IN PROGRESS** (13)
 
 | Property | Status | Last Updated |
 |----------|--------|--------------|
@@ -48,11 +48,13 @@
 | **2925 Riverglen Dr, Fort Worth, TX 76109** | 🟡 Ownership response received (2/17) — Isabella Burnette (JLL): "We just got a response from ownership — see attached... | *2026-02-12* |
 | **345 Peachtree Ave NE, Atlanta, GA 30305** | 🟡 LOI Sent - Zoning board confirmed location is good to go for K-8 private education. LOI sent 2/12 | *2026-02-12* |
 | **3501 S Colorado Blvd, Cherry Hills Village, CO 80113** | 🟢 LOI submitted (2/17). Steve Billigmeier (Cushman) confirmed submission to landlord. August 1, 2026 commencement pro... | *2026-02-18* |
+| **4152 Cole Ave, Dallas, TX 75205** | 🟢 LOI submitted (2/16). Thomas Glendenning (Shop Companies): "Will review this with ownership and get back to you sho... | *2026-02-18* |
 | **600-614 Chapala St, Santa Barbara, CA 93101** | 🟡 LL response received 2/5/26. Tenant redline in progress. With Ops. Two standalone buildings (former Sonos HQ). ~1 b... | *2026-02-09* |
+| **620 5th Ave S, Kirkland, WA** | 🟢 LOI SUBMITTED. Terms agreed with ownership (2/17). Michael Shkreli (RTL) had "really good call with the owners" — s... | *2026-02-18* |
 | **Coconut Grove, Miami, FL (Allen Morris Development)** | 🟡 AMCO term sheet received 2/5. Two scenarios offered (AMCO has no preference). Ross reviewing, Harley followed up 2/... | *2026-02-09* |
 | **Ross School - Bridgehampton NY (Summer Camp)** | 🟡 Proposal submitted. Waiting on Board of Directors response on whether they will lease to Alpha. With Ops. Mark foll... | *2026-02-16* |
 
-### **STAGE 0: IDENTIFIED / TRACKING** (37)
+### **STAGE 0: IDENTIFIED / TRACKING** (35)
 
 | Property | Status | Last Updated |
 |----------|--------|--------------|
@@ -76,7 +78,6 @@
 | **31 Hayward St, Franklin, MA 02038** | 🟡 Screening Complete. Initial Conversations. | *2026-02-12* |
 | **31 Union Ave, Sudbury, MA** | 🟡 Screening Complete. Initial Conversations. | *2026-02-12* |
 | **31 Waltham St Lexington MA 02421** | 🟡 Screening Complete. Initial Conversations. | *2026-02-04* |
-| **3203 Cole Ave, Dallas, TX 75205** | 🟡 Screening Complete. LOI submitted 2/16 | *2026-02-12* |
 | **3300 Henry Ave, Philadelphia, PA 19129 (Falls Center)** | 🟡 Screening Complete. Initial Conversations. | *2026-02-12* |
 | **3800 Maple Ave, Dallas, TX 75219** | 🟡 Screening Complete. Initial Conversations. | *2026-02-12* |
 | **45 E Central St, Natick, MA 01760** | 🟡 Screening Complete. Initial Conversations. | *2026-02-12* |
@@ -85,7 +86,6 @@
 | **461 W 9th St San Pedro CA** | 🟢 Screening Complete. Initial Conversations. | *2026-01-29* |
 | **4633 E Shea Blvd, Phoenix, AZ 85028 — The Pyramid** | 🟢 New site. Ross scheduled "Scottsdale Alpha Call" via Teams (2/11-2/12) to discuss The Pyramid. Awaiting call outcom... | *2026-02-13* |
 | **4646 Dubai Way Frisco TX 75034** | 🟡 Screening Complete. Initial Conversations. | *2026-01-28* |
-| **620 5th Ave S, Kirkland, WA** | 🟢 ZONING CONFIRMED. Zoning confirmation from Director of Buildings for City of Kirkland for 620 5th Ave S (2/11). Zac... | *2026-02-12* |
 | **6701 Carmel Rd, Charlotte, NC 28226** | Deal created. Site screening complete. Score: 50/100 — AMBER (low end). Major concerns: 4-story multi-tenant office t... | *2026-02-16* |
 | **8618 Fenton St Silver Spring MD 20910** | 🟡 Screening Complete. Initial Conversations. | *2026-02-04* |
 | **Bozeman MT TBD** | 🟢 GREEN LIGHT. Neeraj, Brannin, Zack - Full steam ahead. Have 4 sites we are gathering information on. Brannin will p... | *2026-02-10* |
@@ -122,9 +122,9 @@
 | Stage 4: Handoff to Ops | 1 |
 | Stage 3: Final Lease | 5 |
 | Stage 2: Lease Negotiations | 10 |
-| Stage 1: LOI In Progress | 11 |
+| Stage 1: LOI In Progress | 13 |
 | Stage 0.5: Due Diligence | 0 |
-| Stage 0: Tracking | 37 |
+| Stage 0: Tracking | 35 |
 | Operational | 12 |
 | Dead | 35 |
 
