@@ -30,7 +30,7 @@
 | **156 William St New York NY** | 🟢 LOI Executed. Landlord (LaSalle/Macklowe via CBRE) requested modified security deposit terms (2/17): 1 year rent up... | *2026-02-16* |
 | **350 E South Water St Chicago IL** | 🟢 LOI executed. Operations working through diligence. Neeraj working on financing and purchase agreement. With ops. | *2026-02-10* |
 | **44 Woods Ln, East Hampton, NY** | 🟢 LOI Executed. Jake Kelly (Serhant) flagged East Hampton Jewish Center as Hamptons summer camp target 2/6. Director ... | *2026-02-16* |
-| **511 W 25th St New York NY** | 🟢 LOI FULLY EXECUTED. Neeraj signed final LOI (2/12). Ross confirmed attorneys need to speak on this deal ("like Iron... | *2026-02-18* |
+| **511 W 25th St New York NY** | 🟢 LOI FULLY EXECUTED. Neeraj signed final LOI (2/12). Lease being drafted. CADs/as-built plans sent to team. Matterpo... | *2026-02-18* |
 | **5625 Schumacher Ln Houston TX 77057** | 🟡 LOI executed. Matterport complete. Joseph Bejjani confirmed lease draft coming today (2/18). Parking discussion: la... | *2026-02-10* |
 | **7514 Wisconsin Ave, Bethesda, MD 20814** | 🟢 LOI Executed. Landlord signed. Moving to lease negotiations. Richard Coppola (LPC) and ownership aligned on vision. | *2026-02-16* |
 | **775 Columbus Ave New York NY** | 🟡 Open go/no-go decision. Andy/Neeraj/leadership deciding whether to proceed or shut down. Need clear call so resourc... | *2026-02-16* |
@@ -54,16 +54,27 @@
 | **Coconut Grove, Miami, FL (Allen Morris Development)** | 🟡 AMCO term sheet received 2/5. Two scenarios offered (AMCO has no preference). Ross reviewing, Harley followed up 2/... | *2026-02-09* |
 | **Ross School - Bridgehampton NY (Summer Camp)** | 🟡 Proposal submitted. Waiting on Board of Directors response on whether they will lease to Alpha. With Ops. Mark foll... | *2026-02-16* |
 
-### **STAGE 0: IDENTIFIED / TRACKING** (35)
+### **STAGE 0: IDENTIFIED / TRACKING** (46)
 
 | Property | Status | Last Updated |
 |----------|--------|--------------|
 | **10 Shoshone Dr, Carmel, IN 46032** | 🟡 Screening Complete. Initial Conversations. | *2026-02-12* |
 | **1003 Egypt Rd, Phoenixville, PA 19460** | 🟡 Screening Complete. Initial Conversations. | *2026-02-12* |
+| **10410-10496 Roosevelt Blvd N St Petersburg FL 33716** | New site from AV batch screening. Publix-anchored strip center in Gateway area. Best overall Tampa metro score at 61/... | *2026-02-18* |
+| **11002-11140 4th St N St Petersburg FL 33716** | New site from AV batch screening. Winn-Dixie anchored strip center in Gateway area. Similar to Roosevelt Blvd propert... | *2026-02-18* |
 | **1111 Old Eagle School Rd, Wayne, PA 19087** | 🟡 Screening Complete. Initial Conversations. | *2026-02-12* |
+| **1112 E Kennedy Blvd Tampa FL 33602** | New site from AV batch screening. Freestanding 6,510 SF building with own parking on Kennedy Blvd. Only standalone bu... | *2026-02-18* |
+| **1115 Walnut St Cary NC 27511** | New site from AV batch screening. Freestanding former restaurant (6,936 SF) with 74 dedicated parking spaces. Walnut ... | *2026-02-18* |
+| **114 Park Ave Winter Park FL 32789** | New site from AV batch screening. Freestanding retail (Lilly Pulitzer building) on Park Ave, Winter Park. Highest-sco... | *2026-02-18* |
 | **1190 Park Ave, New York, NY (Upper East Side)** | 🟡 Screening Complete. Initial Conversations. | *2026-02-12* |
+| **1215-1221 W Fairbanks Ave Orlando FL 32804** | New site from AV batch screening. Medical/dental strip in College Park area. College Park neighborhood parks have pla... | *2026-02-18* |
+| **1229 E Franklin St Chapel Hill NC 27514** | New site from AV batch screening. Freestanding retail, 5,112 SF total. Only 2,569 SF available — possibly too small. ... | *2026-02-18* |
+| **12425 28th St N St Petersburg FL 33716** | New site from AV batch screening. Medical/dental building with lakeside walking trail. Shared medical building but ha... | *2026-02-18* |
 | **130 Arsenal Yards Blvd, Watertown, MA 02472** | 🟡 Screening Complete. Initial Conversations. | *2026-02-07* |
+| **130 N Park Ave Winter Park FL 32789** | New site from AV batch screening. Multi-tenant building (former Ralph Lauren) on Park Ave, Winter Park. Same premium ... | *2026-02-18* |
 | **1316 Washington Ave, Houston, TX** | 🟡 Screening Complete. Initial Conversations. | *2026-02-12* |
+| **139 E Chatham St Cary NC 27511** | New site from AV batch screening. Freestanding retail in downtown Cary, walking distance to Downtown Cary Park (The N... | *2026-02-18* |
+| **140 N Westmonte Dr Altamonte Springs FL 32714** | New site from AV batch screening. Medical office building with Westmonte Park playground within 0.4mi. Shared medical... | *2026-02-18* |
 | **1869 E Maple Rd Troy MI 48083** | 🟡 Screening Complete. Initial Conversations. | *2026-01-28* |
 | **19 Willow St, Natick, MA 01760 (Clock Tower Place)** | 🟡 Screening Complete. Initial Conversations. | *2026-02-11* |
 | **1950 Craig Rd, Maryland Heights, MO 63146** | 🟡 Screening Complete. Initial Conversations. | *2026-02-11* |
@@ -124,11 +135,11 @@
 | Stage 2: Lease Negotiations | 10 |
 | Stage 1: LOI In Progress | 13 |
 | Stage 0.5: Due Diligence | 0 |
-| Stage 0: Tracking | 35 |
+| Stage 0: Tracking | 46 |
 | Operational | 12 |
 | Dead | 35 |
 
-**Total Active Deals: 64**
+**Total Active Deals: 75**
 **Total Operational: 12**
 **Total Dead: 35**
 
