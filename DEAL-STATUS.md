@@ -54,7 +54,7 @@
 | **Coconut Grove, Miami, FL (Allen Morris Development)** | 🟡 AMCO term sheet received 2/5. Two scenarios offered (AMCO has no preference). Ross reviewing, Harley followed up 2/... | *2026-02-09* |
 | **Ross School - Bridgehampton NY (Summer Camp)** | 🟡 Proposal submitted. Waiting on Board of Directors response on whether they will lease to Alpha. With Ops. Mark foll... | *2026-02-16* |
 
-### **STAGE 0: IDENTIFIED / TRACKING** (46)
+### **STAGE 0: IDENTIFIED / TRACKING** (45)
 
 | Property | Status | Last Updated |
 |----------|--------|--------------|
@@ -65,7 +65,6 @@
 | **1111 Old Eagle School Rd, Wayne, PA 19087** | 🟡 Screening Complete. Initial Conversations. | *2026-02-12* |
 | **1112 E Kennedy Blvd Tampa FL 33602** | New site from AV batch screening. Freestanding 6,510 SF building with own parking on Kennedy Blvd. Only standalone bu... | *2026-02-18* |
 | **1115 Walnut St Cary NC 27511** | New site from AV batch screening. Freestanding former restaurant (6,936 SF) with 74 dedicated parking spaces. Walnut ... | *2026-02-18* |
-| **114 Park Ave Winter Park FL 32789** | New site from AV batch screening. Freestanding retail (Lilly Pulitzer building) on Park Ave, Winter Park. Highest-sco... | *2026-02-18* |
 | **1190 Park Ave, New York, NY (Upper East Side)** | 🟡 Screening Complete. Initial Conversations. | *2026-02-12* |
 | **1215-1221 W Fairbanks Ave Orlando FL 32804** | New site from AV batch screening. Medical/dental strip in College Park area. College Park neighborhood parks have pla... | *2026-02-18* |
 | **1229 E Franklin St Chapel Hill NC 27514** | New site from AV batch screening. Freestanding retail, 5,112 SF total. Only 2,569 SF available — possibly too small. ... | *2026-02-18* |
@@ -135,13 +134,13 @@
 | Stage 2: Lease Negotiations | 10 |
 | Stage 1: LOI In Progress | 13 |
 | Stage 0.5: Due Diligence | 0 |
-| Stage 0: Tracking | 46 |
+| Stage 0: Tracking | 45 |
 | Operational | 12 |
-| Dead | 35 |
+| Dead | 36 |
 
-**Total Active Deals: 75**
+**Total Active Deals: 74**
 **Total Operational: 12**
-**Total Dead: 35**
+**Total Dead: 36**
 
 ---
 
