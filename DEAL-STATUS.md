@@ -1,5 +1,5 @@
 # Alpha Real Estate — Master Deal Status
-**Auto-generated:** February 18, 2026 | **For:** Leadership Review
+**Auto-generated:** February 19, 2026 | **For:** Leadership Review
 
 ---
 
@@ -11,21 +11,21 @@
 |----------|--------|--------------|
 | **1750 Rufe Snow Dr Keller TX** | 🟢 Lease Executed / Wire Confirmed. Christine received wire transfer confirmation from finance team (2/13). COI reques... | *2026-02-16* |
 
-### **STAGE 3: FINAL LEASE** (5)
+### **STAGE 3: FINAL LEASE** (6)
 
 | Property | Status | Last Updated |
 |----------|--------|--------------|
+| **1 Beach St, San Francisco, CA** | 🟢 LOI FULLY EXECUTED BY LANDLORD (2/18). Ross: "See attached fully executed LOI for beach!" Mike McCarthy (Transweste... | *2026-02-19* |
 | **2000 Woodlands Pkwy The Woodlands TX** | 🟡 Neeraj & Zack working to meet with John Saxon (Chief of Staff/VP Corp Dev) and Jim Carman (President, Texas Howard ... | *2026-02-13* |
 | **2200 NW 5th Ave Boca Raton FL** | 🟢 WIRE Sent for two week extension, expiring 2/20. Operations doing their deep diligence. Devin had inspector on site... | *2026-02-12* |
 | **307 Southgate Ct Brentwood TN** | 🟢 Final lease turns. Elissa Davis (SRD Legal) returned marked + clean copies of lease redlines (2/16). Zack forwarded... | *2026-02-16* |
 | **7979 Ivanhoe Ave La Jolla CA** | 🟢 LEASE IN REVIEW. LOI fully signed by landlord (2/12). Zack: "Off to the races! Let's get this thing closed." Lease ... | *2026-02-13* |
 | **838 SW 1st St Portland OR** | 🟢 Final lease out for signature. Kris Vogt (NAI Elliott) checking in on sewer line issue — asking if it's causing hes... | *2026-02-13* |
 
-### **STAGE 2: LEASE NEGOTIATIONS** (10)
+### **STAGE 2: LEASE NEGOTIATIONS** (9)
 
 | Property | Status | Last Updated |
 |----------|--------|--------------|
-| **1 Beach St, San Francisco, CA** | 🟢 LOI EXECUTED — LEASE PREP STARTING. Ross sent signed LOI to landlord (2/17): "Sending to landlord now so they can s... | *2026-02-16* |
 | **123 Washington St Norwalk CT 06854** | 🟢 LOI Executed. Nathan Wilson (AGW) confirmed access — on-site contact Gus Desouza will meet team. No elevator at pro... | *2026-02-13* |
 | **156 William St New York NY** | 🟢 LOI Executed. Landlord (LaSalle/Macklowe via CBRE) requested modified security deposit terms (2/17): 1 year rent up... | *2026-02-16* |
 | **350 E South Water St Chicago IL** | 🟢 LOI executed. Operations working through diligence. Neeraj working on financing and purchase agreement. With ops. | *2026-02-10* |
@@ -54,7 +54,7 @@
 | **Coconut Grove, Miami, FL (Allen Morris Development)** | 🟡 AMCO term sheet received 2/5. Two scenarios offered (AMCO has no preference). Ross reviewing, Harley followed up 2/... | *2026-02-09* |
 | **Ross School - Bridgehampton NY (Summer Camp)** | 🟡 Proposal submitted. Waiting on Board of Directors response on whether they will lease to Alpha. With Ops. Mark foll... | *2026-02-16* |
 
-### **STAGE 0: IDENTIFIED / TRACKING** (45)
+### **STAGE 0: IDENTIFIED / TRACKING** (44)
 
 | Property | Status | Last Updated |
 |----------|--------|--------------|
@@ -63,7 +63,6 @@
 | **10410-10496 Roosevelt Blvd N St Petersburg FL 33716** | New site from AV batch screening. Publix-anchored strip center in Gateway area. Best overall Tampa metro score at 61/... | *2026-02-18* |
 | **11002-11140 4th St N St Petersburg FL 33716** | New site from AV batch screening. Winn-Dixie anchored strip center in Gateway area. Similar to Roosevelt Blvd propert... | *2026-02-18* |
 | **1111 Old Eagle School Rd, Wayne, PA 19087** | 🟡 Screening Complete. Initial Conversations. | *2026-02-12* |
-| **1112 E Kennedy Blvd Tampa FL 33602** | New site from AV batch screening. Freestanding 6,510 SF building with own parking on Kennedy Blvd. Only standalone bu... | *2026-02-18* |
 | **1115 Walnut St Cary NC 27511** | New site from AV batch screening. Freestanding former restaurant (6,936 SF) with 74 dedicated parking spaces. Walnut ... | *2026-02-18* |
 | **1190 Park Ave, New York, NY (Upper East Side)** | 🟡 Screening Complete. Initial Conversations. | *2026-02-12* |
 | **1215-1221 W Fairbanks Ave Orlando FL 32804** | New site from AV batch screening. Medical/dental strip in College Park area. College Park neighborhood parks have pla... | *2026-02-18* |
@@ -130,18 +129,18 @@
 | Stage | Count |
 |-------|-------|
 | Stage 4: Handoff to Ops | 1 |
-| Stage 3: Final Lease | 5 |
-| Stage 2: Lease Negotiations | 10 |
+| Stage 3: Final Lease | 6 |
+| Stage 2: Lease Negotiations | 9 |
 | Stage 1: LOI In Progress | 13 |
 | Stage 0.5: Due Diligence | 0 |
-| Stage 0: Tracking | 45 |
+| Stage 0: Tracking | 44 |
 | Operational | 12 |
-| Dead | 36 |
+| Dead | 37 |
 
-**Total Active Deals: 74**
+**Total Active Deals: 73**
 **Total Operational: 12**
-**Total Dead: 36**
+**Total Dead: 37**
 
 ---
 
-*Auto-generated from Pipeline/ on 2026-02-18*
+*Auto-generated from Pipeline/ on 2026-02-19*
