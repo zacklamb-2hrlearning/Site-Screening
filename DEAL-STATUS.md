@@ -54,7 +54,7 @@
 | **Coconut Grove, Miami, FL (Allen Morris Development)** | 🟡 AMCO term sheet received 2/5. Two scenarios offered (AMCO has no preference). Ross reviewing, Harley followed up 2/... | *2026-02-09* |
 | **Ross School - Bridgehampton NY (Summer Camp)** | 🟡 Proposal submitted. Waiting on Board of Directors response on whether they will lease to Alpha. With Ops. Mark foll... | *2026-02-16* |
 
-### **STAGE 0: IDENTIFIED / TRACKING** (55)
+### **STAGE 0: IDENTIFIED / TRACKING** (76)
 
 | Property | Status | Last Updated |
 |----------|--------|--------------|
@@ -67,47 +67,68 @@
 | **11002-11140 4th St N St Petersburg FL 33716** | New site from AV batch screening. Winn-Dixie anchored strip center in Gateway area. Similar to Roosevelt Blvd propert... | *2026-02-18* |
 | **1111 Old Eagle School Rd, Wayne, PA 19087** | 🟡 Screening Complete. Initial Conversations. | *2026-02-12* |
 | **1115 Walnut St Cary NC 27511** | New site from AV batch screening. Freestanding former restaurant (6,936 SF) with 74 dedicated parking spaces. Walnut ... | *2026-02-18* |
+| **11250 E Via Linda Scottsdale AZ 85259** | New site from Scottsdale batch screening. STANDALONE freestanding former Walgreens, 1-story, 15,120 SF. Adjacent to C... | *2026-02-19* |
+| **11300 E Via Linda Scottsdale AZ 85259** | New site from Scottsdale batch screening. Strip center 1-story, 32,955 SF total, 17,955 SF available. Adjacent to Cho... | *2026-02-19* |
 | **1190 Park Ave, New York, NY (Upper East Side)** | 🟡 Screening Complete. Initial Conversations. | *2026-02-12* |
 | **120 Theory Irvine CA 92617** | New site from Irvine batch screening. UCI Research Park, Class A, 44,240 SF total. Suite 250 at 5,620 SF. NNN $2/SF/m... | *2026-02-19* |
 | **1215-1221 W Fairbanks Ave Orlando FL 32804** | New site from AV batch screening. Medical/dental strip in College Park area. College Park neighborhood parks have pla... | *2026-02-18* |
 | **1229 E Franklin St Chapel Hill NC 27514** | New site from AV batch screening. Freestanding retail, 5,112 SF total. Only 2,569 SF available — possibly too small. ... | *2026-02-18* |
 | **12425 28th St N St Petersburg FL 33716** | New site from AV batch screening. Medical/dental building with lakeside walking trail. Shared medical building but ha... | *2026-02-18* |
+| **12657-12871 N Tatum Blvd Scottsdale AZ 85254** | New site from Scottsdale batch screening. Neighborhood center 1-story, 45,404 SF total, 12,070 SF available. ~0.4mi f... | *2026-02-19* |
 | **130 Arsenal Yards Blvd, Watertown, MA 02472** | 🟡 Screening Complete. Initial Conversations. | *2026-02-07* |
 | **130 N Park Ave Winter Park FL 32789** | New site from AV batch screening. Multi-tenant building (former Ralph Lauren) on Park Ave, Winter Park. Same premium ... | *2026-02-18* |
 | **1316 Washington Ave, Houston, TX** | 🟡 Screening Complete. Initial Conversations. | *2026-02-12* |
+| **13875 N Northsight Blvd Scottsdale AZ 85260** | New site from Scottsdale batch screening. STANDALONE freestanding former bank, 1-story, 8,500 SF. ~0.15mi from Norths... | *2026-02-19* |
 | **139 E Chatham St Cary NC 27511** | New site from AV batch screening. Freestanding retail in downtown Cary, walking distance to Downtown Cary Park (The N... | *2026-02-18* |
 | **140 N Westmonte Dr Altamonte Springs FL 32714** | New site from AV batch screening. Medical office building with Westmonte Park playground within 0.4mi. Shared medical... | *2026-02-18* |
+| **14140 N 100th St Scottsdale AZ 85260** | New site from Scottsdale batch screening. STANDALONE freestanding bank pad, 1-story, 4,262 SF available of 7,723 SF t... | *2026-02-19* |
+| **15236 N Pima Rd Scottsdale AZ 85260** | New site from Scottsdale batch screening. STANDALONE former restaurant, 1-story, 2,500 SF total. ~0.45mi from Northsi... | *2026-02-19* |
+| **15445 N Scottsdale Rd Scottsdale AZ 85254** | New site from Scottsdale batch screening. STANDALONE 1-story building, 8,577 SF total. ~0.25mi from Kierland Park pla... | *2026-02-19* |
+| **15475 N Northsight Blvd Scottsdale AZ 85260** | New site from Scottsdale batch screening. STANDALONE freestanding (former Advance Auto Parts), 1-story, 6,889 SF. ~0.... | *2026-02-19* |
 | **16259 Laguna Canyon Rd Irvine CA 92618** | New site from Irvine batch screening. Freestanding standalone building in Irvine Oaks Executive Park (Olen Properties... | *2026-02-19* |
 | **1869 E Maple Rd Troy MI 48083** | 🟡 Screening Complete. Initial Conversations. | *2026-01-28* |
 | **19 Willow St, Natick, MA 01760 (Clock Tower Place)** | 🟡 Screening Complete. Initial Conversations. | *2026-02-11* |
 | **1950 Craig Rd, Maryland Heights, MO 63146** | 🟡 Screening Complete. Initial Conversations. | *2026-02-11* |
 | **200 Highland Blvd, Bozeman, MT 59715** | Deal created. Site screening complete. Score: 75/100 — GREEN. One of 5 Bozeman sites Zack touring week of 2/16 with B... | *2026-02-16* |
 | **200 Sorrell Grove Church Rd, Morrisville, NC 27560** | Deal created. Site screening complete. Score: 73/100 — AMBER. Key concern is parent perception in an airport/office p... | *2026-02-16* |
+| **20831 N Scottsdale Rd Scottsdale AZ 85255** | New site from Scottsdale batch screening. Neighborhood center 2-story, 27,464 SF total, 5,010 SF available. ~0.29mi f... | *2026-02-19* |
 | **210 Little Falls St Falls Church VA 22046** | 🟢 Screening Complete. Initial Conversations. | *2026-01-28* |
 | **235 Worcester Rd, Framingham, MA 01701** | 🟡 Screening Complete. Initial Conversations. | *2026-02-12* |
+| **2524 N Scottsdale Rd Scottsdale AZ 85257** | New site from Scottsdale batch screening. STANDALONE freestanding (former Pep Boys), 1-story, 12,361 SF available. ~0... | *2026-02-19* |
 | **2701 Valley View Ln Farmers Branch TX 75234** | 🟢 Screening Complete. Initial Conversations. | *2026-02-04* |
 | **2751 Colorado Blvd Los Angeles CA 90041** | 🟡 Screening Complete. Initial Conversations. | *2026-01-28* |
 | **2813-2821 N Henderson Ave, Dallas, TX 75206** | 🟡 Screening Complete. Initial Conversations. | *2026-02-12* |
 | **3031 14th St NW, Washington, DC 20009** | 🟡 Screening Complete. Initial Conversations. | *2026-02-12* |
+| **3080 N Civic Center Plaza Scottsdale AZ 85251** | New site from Scottsdale batch screening. Renovated former church, 1-story, 13,139 SF available of 23,240 SF total. ~... | *2026-02-19* |
 | **31 Hayward St, Franklin, MA 02038** | 🟡 Screening Complete. Initial Conversations. | *2026-02-12* |
 | **31 Union Ave, Sudbury, MA** | 🟡 Screening Complete. Initial Conversations. | *2026-02-12* |
 | **31 Waltham St Lexington MA 02421** | 🟡 Screening Complete. Initial Conversations. | *2026-02-04* |
 | **3300 Henry Ave, Philadelphia, PA 19129 (Falls Center)** | 🟡 Screening Complete. Initial Conversations. | *2026-02-12* |
 | **3800 Maple Ave, Dallas, TX 75219** | 🟡 Screening Complete. Initial Conversations. | *2026-02-12* |
 | **45 E Central St, Natick, MA 01760** | 🟡 Screening Complete. Initial Conversations. | *2026-02-12* |
+| **4501-4545 N Scottsdale Rd Scottsdale AZ 85251** | New site from Scottsdale batch screening. Strip center 1-story, 18,201 SF total, 3,912 SF available. ~0.2mi from Indi... | *2026-02-19* |
 | **4525 Lemmon Ave Dallas TX 75219** | 🟡 Screening Complete. Initial Conversations. | *2026-01-28* |
 | **460 Swedesford Rd, Wayne, PA 19087** | 🟡 Screening Complete. Initial Conversations. | *2026-02-12* |
 | **461 W 9th St San Pedro CA** | 🟢 Screening Complete. Initial Conversations. | *2026-01-29* |
 | **4633 E Shea Blvd, Phoenix, AZ 85028 — The Pyramid** | 🟢 New site. Ross scheduled "Scottsdale Alpha Call" via Teams (2/11-2/12) to discuss The Pyramid. Awaiting call outcom... | *2026-02-13* |
 | **4646 Dubai Way Frisco TX 75034** | 🟡 Screening Complete. Initial Conversations. | *2026-01-28* |
 | **47 Discovery Irvine CA 92618** | New site from Irvine batch screening. Discovery Business Center, Class A, 55,672 SF total. Multiple suites 2,517-8,15... | *2026-02-19* |
+| **4821 N Scottsdale Rd Scottsdale AZ 85251** | New site from Scottsdale batch screening. Strip center 1-story (Scottsdale Highland), 21,324 SF total, 5,059 SF avail... | *2026-02-19* |
 | **500 Technology Dr Irvine CA 92618** | New site from Irvine batch screening. The Quad @ Discovery Park, Class A, 105,643 SF total, built 2018, LEED Gold. Su... | *2026-02-19* |
 | **505 Technology Dr Irvine CA 92618** | New site from Irvine batch screening. Discovery Park campus, Class A, 79,200 SF total, built 2019. Suites 240 (3,639 ... | *2026-02-19* |
 | **525 Technology Dr Irvine CA 92618** | New site from Irvine batch screening. Discovery Park campus, Class A, 105,600 SF total, built 2019, LEED Silver. 6+ s... | *2026-02-19* |
 | **6701 Carmel Rd, Charlotte, NC 28226** | Deal created. Site screening complete. Score: 50/100 — AMBER (low end). Major concerns: 4-story multi-tenant office t... | *2026-02-16* |
 | **70 Discovery Irvine CA 92618** | New site from Irvine batch screening. Freestanding standalone single-story building, 5,846 SF total. FOR SALE (not le... | *2026-02-19* |
+| **7333 E Doubletree Ranch Rd Scottsdale AZ 85258** | New site from Scottsdale batch screening. Financial office 2-story, 58,330 SF total, 5,564 SF available. ~0.2mi from ... | *2026-02-19* |
+| **7624 E Indian School Rd Scottsdale AZ 85251** | New site from Scottsdale batch screening. Grocery-anchored center 1-story, 56,638 SF total, 8,936 SF available. ~0.15... | *2026-02-19* |
+| **7628 E Indian School Rd Scottsdale AZ 85251** | New site from Scottsdale batch screening. STANDALONE big box (former Fry's), 1-story, 16,022 SF available. ~0.12mi fr... | *2026-02-19* |
+| **7631-7633 E Indian School Rd Scottsdale AZ 85251** | New site from Scottsdale batch screening. STANDALONE whole building, 2-story, 23,905 SF total. Directly adjacent to I... | *2026-02-19* |
+| **7669 E Pinnacle Peak Rd Scottsdale AZ 85255** | New site from Scottsdale batch screening. Retail strip 2-story (Shops at Pinnacle Peak), 56,477 SF total, 5,305 SF av... | *2026-02-19* |
+| **8502 E Princess Dr Scottsdale AZ 85255** | New site from Scottsdale batch screening. Mixed-use 2-story, 49,174 SF total, 4,754 SF available. ~0.08mi from Scotts... | *2026-02-19* |
 | **8618 Fenton St Silver Spring MD 20910** | 🟡 Screening Complete. Initial Conversations. | *2026-02-04* |
 | **96-98 Discovery Irvine CA 92618** | New site from Irvine batch screening. Freestanding single-story "high-image" office building, 8,082 SF total. Suite 9... | *2026-02-19* |
+| **9831 E Bell Rd Scottsdale AZ 85260** | New site from Scottsdale batch screening. Whole building 1-story, 7,024 SF total, 6,512 SF available. ~0.9mi from Hor... | *2026-02-19* |
+| **9937 E Bell Rd Scottsdale AZ 85260** | New site from Scottsdale batch screening. Whole building 1-story, 6,400 SF total. ~0.95mi from Horizon Park. $24/SF/y... | *2026-02-19* |
 | **Bozeman MT TBD** | 🟢 GREEN LIGHT. Neeraj, Brannin, Zack - Full steam ahead. Have 4 sites we are gathering information on. Brannin will p... | *2026-02-10* |
 | **Massachusetts Hall, Cambridge, MA 02138** | 🟡 Screening Complete. Initial Conversations. | *2026-02-07* |
 | **Hayground School - Bridgehampton NY (Summer Camp)** | 🟡 Preliminary discussions indicate openness to simultaneous operation. Issue: shared space, not exclusive use we desire. | *2026-02-05* |
@@ -144,11 +165,11 @@
 | Stage 2: Lease Negotiations | 9 |
 | Stage 1: LOI In Progress | 13 |
 | Stage 0.5: Due Diligence | 0 |
-| Stage 0: Tracking | 55 |
+| Stage 0: Tracking | 76 |
 | Operational | 12 |
 | Dead | 37 |
 
-**Total Active Deals: 84**
+**Total Active Deals: 105**
 **Total Operational: 12**
 **Total Dead: 37**
 
