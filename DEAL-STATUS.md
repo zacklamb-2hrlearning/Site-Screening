@@ -54,7 +54,7 @@
 | **Coconut Grove, Miami, FL (Allen Morris Development)** | 🟡 AMCO term sheet received 2/5. Two scenarios offered (AMCO has no preference). Ross reviewing, Harley followed up 2/... | *2026-02-09* |
 | **Ross School - Bridgehampton NY (Summer Camp)** | 🟡 Proposal submitted. Waiting on Board of Directors response on whether they will lease to Alpha. With Ops. Mark foll... | *2026-02-16* |
 
-### **STAGE 0: IDENTIFIED / TRACKING** (50)
+### **STAGE 0: IDENTIFIED / TRACKING** (55)
 
 | Property | Status | Last Updated |
 |----------|--------|--------------|
@@ -77,6 +77,7 @@
 | **1316 Washington Ave, Houston, TX** | 🟡 Screening Complete. Initial Conversations. | *2026-02-12* |
 | **139 E Chatham St Cary NC 27511** | New site from AV batch screening. Freestanding retail in downtown Cary, walking distance to Downtown Cary Park (The N... | *2026-02-18* |
 | **140 N Westmonte Dr Altamonte Springs FL 32714** | New site from AV batch screening. Medical office building with Westmonte Park playground within 0.4mi. Shared medical... | *2026-02-18* |
+| **16259 Laguna Canyon Rd Irvine CA 92618** | New site from Irvine batch screening. Freestanding standalone building in Irvine Oaks Executive Park (Olen Properties... | *2026-02-19* |
 | **1869 E Maple Rd Troy MI 48083** | 🟡 Screening Complete. Initial Conversations. | *2026-01-28* |
 | **19 Willow St, Natick, MA 01760 (Clock Tower Place)** | 🟡 Screening Complete. Initial Conversations. | *2026-02-11* |
 | **1950 Craig Rd, Maryland Heights, MO 63146** | 🟡 Screening Complete. Initial Conversations. | *2026-02-11* |
@@ -100,9 +101,13 @@
 | **4633 E Shea Blvd, Phoenix, AZ 85028 — The Pyramid** | 🟢 New site. Ross scheduled "Scottsdale Alpha Call" via Teams (2/11-2/12) to discuss The Pyramid. Awaiting call outcom... | *2026-02-13* |
 | **4646 Dubai Way Frisco TX 75034** | 🟡 Screening Complete. Initial Conversations. | *2026-01-28* |
 | **47 Discovery Irvine CA 92618** | New site from Irvine batch screening. Discovery Business Center, Class A, 55,672 SF total. Multiple suites 2,517-8,15... | *2026-02-19* |
+| **500 Technology Dr Irvine CA 92618** | New site from Irvine batch screening. The Quad @ Discovery Park, Class A, 105,643 SF total, built 2018, LEED Gold. Su... | *2026-02-19* |
+| **505 Technology Dr Irvine CA 92618** | New site from Irvine batch screening. Discovery Park campus, Class A, 79,200 SF total, built 2019. Suites 240 (3,639 ... | *2026-02-19* |
+| **525 Technology Dr Irvine CA 92618** | New site from Irvine batch screening. Discovery Park campus, Class A, 105,600 SF total, built 2019, LEED Silver. 6+ s... | *2026-02-19* |
 | **6701 Carmel Rd, Charlotte, NC 28226** | Deal created. Site screening complete. Score: 50/100 — AMBER (low end). Major concerns: 4-story multi-tenant office t... | *2026-02-16* |
 | **70 Discovery Irvine CA 92618** | New site from Irvine batch screening. Freestanding standalone single-story building, 5,846 SF total. FOR SALE (not le... | *2026-02-19* |
 | **8618 Fenton St Silver Spring MD 20910** | 🟡 Screening Complete. Initial Conversations. | *2026-02-04* |
+| **96-98 Discovery Irvine CA 92618** | New site from Irvine batch screening. Freestanding single-story "high-image" office building, 8,082 SF total. Suite 9... | *2026-02-19* |
 | **Bozeman MT TBD** | 🟢 GREEN LIGHT. Neeraj, Brannin, Zack - Full steam ahead. Have 4 sites we are gathering information on. Brannin will p... | *2026-02-10* |
 | **Massachusetts Hall, Cambridge, MA 02138** | 🟡 Screening Complete. Initial Conversations. | *2026-02-07* |
 | **Hayground School - Bridgehampton NY (Summer Camp)** | 🟡 Preliminary discussions indicate openness to simultaneous operation. Issue: shared space, not exclusive use we desire. | *2026-02-05* |
@@ -139,11 +144,11 @@
 | Stage 2: Lease Negotiations | 9 |
 | Stage 1: LOI In Progress | 13 |
 | Stage 0.5: Due Diligence | 0 |
-| Stage 0: Tracking | 50 |
+| Stage 0: Tracking | 55 |
 | Operational | 12 |
 | Dead | 37 |
 
-**Total Active Deals: 79**
+**Total Active Deals: 84**
 **Total Operational: 12**
 **Total Dead: 37**
 
