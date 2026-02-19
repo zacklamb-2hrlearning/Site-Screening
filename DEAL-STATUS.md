@@ -54,17 +54,21 @@
 | **Coconut Grove, Miami, FL (Allen Morris Development)** | 🟡 AMCO term sheet received 2/5. Two scenarios offered (AMCO has no preference). Ross reviewing, Harley followed up 2/... | *2026-02-09* |
 | **Ross School - Bridgehampton NY (Summer Camp)** | 🟡 Proposal submitted. Waiting on Board of Directors response on whether they will lease to Alpha. With Ops. Mark foll... | *2026-02-16* |
 
-### **STAGE 0: IDENTIFIED / TRACKING** (44)
+### **STAGE 0: IDENTIFIED / TRACKING** (50)
 
 | Property | Status | Last Updated |
 |----------|--------|--------------|
+| **1 Jenner Irvine CA 92618** | New site from Irvine batch screening. Jenner Business Park — 8-building industrial/flex park. Class B, built 1987. Su... | *2026-02-19* |
 | **10 Shoshone Dr, Carmel, IN 46032** | 🟡 Screening Complete. Initial Conversations. | *2026-02-12* |
 | **1003 Egypt Rd, Phoenixville, PA 19460** | 🟡 Screening Complete. Initial Conversations. | *2026-02-12* |
 | **10410-10496 Roosevelt Blvd N St Petersburg FL 33716** | New site from AV batch screening. Publix-anchored strip center in Gateway area. Best overall Tampa metro score at 61/... | *2026-02-18* |
+| **108 Discovery Irvine CA 92618** | New site from Irvine batch screening. Freestanding single-story corner building, 9,934 SF total. FOR SALE. "High-imag... | *2026-02-19* |
+| **110 Progress Irvine CA 92618** | New site from Irvine batch screening. Innovation Office Park (Irvine Company) — flagship 28-building low-rise campus ... | *2026-02-19* |
 | **11002-11140 4th St N St Petersburg FL 33716** | New site from AV batch screening. Winn-Dixie anchored strip center in Gateway area. Similar to Roosevelt Blvd propert... | *2026-02-18* |
 | **1111 Old Eagle School Rd, Wayne, PA 19087** | 🟡 Screening Complete. Initial Conversations. | *2026-02-12* |
 | **1115 Walnut St Cary NC 27511** | New site from AV batch screening. Freestanding former restaurant (6,936 SF) with 74 dedicated parking spaces. Walnut ... | *2026-02-18* |
 | **1190 Park Ave, New York, NY (Upper East Side)** | 🟡 Screening Complete. Initial Conversations. | *2026-02-12* |
+| **120 Theory Irvine CA 92617** | New site from Irvine batch screening. UCI Research Park, Class A, 44,240 SF total. Suite 250 at 5,620 SF. NNN $2/SF/m... | *2026-02-19* |
 | **1215-1221 W Fairbanks Ave Orlando FL 32804** | New site from AV batch screening. Medical/dental strip in College Park area. College Park neighborhood parks have pla... | *2026-02-18* |
 | **1229 E Franklin St Chapel Hill NC 27514** | New site from AV batch screening. Freestanding retail, 5,112 SF total. Only 2,569 SF available — possibly too small. ... | *2026-02-18* |
 | **12425 28th St N St Petersburg FL 33716** | New site from AV batch screening. Medical/dental building with lakeside walking trail. Shared medical building but ha... | *2026-02-18* |
@@ -95,7 +99,9 @@
 | **461 W 9th St San Pedro CA** | 🟢 Screening Complete. Initial Conversations. | *2026-01-29* |
 | **4633 E Shea Blvd, Phoenix, AZ 85028 — The Pyramid** | 🟢 New site. Ross scheduled "Scottsdale Alpha Call" via Teams (2/11-2/12) to discuss The Pyramid. Awaiting call outcom... | *2026-02-13* |
 | **4646 Dubai Way Frisco TX 75034** | 🟡 Screening Complete. Initial Conversations. | *2026-01-28* |
+| **47 Discovery Irvine CA 92618** | New site from Irvine batch screening. Discovery Business Center, Class A, 55,672 SF total. Multiple suites 2,517-8,15... | *2026-02-19* |
 | **6701 Carmel Rd, Charlotte, NC 28226** | Deal created. Site screening complete. Score: 50/100 — AMBER (low end). Major concerns: 4-story multi-tenant office t... | *2026-02-16* |
+| **70 Discovery Irvine CA 92618** | New site from Irvine batch screening. Freestanding standalone single-story building, 5,846 SF total. FOR SALE (not le... | *2026-02-19* |
 | **8618 Fenton St Silver Spring MD 20910** | 🟡 Screening Complete. Initial Conversations. | *2026-02-04* |
 | **Bozeman MT TBD** | 🟢 GREEN LIGHT. Neeraj, Brannin, Zack - Full steam ahead. Have 4 sites we are gathering information on. Brannin will p... | *2026-02-10* |
 | **Massachusetts Hall, Cambridge, MA 02138** | 🟡 Screening Complete. Initial Conversations. | *2026-02-07* |
@@ -133,11 +139,11 @@
 | Stage 2: Lease Negotiations | 9 |
 | Stage 1: LOI In Progress | 13 |
 | Stage 0.5: Due Diligence | 0 |
-| Stage 0: Tracking | 44 |
+| Stage 0: Tracking | 50 |
 | Operational | 12 |
 | Dead | 37 |
 
-**Total Active Deals: 73**
+**Total Active Deals: 79**
 **Total Operational: 12**
 **Total Dead: 37**
 
