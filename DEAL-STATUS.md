@@ -54,7 +54,7 @@
 | **3301 Grand Avenue, Miami, Florida 33133 (Coconut Grove)** | 🟡 AMCO term sheet received 2/5. Two scenarios offered (AMCO has no preference). Ross reviewing, Harley followed up 2/... | *2026-02-09* |
 | **Ross School - Bridgehampton NY (Summer Camp)** | 🟡 Proposal submitted. Waiting on Board of Directors response on whether they will lease to Alpha. With Ops. Mark foll... | *2026-02-16* |
 
-### **STAGE 0: IDENTIFIED / TRACKING** (77)
+### **STAGE 0: IDENTIFIED / TRACKING** (78)
 
 | Property | Status | Last Updated |
 |----------|--------|--------------|
@@ -119,6 +119,7 @@
 | **4821 N Scottsdale Rd Scottsdale AZ 85251** | New site from Scottsdale batch screening. Strip center 1-story (Scottsdale Highland), 21,324 SF total, 5,059 SF avail... | *2026-02-19* |
 | **500 Technology Dr Irvine CA 92618** | New site from Irvine batch screening. The Quad @ Discovery Park, Class A, 105,643 SF total, built 2018, LEED Gold. Su... | *2026-02-19* |
 | **501 E Morehead St, Charlotte NC** | AI site screening complete. Standalone single-story building for sale in Dilworth. Full control over renovation. 8,00... | *2026-02-20* |
+| **501 Palm St, West Palm Beach FL (Imperial Plaza)** | AI site screening complete. AMBER (63/100). Prestige location in Arts & Design District — Imperial Plaza luxury campu... | *2026-02-20* |
 | **505 Technology Dr Irvine CA 92618** | New site from Irvine batch screening. Discovery Park campus, Class A, 79,200 SF total, built 2019. Suites 240 (3,639 ... | *2026-02-19* |
 | **525 Technology Dr Irvine CA 92618** | New site from Irvine batch screening. Discovery Park campus, Class A, 105,600 SF total, built 2019, LEED Silver. 6+ s... | *2026-02-19* |
 | **6701 Carmel Rd, Charlotte, NC 28226** | Deal created. Site screening complete. Score: 50/100 — AMBER (low end). Major concerns: 4-story multi-tenant office t... | *2026-02-16* |
@@ -166,11 +167,11 @@
 | Stage 2: Lease Negotiations | 9 |
 | Stage 1: LOI In Progress | 13 |
 | Stage 0.5: Due Diligence | 0 |
-| Stage 0: Tracking | 77 |
+| Stage 0: Tracking | 78 |
 | Operational | 12 |
 | Dead | 43 |
 
-**Total Active Deals: 106**
+**Total Active Deals: 107**
 **Total Operational: 12**
 **Total Dead: 43**
 
