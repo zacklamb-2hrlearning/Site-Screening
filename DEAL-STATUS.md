@@ -54,7 +54,7 @@
 | **3301 Grand Avenue, Miami, Florida 33133 (Coconut Grove)** | 🟡 AMCO term sheet received 2/5. Two scenarios offered (AMCO has no preference). Ross reviewing, Harley followed up 2/... | *2026-02-09* |
 | **Ross School - Bridgehampton NY (Summer Camp)** | 🟡 Proposal submitted. Waiting on Board of Directors response on whether they will lease to Alpha. With Ops. Mark foll... | *2026-02-16* |
 
-### **STAGE 0: IDENTIFIED / TRACKING** (83)
+### **STAGE 0: IDENTIFIED / TRACKING** (80)
 
 | Property | Status | Last Updated |
 |----------|--------|--------------|
@@ -73,7 +73,6 @@
 | **11300 E Via Linda Scottsdale AZ 85259** | New site from Scottsdale batch screening. Strip center 1-story, 32,955 SF total, 17,955 SF available. Adjacent to Cho... | *2026-02-19* |
 | **1190 Park Ave, New York, NY (Upper East Side)** | 🟡 Screening Complete. Initial Conversations. | *2026-02-12* |
 | **120 Theory Irvine CA 92617** | New site from Irvine batch screening. UCI Research Park, Class A, 44,240 SF total. Suite 250 at 5,620 SF. NNN $2/SF/m... | *2026-02-19* |
-| **1215-1221 W Fairbanks Ave Orlando FL 32804** | New site from AV batch screening. Medical/dental strip in College Park area. College Park neighborhood parks have pla... | *2026-02-18* |
 | **1229 E Franklin St Chapel Hill NC 27514** | New site from AV batch screening. Freestanding retail, 5,112 SF total. Only 2,569 SF available — possibly too small. ... | *2026-02-18* |
 | **12425 28th St N St Petersburg FL 33716** | New site from AV batch screening. Medical/dental building with lakeside walking trail. Shared medical building but ha... | *2026-02-18* |
 | **12657-12871 N Tatum Blvd Scottsdale AZ 85254** | New site from Scottsdale batch screening. Neighborhood center 1-story, 45,404 SF total, 12,070 SF available. ~0.4mi f... | *2026-02-19* |
@@ -83,7 +82,6 @@
 | **1316 Washington Ave, Houston, TX** | 🟡 Screening Complete. Initial Conversations. | *2026-02-12* |
 | **13200 Falls of Neuse Rd, Raleigh NC (Wakefield Crossing)** | AI site screening complete. Strong demographics (A-, $123K) in affluent Wakefield suburb. 2001 build, 1-floor retail.... | *2026-02-20* |
 | **13875 N Northsight Blvd Scottsdale AZ 85260** | New site from Scottsdale batch screening. STANDALONE freestanding former bank, 1-story, 8,500 SF. ~0.15mi from Norths... | *2026-02-19* |
-| **139 E Chatham St Cary NC 27511** | New site from AV batch screening. Freestanding retail in downtown Cary, walking distance to Downtown Cary Park (The N... | *2026-02-18* |
 | **140 N Westmonte Dr Altamonte Springs FL 32714** | New site from AV batch screening. Medical office building with Westmonte Park playground within 0.4mi. Shared medical... | *2026-02-18* |
 | **14140 N 100th St Scottsdale AZ 85260** | New site from Scottsdale batch screening. STANDALONE freestanding bank pad, 1-story, 4,262 SF available of 7,723 SF t... | *2026-02-19* |
 | **1431 South Blvd, Charlotte NC** | AI site screening complete. Freestanding standalone building in South End — no shared lobby, own parking lot, dedicat... | *2026-02-20* |
@@ -100,7 +98,6 @@
 | **210 Little Falls St Falls Church VA 22046** | 🟢 Screening Complete. Initial Conversations. | *2026-01-28* |
 | **235 Worcester Rd, Framingham, MA 01701** | 🟡 Screening Complete. Initial Conversations. | *2026-02-12* |
 | **2524 N Scottsdale Rd Scottsdale AZ 85257** | New site from Scottsdale batch screening. STANDALONE freestanding (former Pep Boys), 1-story, 12,361 SF available. ~0... | *2026-02-19* |
-| **2701 Valley View Ln Farmers Branch TX 75234** | 🟢 Screening Complete. Initial Conversations. | *2026-02-04* |
 | **2751 Colorado Blvd Los Angeles CA 90041** | 🟡 Screening Complete. Initial Conversations. | *2026-01-28* |
 | **2813-2821 N Henderson Ave, Dallas, TX 75206** | 🟡 Screening Complete. Initial Conversations. | *2026-02-12* |
 | **3031 14th St NW, Washington, DC 20009** | 🟡 Screening Complete. Initial Conversations. | *2026-02-12* |
@@ -172,13 +169,13 @@
 | Stage 2: Lease Negotiations | 9 |
 | Stage 1: LOI In Progress | 13 |
 | Stage 0.5: Due Diligence | 0 |
-| Stage 0: Tracking | 83 |
+| Stage 0: Tracking | 80 |
 | Operational | 12 |
-| Dead | 37 |
+| Dead | 40 |
 
-**Total Active Deals: 112**
+**Total Active Deals: 109**
 **Total Operational: 12**
-**Total Dead: 37**
+**Total Dead: 40**
 
 ---
 
