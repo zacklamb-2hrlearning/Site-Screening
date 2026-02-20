@@ -54,7 +54,7 @@
 | **3301 Grand Avenue, Miami, Florida 33133 (Coconut Grove)** | 🟡 AMCO term sheet received 2/5. Two scenarios offered (AMCO has no preference). Ross reviewing, Harley followed up 2/... | *2026-02-09* |
 | **Ross School - Bridgehampton NY (Summer Camp)** | 🟡 Proposal submitted. Waiting on Board of Directors response on whether they will lease to Alpha. With Ops. Mark foll... | *2026-02-16* |
 
-### **STAGE 0: IDENTIFIED / TRACKING** (80)
+### **STAGE 0: IDENTIFIED / TRACKING** (77)
 
 | Property | Status | Last Updated |
 |----------|--------|--------------|
@@ -134,10 +134,7 @@
 | **9831 E Bell Rd Scottsdale AZ 85260** | New site from Scottsdale batch screening. Whole building 1-story, 7,024 SF total, 6,512 SF available. ~0.9mi from Hor... | *2026-02-19* |
 | **9937 E Bell Rd Scottsdale AZ 85260** | New site from Scottsdale batch screening. Whole building 1-story, 6,400 SF total. ~0.95mi from Horizon Park. $24/SF/y... | *2026-02-19* |
 | **Bozeman MT TBD** | 🟢 GREEN LIGHT. Neeraj, Brannin, Zack - Full steam ahead. Have 4 sites we are gathering information on. Brannin will p... | *2026-02-10* |
-| **Massachusetts Hall, Cambridge, MA 02138** | 🟡 Screening Complete. Initial Conversations. | *2026-02-07* |
-| **Hayground School - Bridgehampton NY (Summer Camp)** | 🟡 Preliminary discussions indicate openness to simultaneous operation. Issue: shared space, not exclusive use we desire. | *2026-02-05* |
 | **OKC TBD** | 🟡 Screening Complete. Initial Conversations. | *2026-01-28* |
-| **Stony Brook University Southampton Campus (Summer Camp)** | 🟡 Screening Complete. Initial Conversations. | *2026-02-05* |
 
 ---
 
@@ -169,13 +166,13 @@
 | Stage 2: Lease Negotiations | 9 |
 | Stage 1: LOI In Progress | 13 |
 | Stage 0.5: Due Diligence | 0 |
-| Stage 0: Tracking | 80 |
+| Stage 0: Tracking | 77 |
 | Operational | 12 |
-| Dead | 40 |
+| Dead | 43 |
 
-**Total Active Deals: 109**
+**Total Active Deals: 106**
 **Total Operational: 12**
-**Total Dead: 40**
+**Total Dead: 43**
 
 ---
 
