@@ -54,17 +54,19 @@
 | **3301 Grand Avenue, Miami, Florida 33133 (Coconut Grove)** | 🟡 AMCO term sheet received 2/5. Two scenarios offered (AMCO has no preference). Ross reviewing, Harley followed up 2/... | *2026-02-09* |
 | **Ross School - Bridgehampton NY (Summer Camp)** | 🟡 Proposal submitted. Waiting on Board of Directors response on whether they will lease to Alpha. With Ops. Mark foll... | *2026-02-16* |
 
-### **STAGE 0: IDENTIFIED / TRACKING** (76)
+### **STAGE 0: IDENTIFIED / TRACKING** (83)
 
 | Property | Status | Last Updated |
 |----------|--------|--------------|
 | **1 Jenner Irvine CA 92618** | New site from Irvine batch screening. Jenner Business Park — 8-building industrial/flex park. Class B, built 1987. Su... | *2026-02-19* |
 | **10 Shoshone Dr, Carmel, IN 46032** | 🟡 Screening Complete. Initial Conversations. | *2026-02-12* |
+| **1000 W Main St, Durham NC** | AI site screening complete. Strong location near Duke University in Brightleaf area. 1925 building fully renovated. U... | *2026-02-20* |
 | **1003 Egypt Rd, Phoenixville, PA 19460** | 🟡 Screening Complete. Initial Conversations. | *2026-02-12* |
 | **10410-10496 Roosevelt Blvd N St Petersburg FL 33716** | New site from AV batch screening. Publix-anchored strip center in Gateway area. Best overall Tampa metro score at 61/... | *2026-02-18* |
 | **108 Discovery Irvine CA 92618** | New site from Irvine batch screening. Freestanding single-story corner building, 9,934 SF total. FOR SALE. "High-imag... | *2026-02-19* |
 | **110 Progress Irvine CA 92618** | New site from Irvine batch screening. Innovation Office Park (Irvine Company) — flagship 28-building low-rise campus ... | *2026-02-19* |
 | **11002-11140 4th St N St Petersburg FL 33716** | New site from AV batch screening. Winn-Dixie anchored strip center in Gateway area. Similar to Roosevelt Blvd propert... | *2026-02-18* |
+| **1110 Holmes St & 556 Bragg St, Raleigh NC** | AI site screening complete. Standalone former church (Bible Way Temple) on 2.43 acres. Strong physical fit — standalo... | *2026-02-20* |
 | **1111 Old Eagle School Rd, Wayne, PA 19087** | 🟡 Screening Complete. Initial Conversations. | *2026-02-12* |
 | **1115 Walnut St Cary NC 27511** | New site from AV batch screening. Freestanding former restaurant (6,936 SF) with 74 dedicated parking spaces. Walnut ... | *2026-02-18* |
 | **11250 E Via Linda Scottsdale AZ 85259** | New site from Scottsdale batch screening. STANDALONE freestanding former Walgreens, 1-story, 15,120 SF. Adjacent to C... | *2026-02-19* |
@@ -77,11 +79,14 @@
 | **12657-12871 N Tatum Blvd Scottsdale AZ 85254** | New site from Scottsdale batch screening. Neighborhood center 1-story, 45,404 SF total, 12,070 SF available. ~0.4mi f... | *2026-02-19* |
 | **130 Arsenal Yards Blvd, Watertown, MA 02472** | 🟡 Screening Complete. Initial Conversations. | *2026-02-07* |
 | **130 N Park Ave Winter Park FL 32789** | New site from AV batch screening. Multi-tenant building (former Ralph Lauren) on Park Ave, Winter Park. Same premium ... | *2026-02-18* |
+| **1312 Annapolis Dr, Raleigh NC** | AI site screening complete. Cameron Village / Village District area — best demographics in Raleigh batch ($155K media... | *2026-02-20* |
 | **1316 Washington Ave, Houston, TX** | 🟡 Screening Complete. Initial Conversations. | *2026-02-12* |
+| **13200 Falls of Neuse Rd, Raleigh NC (Wakefield Crossing)** | AI site screening complete. Strong demographics (A-, $123K) in affluent Wakefield suburb. 2001 build, 1-floor retail.... | *2026-02-20* |
 | **13875 N Northsight Blvd Scottsdale AZ 85260** | New site from Scottsdale batch screening. STANDALONE freestanding former bank, 1-story, 8,500 SF. ~0.15mi from Norths... | *2026-02-19* |
 | **139 E Chatham St Cary NC 27511** | New site from AV batch screening. Freestanding retail in downtown Cary, walking distance to Downtown Cary Park (The N... | *2026-02-18* |
 | **140 N Westmonte Dr Altamonte Springs FL 32714** | New site from AV batch screening. Medical office building with Westmonte Park playground within 0.4mi. Shared medical... | *2026-02-18* |
 | **14140 N 100th St Scottsdale AZ 85260** | New site from Scottsdale batch screening. STANDALONE freestanding bank pad, 1-story, 4,262 SF available of 7,723 SF t... | *2026-02-19* |
+| **1431 South Blvd, Charlotte NC** | AI site screening complete. Freestanding standalone building in South End — no shared lobby, own parking lot, dedicat... | *2026-02-20* |
 | **15236 N Pima Rd Scottsdale AZ 85260** | New site from Scottsdale batch screening. STANDALONE former restaurant, 1-story, 2,500 SF total. ~0.45mi from Northsi... | *2026-02-19* |
 | **15445 N Scottsdale Rd Scottsdale AZ 85254** | New site from Scottsdale batch screening. STANDALONE 1-story building, 8,577 SF total. ~0.25mi from Kierland Park pla... | *2026-02-19* |
 | **15475 N Northsight Blvd Scottsdale AZ 85260** | New site from Scottsdale batch screening. STANDALONE freestanding (former Advance Auto Parts), 1-story, 6,889 SF. ~0.... | *2026-02-19* |
@@ -103,6 +108,7 @@
 | **31 Hayward St, Franklin, MA 02038** | 🟡 Screening Complete. Initial Conversations. | *2026-02-12* |
 | **31 Union Ave, Sudbury, MA** | 🟡 Screening Complete. Initial Conversations. | *2026-02-12* |
 | **31 Waltham St Lexington MA 02421** | 🟡 Screening Complete. Initial Conversations. | *2026-02-04* |
+| **3100 NC 55 Hwy, Cary NC (Somerset 55)** | AI site screening complete — GREEN. Top candidate from NC batch. Private exterior first-floor entrance confirmed in l... | *2026-02-20* |
 | **3300 Henry Ave, Philadelphia, PA 19129 (Falls Center)** | 🟡 Screening Complete. Initial Conversations. | *2026-02-12* |
 | **3800 Maple Ave, Dallas, TX 75219** | 🟡 Screening Complete. Initial Conversations. | *2026-02-12* |
 | **45 E Central St, Natick, MA 01760** | 🟡 Screening Complete. Initial Conversations. | *2026-02-12* |
@@ -115,6 +121,7 @@
 | **47 Discovery Irvine CA 92618** | New site from Irvine batch screening. Discovery Business Center, Class A, 55,672 SF total. Multiple suites 2,517-8,15... | *2026-02-19* |
 | **4821 N Scottsdale Rd Scottsdale AZ 85251** | New site from Scottsdale batch screening. Strip center 1-story (Scottsdale Highland), 21,324 SF total, 5,059 SF avail... | *2026-02-19* |
 | **500 Technology Dr Irvine CA 92618** | New site from Irvine batch screening. The Quad @ Discovery Park, Class A, 105,643 SF total, built 2018, LEED Gold. Su... | *2026-02-19* |
+| **501 E Morehead St, Charlotte NC** | AI site screening complete. Standalone single-story building for sale in Dilworth. Full control over renovation. 8,00... | *2026-02-20* |
 | **505 Technology Dr Irvine CA 92618** | New site from Irvine batch screening. Discovery Park campus, Class A, 79,200 SF total, built 2019. Suites 240 (3,639 ... | *2026-02-19* |
 | **525 Technology Dr Irvine CA 92618** | New site from Irvine batch screening. Discovery Park campus, Class A, 105,600 SF total, built 2019, LEED Silver. 6+ s... | *2026-02-19* |
 | **6701 Carmel Rd, Charlotte, NC 28226** | Deal created. Site screening complete. Score: 50/100 — AMBER (low end). Major concerns: 4-story multi-tenant office t... | *2026-02-16* |
@@ -165,11 +172,11 @@
 | Stage 2: Lease Negotiations | 9 |
 | Stage 1: LOI In Progress | 13 |
 | Stage 0.5: Due Diligence | 0 |
-| Stage 0: Tracking | 76 |
+| Stage 0: Tracking | 83 |
 | Operational | 12 |
 | Dead | 37 |
 
-**Total Active Deals: 105**
+**Total Active Deals: 112**
 **Total Operational: 12**
 **Total Dead: 37**
 
