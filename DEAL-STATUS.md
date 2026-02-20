@@ -54,7 +54,7 @@
 | **3301 Grand Avenue, Miami, Florida 33133 (Coconut Grove)** | 🟡 AMCO term sheet received 2/5. Two scenarios offered (AMCO has no preference). Ross reviewing, Harley followed up 2/... | *2026-02-09* |
 | **Ross School - Bridgehampton NY (Summer Camp)** | 🟡 Proposal submitted. Waiting on Board of Directors response on whether they will lease to Alpha. With Ops. Mark foll... | *2026-02-16* |
 
-### **STAGE 0: IDENTIFIED / TRACKING** (78)
+### **STAGE 0: IDENTIFIED / TRACKING** (79)
 
 | Property | Status | Last Updated |
 |----------|--------|--------------|
@@ -99,6 +99,7 @@
 | **235 Worcester Rd, Framingham, MA 01701** | 🟡 Screening Complete. Initial Conversations. | *2026-02-12* |
 | **2524 N Scottsdale Rd Scottsdale AZ 85257** | New site from Scottsdale batch screening. STANDALONE freestanding (former Pep Boys), 1-story, 12,361 SF available. ~0... | *2026-02-19* |
 | **2751 Colorado Blvd Los Angeles CA 90041** | 🟡 Screening Complete. Initial Conversations. | *2026-01-28* |
+| **2751-2807 S Dixie Hwy, West Palm Beach FL 33405 (The Press)** | AI site screening complete. GREEN (75/100). Former Palm Beach Post HQ — now "The Press," a $80M luxury mixed-use camp... | *2026-02-20* |
 | **2813-2821 N Henderson Ave, Dallas, TX 75206** | 🟡 Screening Complete. Initial Conversations. | *2026-02-12* |
 | **3031 14th St NW, Washington, DC 20009** | 🟡 Screening Complete. Initial Conversations. | *2026-02-12* |
 | **3080 N Civic Center Plaza Scottsdale AZ 85251** | New site from Scottsdale batch screening. Renovated former church, 1-story, 13,139 SF available of 23,240 SF total. ~... | *2026-02-19* |
@@ -167,11 +168,11 @@
 | Stage 2: Lease Negotiations | 9 |
 | Stage 1: LOI In Progress | 13 |
 | Stage 0.5: Due Diligence | 0 |
-| Stage 0: Tracking | 78 |
+| Stage 0: Tracking | 79 |
 | Operational | 12 |
 | Dead | 43 |
 
-**Total Active Deals: 107**
+**Total Active Deals: 108**
 **Total Operational: 12**
 **Total Dead: 43**
 
