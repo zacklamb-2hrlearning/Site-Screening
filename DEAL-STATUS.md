@@ -51,7 +51,7 @@
 | **4152 Cole Ave, Dallas, TX 75205** | 🟢 LOI submitted (2/16). Thomas Glendenning (Shop Companies): "Will review this with ownership and get back to you sho... | *2026-02-18* |
 | **600-614 Chapala St, Santa Barbara, CA 93101** | 🟡 LL response received 2/5/26. Tenant redline in progress. With Ops. Two standalone buildings (former Sonos HQ). ~1 b... | *2026-02-09* |
 | **620 5th Ave S, Kirkland, WA** | 🟢 LOI SUBMITTED. Terms agreed with ownership (2/17). Michael Shkreli (RTL) had "really good call with the owners" — s... | *2026-02-18* |
-| **Coconut Grove, Miami, FL (Allen Morris Development)** | 🟡 AMCO term sheet received 2/5. Two scenarios offered (AMCO has no preference). Ross reviewing, Harley followed up 2/... | *2026-02-09* |
+| **3301 Grand Avenue, Miami, Florida 33133 (Coconut Grove)** | 🟡 AMCO term sheet received 2/5. Two scenarios offered (AMCO has no preference). Ross reviewing, Harley followed up 2/... | *2026-02-09* |
 | **Ross School - Bridgehampton NY (Summer Camp)** | 🟡 Proposal submitted. Waiting on Board of Directors response on whether they will lease to Alpha. With Ops. Mark foll... | *2026-02-16* |
 
 ### **STAGE 0: IDENTIFIED / TRACKING** (76)
