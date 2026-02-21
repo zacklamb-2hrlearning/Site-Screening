@@ -101,7 +101,7 @@
 | **2751 Colorado Blvd Los Angeles CA 90041** | 🟡 Screening Complete. Initial Conversations. | *2026-01-28* |
 | **2751-2807 S Dixie Hwy, West Palm Beach FL 33405 (The Press)** | AI site screening complete. GREEN (75/100). Former Palm Beach Post HQ — now "The Press," a $80M luxury mixed-use camp... | *2026-02-20* |
 | **2813-2821 N Henderson Ave, Dallas, TX 75206** | 🟡 Screening Complete. Initial Conversations. | *2026-02-12* |
-| **300 71st St, Miami Beach, FL 33141** | 🟡 New site identified. AI screening complete — 76/100 GREEN but barely clears threshold. **Shared lobby/multi-tenant ... | *2026-02-20* |
+| **300 71st St, Miami Beach, FL 33141** | 🟡 New site identified. AI screening complete — 76/100 GREEN but barely clears threshold.  | *2026-02-20* |
 | **3031 14th St NW, Washington, DC 20009** | 🟡 Screening Complete. Initial Conversations. | *2026-02-12* |
 | **3080 N Civic Center Plaza Scottsdale AZ 85251** | New site from Scottsdale batch screening. Renovated former church, 1-story, 13,139 SF available of 23,240 SF total. ~... | *2026-02-19* |
 | **31 Hayward St, Franklin, MA 02038** | 🟡 Screening Complete. Initial Conversations. | *2026-02-12* |
