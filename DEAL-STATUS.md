@@ -11,22 +11,22 @@
 |----------|--------|--------------|
 | **1750 Rufe Snow Dr Keller TX** | 🟢 Lease Executed / Wire Confirmed. Christine received wire transfer confirmation from finance team (2/13). COI reques... | *2026-02-16* |
 
-### **STAGE 3: FINAL LEASE** (6)
+### **STAGE 3: FINAL LEASE** (5)
 
 | Property | Status | Last Updated |
 |----------|--------|--------------|
-| **(250) 1 Beach St, San Francisco, CA** | 🟢 LOI FULLY EXECUTED BY LANDLORD (2/18). Ross: "See attached fully executed LOI for beach!" Mike McCarthy (Transweste... | *2026-02-25* |
 | **2000 Woodlands Pkwy The Woodlands TX** | 🟢 Neeraj gave Lisa (Jones & Spross) final approval on last turn of lease (2/24). Lease finalization in progress with ... | *2026-02-25* |
 | **2200 NW 5th Ave Boca Raton FL** | 🟢 WIRE Sent for two week extension, expiring 2/20. Operations doing their deep diligence. Devin had inspector on site... | *2026-02-12* |
 | **307 Southgate Ct Brentwood TN** | 🟢 Final lease turns. Elissa Davis (SRD Legal) returned marked + clean copies of lease redlines (2/16). Zack forwarded... | *2026-02-16* |
 | **7979 Ivanhoe Ave La Jolla CA** | 🟢 LEASE IN REVIEW. LOI fully signed by landlord (2/12). Zack: "Off to the races! Let's get this thing closed." Lease ... | *2026-02-13* |
 | **838 SW 1st St Portland OR** | 🟢 Final lease out for signature. Kris Vogt (NAI Elliott) checking in on sewer line issue — asking if it's causing hes... | *2026-02-25* |
 
-### **STAGE 2: LEASE NEGOTIATIONS** (9)
+### **STAGE 2: LEASE NEGOTIATIONS** (10)
 
 | Property | Status | Last Updated |
 |----------|--------|--------------|
 | **(1000) 511 W 25th St New York NY** | 🟢 LOI FULLY EXECUTED. Neeraj signed final LOI (2/12). Lease being drafted. CADs/as-built plans sent to team. Matterpo... | *2026-02-25* |
+| **(250) 1 Beach St, San Francisco, CA** | 🟢 LOI FULLY EXECUTED BY LANDLORD (2/18). Ross: "See attached fully executed LOI for beach!" Mike McCarthy (Transweste... | *2026-02-25* |
 | **(250) McGarrah Jesse Building Austin TX (Austin 250)** | 🟡 Lease negotiations. Neeraj waiting on CO2 extension decision from current landlord, then will make decision on 121 ... | *2026-02-18* |
 | **123 Washington St Norwalk CT 06854** | 🟢 LOI Executed. Nathan Wilson (AGW) confirmed access — on-site contact Gus Desouza will meet team. No elevator at pro... | *2026-02-13* |
 | **156 William St New York NY** | 🟢 LOI Executed. Landlord (LaSalle/Macklowe via CBRE) requested modified security deposit terms (2/17): 1 year rent up... | *2026-02-25* |
@@ -165,8 +165,8 @@
 | Stage | Count |
 |-------|-------|
 | Stage 4: Handoff to Ops | 1 |
-| Stage 3: Final Lease | 6 |
-| Stage 2: Lease Negotiations | 9 |
+| Stage 3: Final Lease | 5 |
+| Stage 2: Lease Negotiations | 10 |
 | Stage 1: LOI In Progress | 13 |
 | Stage 0.5: Due Diligence | 0 |
 | Stage 0: Tracking | 80 |
