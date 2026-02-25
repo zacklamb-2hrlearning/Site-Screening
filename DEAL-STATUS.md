@@ -1,5 +1,5 @@
 # Alpha Real Estate — Master Deal Status
-**Auto-generated:** February 20, 2026 | **For:** Leadership Review
+**Auto-generated:** February 25, 2026 | **For:** Leadership Review
 
 ---
 
@@ -15,26 +15,26 @@
 
 | Property | Status | Last Updated |
 |----------|--------|--------------|
-| **1 Beach St, San Francisco, CA** | 🟢 LOI FULLY EXECUTED BY LANDLORD (2/18). Ross: "See attached fully executed LOI for beach!" Mike McCarthy (Transweste... | *2026-02-19* |
-| **2000 Woodlands Pkwy The Woodlands TX** | 🟡 Neeraj & Zack working to meet with John Saxon (Chief of Staff/VP Corp Dev) and Jim Carman (President, Texas Howard ... | *2026-02-13* |
+| **(250) 1 Beach St, San Francisco, CA** | 🟢 LOI FULLY EXECUTED BY LANDLORD (2/18). Ross: "See attached fully executed LOI for beach!" Mike McCarthy (Transweste... | *2026-02-25* |
+| **2000 Woodlands Pkwy The Woodlands TX** | 🟢 Neeraj gave Lisa (Jones & Spross) final approval on last turn of lease (2/24). Lease finalization in progress with ... | *2026-02-25* |
 | **2200 NW 5th Ave Boca Raton FL** | 🟢 WIRE Sent for two week extension, expiring 2/20. Operations doing their deep diligence. Devin had inspector on site... | *2026-02-12* |
 | **307 Southgate Ct Brentwood TN** | 🟢 Final lease turns. Elissa Davis (SRD Legal) returned marked + clean copies of lease redlines (2/16). Zack forwarded... | *2026-02-16* |
 | **7979 Ivanhoe Ave La Jolla CA** | 🟢 LEASE IN REVIEW. LOI fully signed by landlord (2/12). Zack: "Off to the races! Let's get this thing closed." Lease ... | *2026-02-13* |
-| **838 SW 1st St Portland OR** | 🟢 Final lease out for signature. Kris Vogt (NAI Elliott) checking in on sewer line issue — asking if it's causing hes... | *2026-02-13* |
+| **838 SW 1st St Portland OR** | 🟢 Final lease out for signature. Kris Vogt (NAI Elliott) checking in on sewer line issue — asking if it's causing hes... | *2026-02-25* |
 
 ### **STAGE 2: LEASE NEGOTIATIONS** (9)
 
 | Property | Status | Last Updated |
 |----------|--------|--------------|
 | **123 Washington St Norwalk CT 06854** | 🟢 LOI Executed. Nathan Wilson (AGW) confirmed access — on-site contact Gus Desouza will meet team. No elevator at pro... | *2026-02-13* |
-| **156 William St New York NY** | 🟢 LOI Executed. Landlord (LaSalle/Macklowe via CBRE) requested modified security deposit terms (2/17): 1 year rent up... | *2026-02-16* |
+| **156 William St New York NY** | 🟢 LOI Executed. Landlord (LaSalle/Macklowe via CBRE) requested modified security deposit terms (2/17): 1 year rent up... | *2026-02-25* |
 | **350 E South Water St Chicago IL** | 🟢 LOI executed. Operations working through diligence. Neeraj working on financing and purchase agreement. With ops. | *2026-02-10* |
 | **44 Woods Ln, East Hampton, NY** | 🟢 LOI Executed. Jake Kelly (Serhant) flagged East Hampton Jewish Center as Hamptons summer camp target 2/6. Director ... | *2026-02-16* |
-| **511 W 25th St New York NY** | 🟢 LOI FULLY EXECUTED. Neeraj signed final LOI (2/12). Lease being drafted. CADs/as-built plans sent to team. Matterpo... | *2026-02-18* |
+| **(1000) 511 W 25th St New York NY** | 🟢 LOI FULLY EXECUTED. Neeraj signed final LOI (2/12). Lease being drafted. CADs/as-built plans sent to team. Matterpo... | *2026-02-25* |
 | **5625 Schumacher Ln Houston TX 77057** | 🟡 LOI executed. Matterport complete. Joseph Bejjani confirmed lease draft coming today (2/18). Parking discussion: la... | *2026-02-10* |
-| **7514 Wisconsin Ave, Bethesda, MD 20814** | 🟢 LOI Executed. Landlord signed. Moving to lease negotiations. Richard Coppola (LPC) and ownership aligned on vision. | *2026-02-16* |
+| **7514 Wisconsin Ave, Bethesda, MD 20814** | 🟢 Draft lease received from Richard Coppola (LPC) (2/23). Under review. LOI Executed. Landlord signed. | *2026-02-25* |
 | **775 Columbus Ave New York NY** | 🟡 Open go/no-go decision. Andy/Neeraj/leadership deciding whether to proceed or shut down. Need clear call so resourc... | *2026-02-16* |
-| **McGarrah Jesse Building Austin TX (Austin 250)** | 🟡 Lease negotiations. Neeraj waiting on CO2 extension decision from current landlord, then will make decision on 121 ... | *2026-02-18* |
+| **(250) McGarrah Jesse Building Austin TX (Austin 250)** | 🟡 Lease negotiations. Neeraj waiting on CO2 extension decision from current landlord, then will make decision on 121 ... | *2026-02-18* |
 
 ### **STAGE 1: LOI IN PROGRESS** (13)
 
@@ -44,14 +44,14 @@
 | **17785 N Pacesetter Way Scottsdale AZ 85255** | 🟢 LOI SUBMITTED at $5.99M. With Ops. Zack approved the number, Daver sent updated counter with $5.99M purchase price ... | *2026-02-16* |
 | **20 E Elm St, Greenwich, CT** | 🟢 LOI sent. Bianca Dygert (Town of Greenwich) confirmed schools permitted in CGB zone, needs Final Site Plan review w... | *2026-02-12* |
 | **Oak Creek Center — 2000 Springer Dr, Lombard, IL 60148** | 🟡 LOI counter received from landlord (on their form). Michael Shkreli (RTL) sent suggested counter with cleanup items... | *2026-02-12* |
-| **212 Elm St, Somerville, MA 02144** | 🟡 LOI coming back shortly. Ryan Hurd (Cushman): "Should have your LOI shortly — ownership had a few minor comments." ... | *2026-02-13* |
-| **2925 Riverglen Dr, Fort Worth, TX 76109** | 🟡 Ownership response received (2/17) — Isabella Burnette (JLL): "We just got a response from ownership — see attached... | *2026-02-12* |
+| **212 Elm St, Somerville, MA 02144** | 🟡 LOI coming back shortly. Ryan Hurd (Cushman): "Should have your LOI shortly — ownership had a few minor comments." ... | *2026-02-25* |
+| **(250) 2925 Riverglen Dr, Fort Worth, TX 76109** | 🟡 Ownership response received (2/17) — Isabella Burnette (JLL): "We just got a response from ownership — see attached... | *2026-02-25* |
 | **345 Peachtree Ave NE, Atlanta, GA 30305** | 🟡 LOI Sent - Zoning board confirmed location is good to go for K-8 private education. LOI sent 2/12 | *2026-02-12* |
 | **3501 S Colorado Blvd, Cherry Hills Village, CO 80113** | 🟢 LOI submitted (2/17). Steve Billigmeier (Cushman) confirmed submission to landlord. August 1, 2026 commencement pro... | *2026-02-18* |
 | **4152 Cole Ave, Dallas, TX 75205** | 🟢 LOI submitted (2/16). Thomas Glendenning (Shop Companies): "Will review this with ownership and get back to you sho... | *2026-02-18* |
-| **600-614 Chapala St, Santa Barbara, CA 93101** | 🟡 LL response received 2/5/26. Tenant redline in progress. With Ops. Two standalone buildings (former Sonos HQ). ~1 b... | *2026-02-09* |
+| **(250) 600-614 Chapala St, Santa Barbara, CA 93101** | 🟡 LL response received 2/5/26. Tenant redline in progress. With Ops. Two standalone buildings (former Sonos HQ). ~1 b... | *2026-02-25* |
 | **620 5th Ave S, Kirkland, WA** | 🟢 LOI SUBMITTED. Terms agreed with ownership (2/17). Michael Shkreli (RTL) had "really good call with the owners" — s... | *2026-02-18* |
-| **3301 Grand Avenue, Miami, Florida 33133 (Coconut Grove)** | 🟡 AMCO term sheet received 2/5. Two scenarios offered (AMCO has no preference). Ross reviewing, Harley followed up 2/... | *2026-02-09* |
+| **(250) 3301 Grand Avenue, Miami, Florida 33133 (Coconut Grove)** | 🟡 AMCO term sheet received 2/5. Two scenarios offered (AMCO has no preference). Ross reviewing, Harley followed up 2/... | *2026-02-09* |
 | **Ross School - Bridgehampton NY (Summer Camp)** | 🟡 Proposal submitted. Waiting on Board of Directors response on whether they will lease to Alpha. With Ops. Mark foll... | *2026-02-16* |
 
 ### **STAGE 0: IDENTIFIED / TRACKING** (80)
@@ -179,4 +179,4 @@
 
 ---
 
-*Auto-generated from Pipeline/ on 2026-02-20*
+*Auto-generated from Pipeline/ on 2026-02-25*
