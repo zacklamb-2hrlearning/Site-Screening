@@ -50,7 +50,7 @@
 | **4152 Cole Ave, Dallas, TX 75205** | 🟢 LOI submitted (2/16). Thomas Glendenning (Shop Companies): "Will review this with ownership and get back to you sho... | *2026-02-18* |
 | **620 5th Ave S, Kirkland, WA** | 🟢 LOI SUBMITTED. Terms agreed with ownership (2/17). Michael Shkreli (RTL) had "really good call with the owners" — s... | *2026-02-18* |
 
-### **STAGE 0: IDENTIFIED / TRACKING** (80)
+### **STAGE 0: IDENTIFIED / TRACKING** (78)
 
 | Property | Status | Last Updated |
 |----------|--------|--------------|
@@ -76,7 +76,6 @@
 | **130 N Park Ave Winter Park FL 32789** | New site from AV batch screening. Multi-tenant building (former Ralph Lauren) on Park Ave, Winter Park. Same premium ... | *2026-02-18* |
 | **1312 Annapolis Dr, Raleigh NC** | AI site screening complete. Cameron Village / Village District area — best demographics in Raleigh batch ($155K media... | *2026-02-20* |
 | **1316 Washington Ave, Houston, TX** | 🟡 Screening Complete. Initial Conversations. | *2026-02-12* |
-| **13200 Falls of Neuse Rd, Raleigh NC (Wakefield Crossing)** | AI site screening complete. Strong demographics (A-, $123K) in affluent Wakefield suburb. 2001 build, 1-floor retail.... | *2026-02-20* |
 | **13875 N Northsight Blvd Scottsdale AZ 85260** | New site from Scottsdale batch screening. STANDALONE freestanding former bank, 1-story, 8,500 SF. ~0.15mi from Norths... | *2026-02-19* |
 | **140 N Westmonte Dr Altamonte Springs FL 32714** | New site from AV batch screening. Medical office building with Westmonte Park playground within 0.4mi. Shared medical... | *2026-02-18* |
 | **14140 N 100th St Scottsdale AZ 85260** | New site from Scottsdale batch screening. STANDALONE freestanding bank pad, 1-story, 4,262 SF available of 7,723 SF t... | *2026-02-19* |
@@ -89,7 +88,6 @@
 | **19 Willow St, Natick, MA 01760 (Clock Tower Place)** | 🟡 Screening Complete. Initial Conversations. | *2026-02-11* |
 | **1950 Craig Rd, Maryland Heights, MO 63146** | 🟡 Screening Complete. Initial Conversations. | *2026-02-11* |
 | **200 Highland Blvd, Bozeman, MT 59715** | Deal created. Site screening complete. Score: 75/100 — GREEN. One of 5 Bozeman sites Zack touring week of 2/16 with B... | *2026-02-16* |
-| **200 Sorrell Grove Church Rd, Morrisville, NC 27560** | Deal created. Site screening complete. Score: 73/100 — AMBER. Key concern is parent perception in an airport/office p... | *2026-02-16* |
 | **20831 N Scottsdale Rd Scottsdale AZ 85255** | New site from Scottsdale batch screening. Neighborhood center 2-story, 27,464 SF total, 5,010 SF available. ~0.29mi f... | *2026-02-19* |
 | **210 Little Falls St Falls Church VA 22046** | 🟢 Screening Complete. Initial Conversations. | *2026-01-28* |
 | **235 Worcester Rd, Framingham, MA 01701** | 🟡 Screening Complete. Initial Conversations. | *2026-02-12* |
@@ -165,13 +163,13 @@
 | Stage 2: Lease Negotiations | 9 |
 | Stage 1: LOI In Progress | 10 |
 | Stage 0.5: Due Diligence | 0 |
-| Stage 0: Tracking | 80 |
+| Stage 0: Tracking | 78 |
 | Operational | 12 |
-| Dead | 47 |
+| Dead | 49 |
 
-**Total Active Deals: 105**
+**Total Active Deals: 103**
 **Total Operational: 12**
-**Total Dead: 47**
+**Total Dead: 49**
 
 ---
 
