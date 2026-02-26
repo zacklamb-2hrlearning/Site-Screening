@@ -21,14 +21,13 @@
 | **7979 Ivanhoe Ave La Jolla CA** | 🟢 LEASE IN REVIEW. LOI fully signed by landlord (2/12). Zack: "Off to the races! Let's get this thing closed." Lease ... | *2026-02-13* |
 | **838 SW 1st St Portland OR** | 🟢 Final lease out for signature. Kris Vogt (NAI Elliott) checking in on sewer line issue — asking if it's causing hes... | *2026-02-25* |
 
-### **STAGE 2: LEASE NEGOTIATIONS** (10)
+### **STAGE 2: LEASE NEGOTIATIONS** (9)
 
 | Property | Status | Last Updated |
 |----------|--------|--------------|
 | **(1000) 511 W 25th St New York NY** | 🟢 LOI FULLY EXECUTED. Neeraj signed final LOI (2/12). Lease being drafted. CADs/as-built plans sent to team. Matterpo... | *2026-02-25* |
 | **(250) 1 Beach St, San Francisco, CA** | 🟢 LOI FULLY EXECUTED BY LANDLORD (2/18). Ross: "See attached fully executed LOI for beach!" Mike McCarthy (Transweste... | *2026-02-25* |
 | **(250) McGarrah Jesse Building Austin TX (Austin 250)** | 🟡 Lease negotiations. Neeraj waiting on CO2 extension decision from current landlord, then will make decision on 121 ... | *2026-02-18* |
-| **123 Washington St Norwalk CT 06854** | 🟢 LOI Executed. Nathan Wilson (AGW) confirmed access — on-site contact Gus Desouza will meet team. No elevator at pro... | *2026-02-13* |
 | **156 William St New York NY** | 🟢 LOI Executed. Landlord (LaSalle/Macklowe via CBRE) requested modified security deposit terms (2/17): 1 year rent up... | *2026-02-25* |
 | **350 E South Water St Chicago IL** | 🟢 LOI executed. Operations working through diligence. Neeraj working on financing and purchase agreement. With ops. | *2026-02-10* |
 | **44 Woods Ln, East Hampton, NY** | 🟢 LOI Executed. Jake Kelly (Serhant) flagged East Hampton Jewish Center as Hamptons summer camp target 2/6. Director ... | *2026-02-16* |
@@ -164,16 +163,16 @@
 |-------|-------|
 | Stage 4: Handoff to Ops | 1 |
 | Stage 3: Final Lease | 5 |
-| Stage 2: Lease Negotiations | 10 |
+| Stage 2: Lease Negotiations | 9 |
 | Stage 1: LOI In Progress | 11 |
 | Stage 0.5: Due Diligence | 0 |
 | Stage 0: Tracking | 80 |
 | Operational | 12 |
-| Dead | 45 |
+| Dead | 46 |
 
-**Total Active Deals: 107**
+**Total Active Deals: 106**
 **Total Operational: 12**
-**Total Dead: 45**
+**Total Dead: 46**
 
 ---
 
