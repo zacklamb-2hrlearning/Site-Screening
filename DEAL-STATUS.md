@@ -36,7 +36,7 @@
 | **7514 Wisconsin Ave, Bethesda, MD 20814** | 🟢 Draft lease received from Richard Coppola (LPC) (2/23). Under review. LOI Executed. Landlord signed. | *2026-02-25* |
 | **775 Columbus Ave New York NY** | 🟡 Open go/no-go decision. Andy/Neeraj/leadership deciding whether to proceed or shut down. Need clear call so resourc... | *2026-02-16* |
 
-### **STAGE 1: LOI IN PROGRESS** (13)
+### **STAGE 1: LOI IN PROGRESS** (11)
 
 | Property | Status | Last Updated |
 |----------|--------|--------------|
@@ -44,7 +44,6 @@
 | **(250) 600-614 Chapala St, Santa Barbara, CA 93101** | 🟡 LL response received 2/5/26. Tenant redline in progress. With Ops. Two standalone buildings (former Sonos HQ). ~1 b... | *2026-02-25* |
 | **(250) 3301 Grand Avenue, Miami, Florida 33133 (Coconut Grove)** | 🟡 AMCO term sheet received 2/5. Two scenarios offered (AMCO has no preference). Ross reviewing, Harley followed up 2/... | *2026-02-09* |
 | **10220 NE Points Dr Kirkland WA 98033** | 🟡 Counter proposal received from landlord (2/11). will handle discussions with broker. Former University of Washingto... | *2026-02-12* |
-| **17785 N Pacesetter Way Scottsdale AZ 85255** | 🟢 LOI SUBMITTED at $5.99M. With Ops. Zack approved the number, Daver sent updated counter with $5.99M purchase price ... | *2026-02-16* |
 | **20 E Elm St, Greenwich, CT** | 🟢 LOI sent. Bianca Dygert (Town of Greenwich) confirmed schools permitted in CGB zone, needs Final Site Plan review w... | *2026-02-12* |
 | **Oak Creek Center — 2000 Springer Dr, Lombard, IL 60148** | 🟡 LOI counter received from landlord (on their form). Michael Shkreli (RTL) sent suggested counter with cleanup items... | *2026-02-12* |
 | **212 Elm St, Somerville, MA 02144** | 🟡 LOI coming back shortly. Ryan Hurd (Cushman): "Should have your LOI shortly — ownership had a few minor comments." ... | *2026-02-25* |
@@ -52,7 +51,6 @@
 | **3501 S Colorado Blvd, Cherry Hills Village, CO 80113** | 🟢 LOI submitted (2/17). Steve Billigmeier (Cushman) confirmed submission to landlord. August 1, 2026 commencement pro... | *2026-02-18* |
 | **4152 Cole Ave, Dallas, TX 75205** | 🟢 LOI submitted (2/16). Thomas Glendenning (Shop Companies): "Will review this with ownership and get back to you sho... | *2026-02-18* |
 | **620 5th Ave S, Kirkland, WA** | 🟢 LOI SUBMITTED. Terms agreed with ownership (2/17). Michael Shkreli (RTL) had "really good call with the owners" — s... | *2026-02-18* |
-| **Ross School - Bridgehampton NY (Summer Camp)** | 🟡 Proposal submitted. Waiting on Board of Directors response on whether they will lease to Alpha. With Ops. Mark foll... | *2026-02-16* |
 
 ### **STAGE 0: IDENTIFIED / TRACKING** (80)
 
@@ -167,15 +165,15 @@
 | Stage 4: Handoff to Ops | 1 |
 | Stage 3: Final Lease | 5 |
 | Stage 2: Lease Negotiations | 10 |
-| Stage 1: LOI In Progress | 13 |
+| Stage 1: LOI In Progress | 11 |
 | Stage 0.5: Due Diligence | 0 |
 | Stage 0: Tracking | 80 |
 | Operational | 12 |
-| Dead | 43 |
+| Dead | 45 |
 
-**Total Active Deals: 109**
+**Total Active Deals: 107**
 **Total Operational: 12**
-**Total Dead: 43**
+**Total Dead: 45**
 
 ---
 
