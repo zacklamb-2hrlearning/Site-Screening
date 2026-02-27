@@ -5,17 +5,17 @@
 
 ## PIPELINE BY STAGE
 
-### **STAGE 4: HANDOFF TO OPS** (1)
+### **STAGE 4: HANDOFF TO OPS** (2)
 
 | Property | Status | Last Updated |
 |----------|--------|--------------|
 | **1750 Rufe Snow Dr Keller TX** | 🟢 Lease Executed / Wire Confirmed. Christine received wire transfer confirmation from finance team (2/13). COI reques... | *2026-02-16* |
+| **2000 Woodlands Pkwy The Woodlands TX** | 🟢 LEASE SIGNED & EXECUTED. Neeraj confirmed signature during 2/25 Andy Price + Neeraj Gupta deal review, based on ema... | *2026-02-27* |
 
-### **STAGE 3: FINAL LEASE** (5)
+### **STAGE 3: FINAL LEASE** (4)
 
 | Property | Status | Last Updated |
 |----------|--------|--------------|
-| **2000 Woodlands Pkwy The Woodlands TX** | 🟢 LEASE SIGNED & EXECUTED. Neeraj confirmed signature during 2/25 Andy Price + Neeraj Gupta deal review, based on ema... | *2026-02-25* |
 | **2200 NW 5th Ave Boca Raton FL** | 🟡 URGENT — Pending final decision. Discussed in 2/25 Andy Price + Neeraj Gupta deal review. Owners calling daily aski... | *2026-02-12* |
 | **307 Southgate Ct Brentwood TN** | 🟡 Approval pending. Discussed in 2/25 Andy Price + Neeraj Gupta deal review. Flagged as expensive micro location. Wai... | *2026-02-16* |
 | **7979 Ivanhoe Ave La Jolla CA** | 🟢 LEASE IN REVIEW. LOI fully signed by landlord (2/12). Zack: "Off to the races! Let's get this thing closed." Lease ... | *2026-02-13* |
@@ -163,8 +163,8 @@
 
 | Stage | Count |
 |-------|-------|
-| Stage 4: Handoff to Ops | 1 |
-| Stage 3: Final Lease | 5 |
+| Stage 4: Handoff to Ops | 2 |
+| Stage 3: Final Lease | 4 |
 | Stage 2: Lease Negotiations | 10 |
 | Stage 1: LOI In Progress | 9 |
 | Stage 0.5: Due Diligence | 0 |
