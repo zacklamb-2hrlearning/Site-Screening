@@ -1,5 +1,5 @@
 # Alpha Real Estate — Master Deal Status
-**Auto-generated:** February 26, 2026 | **For:** Leadership Review
+**Auto-generated:** February 27, 2026 | **For:** Leadership Review
 
 ---
 
@@ -15,42 +15,42 @@
 
 | Property | Status | Last Updated |
 |----------|--------|--------------|
-| **2000 Woodlands Pkwy The Woodlands TX** | 🟢 Neeraj gave Lisa (Jones & Spross) final approval on last turn of lease (2/24). Lease finalization in progress with ... | *2026-02-25* |
-| **2200 NW 5th Ave Boca Raton FL** | 🟢 WIRE Sent for two week extension, expiring 2/20. Operations doing their deep diligence. Devin had inspector on site... | *2026-02-12* |
-| **307 Southgate Ct Brentwood TN** | 🟢 Final lease turns. Elissa Davis (SRD Legal) returned marked + clean copies of lease redlines (2/16). Zack forwarded... | *2026-02-16* |
+| **2000 Woodlands Pkwy The Woodlands TX** | 🟢 LEASE SIGNED & EXECUTED. Neeraj confirmed signature during 2/25 Andy Price + Neeraj Gupta deal review, based on ema... | *2026-02-25* |
+| **2200 NW 5th Ave Boca Raton FL** | 🟡 URGENT — Pending final decision. Discussed in 2/25 Andy Price + Neeraj Gupta deal review. Owners calling daily aski... | *2026-02-12* |
+| **307 Southgate Ct Brentwood TN** | 🟡 Approval pending. Discussed in 2/25 Andy Price + Neeraj Gupta deal review. Flagged as expensive micro location. Wai... | *2026-02-16* |
 | **7979 Ivanhoe Ave La Jolla CA** | 🟢 LEASE IN REVIEW. LOI fully signed by landlord (2/12). Zack: "Off to the races! Let's get this thing closed." Lease ... | *2026-02-13* |
-| **838 SW 1st St Portland OR** | 🟢 Final lease out for signature. Kris Vogt (NAI Elliott) checking in on sewer line issue — asking if it's causing hes... | *2026-02-25* |
+| **838 SW 1st St Portland OR** | 🟡 URGENT — Pending final decision. Discussed in 2/25 Andy Price + Neeraj Gupta deal review. Owners calling daily. Ris... | *2026-02-25* |
 
-### **STAGE 2: LEASE NEGOTIATIONS** (9)
+### **STAGE 2: LEASE NEGOTIATIONS** (10)
 
 | Property | Status | Last Updated |
 |----------|--------|--------------|
 | **(1000) 511 W 25th St New York NY** | 🟢 LOI FULLY EXECUTED. Neeraj signed final LOI (2/12). Lease being drafted. CADs/as-built plans sent to team. Matterpo... | *2026-02-25* |
-| **(250) 1 Beach St, San Francisco, CA** | 🟢 LOI FULLY EXECUTED BY LANDLORD (2/18). Ross: "See attached fully executed LOI for beach!" Mike McCarthy (Transweste... | *2026-02-25* |
-| **(250) McGarrah Jesse Building Austin TX (Austin 250)** | 🟡 Lease negotiations. Neeraj waiting on CO2 extension decision from current landlord, then will make decision on 121 ... | *2026-02-18* |
+| **(250) 1 Beach St, San Francisco, CA** | 🟢 LEADERSHIP GREENLIGHT (2/25). Reviewed in Andy/Neeraj deal review — decision: move forward. $6M tenant improvement ... | *2026-02-25* |
+| **(250) McGarrah Jesse Building Austin TX (Austin 250)** | 🟡 SLOW-ROLL / HOLD pending Related project decision. Reviewed in Andy/Neeraj deal review 2/25 — neither ops nor leade... | *2026-02-25* |
 | **156 William St New York NY** | 🟢 LOI Executed. Landlord (LaSalle/Macklowe via CBRE) requested modified security deposit terms (2/17): 1 year rent up... | *2026-02-25* |
+| **20 E Elm St, Greenwich, CT** | 🟢 LOI FULLY EXECUTED (both sides signed 2/24). $800K/yr, 9,500 SF, 95 kids capacity. 10-year deal with Year 5 exit. Z... | *2026-02-25* |
 | **350 E South Water St Chicago IL** | 🟢 LOI executed. Operations working through diligence. Neeraj working on financing and purchase agreement. With ops. | *2026-02-10* |
 | **44 Woods Ln, East Hampton, NY** | 🟢 LOI Executed. Jake Kelly (Serhant) flagged East Hampton Jewish Center as Hamptons summer camp target 2/6. Director ... | *2026-02-16* |
 | **5625 Schumacher Ln Houston TX 77057** | 🟡 LOI executed. Matterport complete. Joseph Bejjani confirmed lease draft coming today (2/18). Parking discussion: la... | *2026-02-10* |
 | **7514 Wisconsin Ave, Bethesda, MD 20814** | 🟢 Draft lease received from Richard Coppola (LPC) (2/23). Under review. LOI Executed. Landlord signed. | *2026-02-25* |
 | **775 Columbus Ave New York NY** | 🟡 Open go/no-go decision. Andy/Neeraj/leadership deciding whether to proceed or shut down. Need clear call so resourc... | *2026-02-16* |
 
-### **STAGE 1: LOI IN PROGRESS** (10)
+### **STAGE 1: LOI IN PROGRESS** (9)
 
 | Property | Status | Last Updated |
 |----------|--------|--------------|
-| **(250) 2925 Riverglen Dr, Fort Worth, TX 76109** | 🟡 Ownership response received (2/17) — Isabella Burnette (JLL): "We just got a response from ownership — see attached... | *2026-02-25* |
-| **(250) 600-614 Chapala St, Santa Barbara, CA 93101** | 🟡 LL response received 2/5/26. Tenant redline in progress. With Ops. Two standalone buildings (former Sonos HQ). ~1 b... | *2026-02-25* |
-| **(250) 3301 Grand Avenue, Miami, Florida 33133 (Coconut Grove)** | 🟡 AMCO term sheet received 2/5. Two scenarios offered (AMCO has no preference). Ross reviewing, Harley followed up 2/... | *2026-02-09* |
-| **20 E Elm St, Greenwich, CT** | 🟢 LOI sent. Bianca Dygert (Town of Greenwich) confirmed schools permitted in CGB zone, needs Final Site Plan review w... | *2026-02-12* |
+| **(250) 2925 Riverglen Dr, Fort Worth, TX 76109** | 🟡 Moving forward. Reviewed in Andy/Neeraj meeting (2/25). Adjacent 1-acre lot available ($115K/yr, total $1.4M incl N... | *2026-02-25* |
+| **(250) 600-614 Chapala St, Santa Barbara, CA 93101** | 🟡 Counter-proposal in progress. Reviewed as 250-campus in Andy/Neeraj meeting (2/25). $1.39M/yr gross (no triple net)... | *2026-02-25* |
+| **(250) 3301 Grand Avenue, Miami, Florida 33133 (Coconut Grove)** | 🟡 Proceeding with evaluation. Reviewed as Miami replacement 250-campus in Andy/Neeraj meeting (2/25). Phased approach... | *2026-02-25* |
 | **Oak Creek Center — 2000 Springer Dr, Lombard, IL 60148** | 🟡 LOI counter received from landlord (on their form). Michael Shkreli (RTL) sent suggested counter with cleanup items... | *2026-02-12* |
 | **212 Elm St, Somerville, MA 02144** | 🟡 LOI coming back shortly. Ryan Hurd (Cushman): "Should have your LOI shortly — ownership had a few minor comments." ... | *2026-02-25* |
 | **345 Peachtree Ave NE, Atlanta, GA 30305** | 🟡 LOI Sent - Zoning board confirmed location is good to go for K-8 private education. LOI sent 2/12 | *2026-02-12* |
 | **3501 S Colorado Blvd, Cherry Hills Village, CO 80113** | 🟢 LOI submitted (2/17). Steve Billigmeier (Cushman) confirmed submission to landlord. August 1, 2026 commencement pro... | *2026-02-18* |
 | **4152 Cole Ave, Dallas, TX 75205** | 🟢 LOI submitted (2/16). Thomas Glendenning (Shop Companies): "Will review this with ownership and get back to you sho... | *2026-02-18* |
-| **620 5th Ave S, Kirkland, WA** | 🟢 LOI SUBMITTED. Terms agreed with ownership (2/17). Michael Shkreli (RTL) had "really good call with the owners" — s... | *2026-02-18* |
+| **620 5th Ave S, Kirkland, WA** | 🟢 LOI APPROVED by leadership in Andy/Neeraj deal review (2/25). $800K/yr, 13,000 SF, brand new building. 5+5+5 year t... | *2026-02-25* |
 
-### **STAGE 0: IDENTIFIED / TRACKING** (78)
+### **STAGE 0: IDENTIFIED / TRACKING** (83)
 
 | Property | Status | Last Updated |
 |----------|--------|--------------|
@@ -92,6 +92,7 @@
 | **210 Little Falls St Falls Church VA 22046** | 🟢 Screening Complete. Initial Conversations. | *2026-01-28* |
 | **235 Worcester Rd, Framingham, MA 01701** | 🟡 Screening Complete. Initial Conversations. | *2026-02-12* |
 | **2524 N Scottsdale Rd Scottsdale AZ 85257** | New site from Scottsdale batch screening. STANDALONE freestanding (former Pep Boys), 1-story, 12,361 SF available. ~0... | *2026-02-19* |
+| **26592 Towne Centre Dr, Foothill Ranch, CA** | 🟡 Revived from Dead. Marketing vetoed 2/4 — want to be closer to Newport Beach. Andy inclined to proceed anyway given... | *2026-02-25* |
 | **2751 Colorado Blvd Los Angeles CA 90041** | 🟡 Screening Complete. Initial Conversations. | *2026-01-28* |
 | **2751-2807 S Dixie Hwy, West Palm Beach FL 33405 (The Press)** | AI site screening complete. GREEN (75/100). Former Palm Beach Post HQ — now "The Press," a $80M luxury mixed-use camp... | *2026-02-20* |
 | **2813-2821 N Henderson Ave, Dallas, TX 75206** | 🟡 Screening Complete. Initial Conversations. | *2026-02-12* |
@@ -103,6 +104,7 @@
 | **31 Waltham St Lexington MA 02421** | 🟡 Screening Complete. Initial Conversations. | *2026-02-04* |
 | **3100 NC 55 Hwy, Cary NC (Somerset 55)** | AI site screening complete — GREEN. Top candidate from NC batch. Private exterior first-floor entrance confirmed in l... | *2026-02-20* |
 | **3300 Henry Ave, Philadelphia, PA 19129 (Falls Center)** | 🟡 Screening Complete. Initial Conversations. | *2026-02-12* |
+| **3709 Ohio Dr, Plano, TX** | 🟡 GP replacement option. Requires Special Use Permit (SUP). Al's team claims SUP expertise — should handle vs interna... | *2026-02-25* |
 | **3800 Maple Ave, Dallas, TX 75219** | 🟡 Screening Complete. Initial Conversations. | *2026-02-12* |
 | **45 E Central St, Natick, MA 01760** | 🟡 Screening Complete. Initial Conversations. | *2026-02-12* |
 | **4501-4545 N Scottsdale Rd Scottsdale AZ 85251** | New site from Scottsdale batch screening. Strip center 1-story, 18,201 SF total, 3,912 SF available. ~0.2mi from Indi... | *2026-02-19* |
@@ -118,6 +120,7 @@
 | **501 Palm St, West Palm Beach FL (Imperial Plaza)** | AI site screening complete. AMBER (63/100). Prestige location in Arts & Design District — Imperial Plaza luxury campu... | *2026-02-20* |
 | **505 Technology Dr Irvine CA 92618** | New site from Irvine batch screening. Discovery Park campus, Class A, 79,200 SF total, built 2019. Suites 240 (3,639 ... | *2026-02-19* |
 | **525 Technology Dr Irvine CA 92618** | New site from Irvine batch screening. Discovery Park campus, Class A, 105,600 SF total, built 2019, LEED Silver. 6+ s... | *2026-02-19* |
+| **601 California Ave, Palo Alto, CA** | 🟢 NEW — Presented in Andy/Neeraj deal review 2/25. "Seems like a home run." Need more details and pictures. Negotiate... | *2026-02-25* |
 | **6701 Carmel Rd, Charlotte, NC 28226** | Deal created. Site screening complete. Score: 50/100 — AMBER (low end). Major concerns: 4-story multi-tenant office t... | *2026-02-16* |
 | **70 Discovery Irvine CA 92618** | New site from Irvine batch screening. Freestanding standalone single-story building, 5,846 SF total. FOR SALE (not le... | *2026-02-19* |
 | **7333 E Doubletree Ranch Rd Scottsdale AZ 85258** | New site from Scottsdale batch screening. Financial office 2-story, 58,330 SF total, 5,564 SF available. ~0.2mi from ... | *2026-02-19* |
@@ -127,11 +130,13 @@
 | **7669 E Pinnacle Peak Rd Scottsdale AZ 85255** | New site from Scottsdale batch screening. Retail strip 2-story (Shops at Pinnacle Peak), 56,477 SF total, 5,305 SF av... | *2026-02-19* |
 | **8502 E Princess Dr Scottsdale AZ 85255** | New site from Scottsdale batch screening. Mixed-use 2-story, 49,174 SF total, 4,754 SF available. ~0.08mi from Scotts... | *2026-02-19* |
 | **8618 Fenton St Silver Spring MD 20910** | 🟡 Screening Complete. Initial Conversations. | *2026-02-04* |
+| **901 E Mountain Blvd, Scottsdale, AZ** | 🟢 Andy/Neeraj prefer this over Pyramid building. Should move forward given enrollment pressure at Guidepost. Add to p... | *2026-02-25* |
 | **96-98 Discovery Irvine CA 92618** | New site from Irvine batch screening. Freestanding single-story "high-image" office building, 8,082 SF total. Suite 9... | *2026-02-19* |
 | **9831 E Bell Rd Scottsdale AZ 85260** | New site from Scottsdale batch screening. Whole building 1-story, 7,024 SF total, 6,512 SF available. ~0.9mi from Hor... | *2026-02-19* |
 | **9937 E Bell Rd Scottsdale AZ 85260** | New site from Scottsdale batch screening. Whole building 1-story, 6,400 SF total. ~0.95mi from Horizon Park. $24/SF/y... | *2026-02-19* |
 | **Bozeman MT TBD** | 🟢 GREEN LIGHT. Neeraj, Brannin, Zack - Full steam ahead. Have 4 sites we are gathering information on. Brannin will p... | *2026-02-10* |
 | **OKC TBD** | 🟡 Screening Complete. Initial Conversations. | *2026-01-28* |
+| **Scottsdale Pyramid Building, AZ** | 🟡 Under evaluation. Andy/Neeraj concern: math doesn't work at $15M total vs $7M budget. Need ops to determine if 250-... | *2026-02-25* |
 
 ---
 
@@ -160,17 +165,17 @@
 |-------|-------|
 | Stage 4: Handoff to Ops | 1 |
 | Stage 3: Final Lease | 5 |
-| Stage 2: Lease Negotiations | 9 |
-| Stage 1: LOI In Progress | 10 |
+| Stage 2: Lease Negotiations | 10 |
+| Stage 1: LOI In Progress | 9 |
 | Stage 0.5: Due Diligence | 0 |
-| Stage 0: Tracking | 78 |
+| Stage 0: Tracking | 83 |
 | Operational | 12 |
-| Dead | 49 |
+| Dead | 48 |
 
-**Total Active Deals: 103**
+**Total Active Deals: 108**
 **Total Operational: 12**
-**Total Dead: 49**
+**Total Dead: 48**
 
 ---
 
-*Auto-generated from Pipeline/ on 2026-02-26*
+*Auto-generated from Pipeline/ on 2026-02-27*
