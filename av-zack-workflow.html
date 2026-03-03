@@ -1,0 +1,472 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>AV + Zack — CRE Workflow</title>
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; background: #0f1117; color: #e0e0e0; min-height: 100vh; padding: 40px 20px 60px; }
+
+  .page-header { text-align: center; margin-bottom: 40px; }
+  .page-header h1 { font-size: 28px; font-weight: 800; color: #fff; margin-bottom: 6px; }
+  .page-header p { font-size: 14px; color: #8b8fa3; }
+
+  /* Lane headers */
+  .lane-headers { display: grid; grid-template-columns: 1fr 40px 1fr 1fr 1fr; max-width: 1400px; margin: 0 auto 12px; align-items: end; }
+  .lane-head { font-size: 13px; font-weight: 700; text-transform: uppercase; letter-spacing: 1.5px; padding-bottom: 8px; border-bottom: 2px solid; }
+  .lane-head.av { color: #34d399; border-color: #34d399; }
+  .lane-head.zk { color: #6c8cff; border-color: #6c8cff; }
+  .lane-head.issues { color: #f87171; border-color: #f87171; }
+  .lane-head.auto { color: #34d399; border-color: #34d399; }
+  .lane-head-spacer { }
+
+  /* Step rows */
+  .steps { max-width: 1400px; margin: 0 auto; display: flex; flex-direction: column; gap: 0; }
+
+  .step-row { display: grid; grid-template-columns: 1fr 40px 1fr 1fr 1fr; border-bottom: 1px solid #1a1d2e; }
+  .step-row:last-child { border-bottom: none; }
+
+  .lane { padding: 20px 16px; min-height: 80px; }
+  .lane.av-lane { border-right: 1px solid #1a1d2e; }
+  .lane.zk-lane { border-left: 1px solid #1a1d2e; border-right: 1px solid #1a1d2e; }
+
+  .lane.primary { background: rgba(255,255,255,0.02); }
+  .lane.inactive { opacity: 0.3; }
+
+  .arrow-col { display: flex; align-items: center; justify-content: center; position: relative; }
+  .arrow-col .handoff { font-size: 18px; color: #3b3f51; }
+  .arrow-col .handoff.active-r { color: #6c8cff; }
+  .arrow-col .handoff.active-l { color: #34d399; }
+  .arrow-col .handoff.active-both { color: #fbbf24; }
+
+  .lane-title { font-size: 11px; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px; margin-bottom: 8px; }
+  .av-lane .lane-title { color: #34d399; }
+  .zk-lane .lane-title { color: #6c8cff; }
+
+  .lane ul { list-style: none; }
+  .lane li { font-size: 13px; line-height: 1.6; color: #b0b4c8; padding-left: 12px; position: relative; margin-bottom: 2px; }
+  .av-lane li::before { content: ''; position: absolute; left: 0; top: 9px; width: 5px; height: 5px; border-radius: 50%; background: #34d399; }
+  .zk-lane li::before { content: ''; position: absolute; left: 0; top: 9px; width: 5px; height: 5px; border-radius: 50%; background: #6c8cff; }
+
+  .lane .note { font-size: 11px; color: #555a6e; font-style: italic; margin-top: 6px; }
+  .lane .empty-note { font-size: 12px; color: #3b3f51; font-style: italic; }
+
+  /* Step name overlay */
+  .step-name-bar { grid-column: 1 / -1; padding: 14px 16px 0; }
+  .step-name-bar h3 { font-size: 16px; font-weight: 700; color: #fff; }
+  .step-name-bar .step-tag { font-size: 10px; font-weight: 700; text-transform: uppercase; letter-spacing: 1px; color: #555a6e; margin-right: 8px; }
+
+  /* Handoff badge */
+  .handoff-badge { display: inline-block; font-size: 9px; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px; padding: 2px 8px; border-radius: 4px; margin-top: 8px; }
+  .handoff-badge.to-zack { background: rgba(108,140,255,0.15); color: #6c8cff; }
+  .handoff-badge.to-both { background: rgba(251,191,36,0.15); color: #fbbf24; }
+
+  /* Issues column */
+  .issues-lane { padding: 20px 16px; min-height: 80px; background: rgba(248,113,113,0.03); }
+  .issues-lane .issue-title { font-size: 11px; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px; color: #f87171; margin-bottom: 8px; }
+  .issues-lane ul { list-style: none; }
+  .issues-lane li { font-size: 12.5px; line-height: 1.5; color: #d4a0a0; padding-left: 12px; position: relative; margin-bottom: 4px; }
+  .issues-lane li::before { content: ''; position: absolute; left: 0; top: 8px; width: 5px; height: 5px; border-radius: 50%; background: #f87171; }
+  .issues-lane .proposal { font-size: 12px; color: #34d399; margin-top: 8px; padding-left: 12px; position: relative; line-height: 1.5; }
+  .issues-lane .proposal::before { content: ''; position: absolute; left: 0; top: 8px; width: 5px; height: 5px; border-radius: 50%; background: #34d399; }
+  .issues-lane .empty-note { font-size: 12px; color: #2a2d3e; font-style: italic; }
+
+  /* Automations column */
+  .auto-lane { padding: 20px 16px; min-height: 80px; background: rgba(52,211,153,0.03); }
+  .auto-lane .auto-title { font-size: 11px; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px; color: #34d399; margin-bottom: 8px; }
+  .auto-lane ul { list-style: none; }
+  .auto-lane li { font-size: 12.5px; line-height: 1.5; color: #8ec5ad; padding-left: 12px; position: relative; margin-bottom: 4px; }
+  .auto-lane li::before { content: ''; position: absolute; left: 0; top: 8px; width: 5px; height: 5px; border-radius: 50%; background: #34d399; }
+  .auto-lane .empty-note { font-size: 12px; color: #1e3a2f; font-style: italic; }
+
+  /* Summary bar */
+  .summary-bar { max-width: 1400px; margin: 32px auto 0; display: grid; grid-template-columns: repeat(4, 1fr); gap: 16px; }
+  .summary-card { border-radius: 10px; padding: 20px 24px; text-align: center; }
+  .summary-card.sc-av { background: rgba(52,211,153,0.06); border: 1px solid rgba(52,211,153,0.18); }
+  .summary-card.sc-zk { background: rgba(108,140,255,0.06); border: 1px solid rgba(108,140,255,0.18); }
+  .summary-card.sc-issues { background: rgba(248,113,113,0.06); border: 1px solid rgba(248,113,113,0.18); }
+  .summary-card.sc-auto { background: rgba(52,211,153,0.06); border: 1px solid rgba(52,211,153,0.18); }
+  .summary-card h4 { font-size: 12px; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px; margin-bottom: 4px; }
+  .summary-card.sc-av h4 { color: #34d399; }
+  .summary-card.sc-zk h4 { color: #6c8cff; }
+  .summary-card.sc-issues h4 { color: #f87171; }
+  .summary-card.sc-auto h4 { color: #34d399; }
+  .summary-card p { font-size: 13px; color: #8b8fa3; line-height: 1.5; }
+  .summary-card strong { color: #d0d4e8; }
+
+  .footer { text-align: center; padding: 32px; font-size: 11px; color: #2a2d3e; }
+
+  /* Editable styles */
+  [contenteditable] { outline: none; border-radius: 4px; transition: box-shadow 0.2s; }
+  [contenteditable]:hover { box-shadow: inset 0 0 0 1px rgba(108,140,255,0.15); }
+  [contenteditable]:focus { box-shadow: inset 0 0 0 1px rgba(108,140,255,0.4); background: rgba(108,140,255,0.03); }
+
+  .save-status { position: fixed; top: 12px; right: 20px; font-size: 11px; color: #3b3f51; z-index: 200; transition: color 0.3s; }
+  .save-status.saved { color: #34d399; }
+
+  @media (max-width: 1100px) {
+    .lane-headers, .step-row { grid-template-columns: 1fr; }
+    .arrow-col { display: none; }
+    .summary-bar { grid-template-columns: 1fr; }
+  }
+</style>
+</head>
+<body>
+
+<div class="save-status" id="saveStatus">Click any box to edit</div>
+
+<div class="page-header">
+  <h1 contenteditable="true">Who Does What</h1>
+  <p contenteditable="true">Andrew Vincent (AV) and Zack Lamb across all 6 steps of the CRE process</p>
+</div>
+
+<div class="lane-headers">
+  <div class="lane-head av">Andrew Vincent</div>
+  <div class="lane-head-spacer"></div>
+  <div class="lane-head zk">Zack Lamb</div>
+  <div class="lane-head issues">Current Issues</div>
+  <div class="lane-head auto">Workflow Automations</div>
+</div>
+
+<div class="steps">
+
+  <!-- STEP 1 -->
+  <div class="step-row">
+    <div class="step-name-bar">
+      <h3><span class="step-tag">Step 1</span> Market Selection & Sub-Market Filtering</h3>
+    </div>
+  </div>
+  <div class="step-row">
+    <div class="lane av-lane primary" contenteditable="true">
+      <div class="lane-title">Primary</div>
+      <ul>
+        <li>Interprets leadership direction into actionable search areas</li>
+        <li>Runs demographic model — validates wealth/education profile supports Alpha pricing</li>
+        <li>Produces heat maps narrowing to specific sub-markets and zip codes</li>
+        <li>Defines search criteria: SF range, budget parameters</li>
+      </ul>
+      <div class="handoff-badge to-zack">Output to Zack &rarr;</div>
+    </div>
+    <div class="arrow-col"><span class="handoff active-r">&rarr;</span></div>
+    <div class="lane zk-lane" contenteditable="true">
+      <div class="lane-title">Receives</div>
+      <ul>
+        <li>Target market(s) with defined sub-market boundaries</li>
+        <li>Search criteria to activate broker network</li>
+      </ul>
+      <p class="note">Zack may also bring markets to AV from leadership conversations or broker tips</p>
+    </div>
+    <div class="issues-lane" contenteditable="true">
+      <p class="empty-note">No critical issues at this stage</p>
+    </div>
+    <div class="auto-lane" contenteditable="true">
+      <p class="empty-note">Click to add automations...</p>
+    </div>
+  </div>
+
+  <!-- STEP 2 -->
+  <div class="step-row">
+    <div class="step-name-bar">
+      <h3><span class="step-tag">Step 2</span> Potential Site Sourcing</h3>
+    </div>
+  </div>
+  <div class="step-row">
+    <div class="lane av-lane primary" contenteditable="true">
+      <div class="lane-title">Data Pipeline</div>
+      <ul>
+        <li>Searches Moody's DB (~250K listings) by SF, market, property type</li>
+        <li>Filters by demo score + zoning pre-screen</li>
+        <li>Exports green-zoned CSVs to Zack</li>
+        <li>Automated cold outreach emails to listing brokers</li>
+        <li>Reply detection classifies responses (interested / not available / bounce)</li>
+      </ul>
+      <div class="handoff-badge to-both">Both cross-reference &harr;</div>
+    </div>
+    <div class="arrow-col"><span class="handoff active-both">&harr;</span></div>
+    <div class="lane zk-lane primary" contenteditable="true">
+      <div class="lane-title">Broker Network</div>
+      <ul>
+        <li>Activates broker relationships — RTL gets market brief, local brokers send curated options</li>
+        <li>Browses LoopNet, Crexi, CommercialCafe directly</li>
+        <li>Cross-references broker leads against AV pipeline to avoid duplicates</li>
+      </ul>
+      <p class="note">Zack sometimes sees a listing before AV's data catches it, and vice versa</p>
+    </div>
+    <div class="issues-lane" contenteditable="true">
+      <div class="issue-title">Too Many / Too Restrictive Filters</div>
+      <ul>
+        <li>Once all current filters are applied, essentially all locations get eliminated</li>
+        <li>Even just demographics + zoning + play space takes 100s-1000s down to a handful</li>
+        <li>At top of funnel with the largest number of options, we should only remove listings that clearly fail the easiest-to-check criteria</li>
+      </ul>
+      <div class="proposal">Propose: Only filter on demographics, zoning, pricing, and neighborhood (including play space) at this stage. Already shown to reduce options to manageable levels, and all are fast or can be sped up.</div>
+    </div>
+    <div class="auto-lane" contenteditable="true">
+      <p class="empty-note">Click to add automations...</p>
+    </div>
+  </div>
+
+  <!-- STEP 3 -->
+  <div class="step-row">
+    <div class="step-name-bar">
+      <h3><span class="step-tag">Step 3</span> Candidate Location Analysis</h3>
+    </div>
+  </div>
+  <div class="step-row">
+    <div class="lane av-lane primary" contenteditable="true">
+      <div class="lane-title">Data Screening</div>
+      <ul>
+        <li>Demographic scoring (enrollment + wealth)</li>
+        <li>Zoning confirmation (by-right vs. CUP vs. prohibited)</li>
+        <li>Outdoor space check (park/playground within 0.5mi)</li>
+        <li>Regulatory flags (airport proximity, railroad adjacency)</li>
+      </ul>
+      <div class="handoff-badge to-zack">Passing addresses to Zack &rarr;</div>
+    </div>
+    <div class="arrow-col"><span class="handoff active-r">&rarr;</span></div>
+    <div class="lane zk-lane primary" contenteditable="true">
+      <div class="lane-title">Site Screening + Judgment</div>
+      <ul>
+        <li>100-point AI screening (pickup/dropoff, parent perception, outdoor, building quality, adjacent risk)</li>
+        <li>Tier 1 kill checks (shared bathrooms, 3rd+ floor, bar sharing wall, airport)</li>
+        <li>Reviews GREEN/AMBER scores — applies SPOVs and gut check</li>
+        <li>Checks listing flyers for photos, SF, parking</li>
+        <li>First outreach call to broker on passing sites</li>
+        <li>Creates deal files for viable sites</li>
+      </ul>
+      <p class="note">100s-1000s enter. 0-5 survive per market.</p>
+    </div>
+    <div class="issues-lane" contenteditable="true">
+      <div class="issue-title">Speed of Location Analysis</div>
+      <ul>
+        <li>Analysis is split across dimensions with wildly different speeds — demographics, price, and zoning are fast; neighborhood, building, and regulatory are extremely slow (web-search dependent)</li>
+        <li>Inconsistency in completing all analyses when properties are ingested into the database</li>
+      </ul>
+      <div class="proposal">Propose: Eliminate building and regulatory checks here — those are uncovered in SIR from Ops later. Switch neighborhood checks from web-search to data-based. Final state: fast demographics, price, zoning, and neighborhood as the site selection filters.</div>
+    </div>
+    <div class="auto-lane" contenteditable="true">
+      <p class="empty-note">Click to add automations...</p>
+    </div>
+  </div>
+
+  <!-- STEP 4 -->
+  <div class="step-row">
+    <div class="step-name-bar">
+      <h3><span class="step-tag">Step 4</span> LOI Signing + Parallel Ops/Marketing Evaluation</h3>
+    </div>
+  </div>
+  <div class="step-row">
+    <div class="lane av-lane inactive" contenteditable="true">
+      <p class="empty-note">Not involved at this stage</p>
+    </div>
+    <div class="arrow-col"><span class="handoff"></span></div>
+    <div class="lane zk-lane primary" contenteditable="true">
+      <div class="lane-title">Primary</div>
+      <ul>
+        <li>Negotiates LOI terms with broker/landlord (rent, lease length, break option, deposit, TI, escalations)</li>
+        <li>Drafts LOI on Alpha template, manages counter-proposals</li>
+        <li>Gets pre-approval from Neeraj/Andy on economics</li>
+        <li>On execution: triggers Ops (SIR), Marketing (2-week veto window), Matterport scan</li>
+        <li>P2/Ops reviews floorplans, estimates kid capacity + reno cost</li>
+      </ul>
+    </div>
+    <div class="issues-lane" contenteditable="true">
+      <div class="issue-title">Marketing Kill Criteria Unknown</div>
+      <ul>
+        <li>Beyond standalone, play space, and drop-off/pick-up, we have no clear kill criteria from Marketing</li>
+        <li>Leads to recommending sites outside their desired cities/submarkets — sites get rejected late in process</li>
+        <li>The more feedback we get on why sites get rejected, the better we can tune upstream filters</li>
+      </ul>
+    </div>
+    <div class="auto-lane" contenteditable="true">
+      <p class="empty-note">Click to add automations...</p>
+    </div>
+  </div>
+
+  <!-- STEP 5 -->
+  <div class="step-row">
+    <div class="step-name-bar">
+      <h3><span class="step-tag">Step 5</span> Site Visits & Lease Negotiations</h3>
+    </div>
+  </div>
+  <div class="step-row">
+    <div class="lane av-lane inactive" contenteditable="true">
+      <p class="empty-note">Not involved at this stage</p>
+    </div>
+    <div class="arrow-col"><span class="handoff"></span></div>
+    <div class="lane zk-lane primary" contenteditable="true">
+      <div class="lane-title">Primary</div>
+      <ul>
+        <li>Routes lease to legal (SRD for standard, Dentons for complex)</li>
+        <li>Reviews every redline — decides which battles to fight</li>
+        <li>Site visit — walks neighborhood, checks pickup/dropoff, catches hidden issues</li>
+        <li>Coordinates insurance for non-standard coverages</li>
+        <li>Negotiates SIR cost allocation with landlord</li>
+        <li>Chases all parties to keep timeline from slipping</li>
+      </ul>
+      <p class="note">Target: 2 weeks. Reality: 4-6. Deals die from delay.</p>
+    </div>
+    <div class="issues-lane" contenteditable="true">
+      <div class="issue-title">Non-Standard Leases Slow Everything</div>
+      <ul>
+        <li>We have standardized LOIs, but landlords often want to use their own with non-standard terms</li>
+        <li>Worse for leases — almost always unable to use a standardized template</li>
+        <li>Landlords include unique/non-standard terms even when we use a template. More redline turns, slower process.</li>
+      </ul>
+      <div class="issue-title" style="margin-top: 14px;">Handoff Management</div>
+      <ul>
+        <li>Handoffs to other departments are not clean — leads to deal flow interruptions for ad hoc requests</li>
+        <li>Standardizing handoff timing is tricky due to complexity and fragile nature of deals</li>
+        <li>Too many people contacting the landlord during negotiations can disrupt things and kill deals</li>
+      </ul>
+    </div>
+    <div class="auto-lane" contenteditable="true">
+      <p class="empty-note">Click to add automations...</p>
+    </div>
+  </div>
+
+  <!-- STEP 6 -->
+  <div class="step-row">
+    <div class="step-name-bar">
+      <h3><span class="step-tag">Step 6</span> Executive Sign-Off</h3>
+    </div>
+  </div>
+  <div class="step-row">
+    <div class="lane av-lane inactive" contenteditable="true">
+      <p class="empty-note">Not involved at this stage</p>
+    </div>
+    <div class="arrow-col"><span class="handoff"></span></div>
+    <div class="lane zk-lane primary" contenteditable="true">
+      <div class="lane-title">Primary</div>
+      <ul>
+        <li>Presents deal to Andy/Neeraj — economics, ops estimate, risks, recommendation</li>
+        <li>Manages landlords calling daily while waiting for executive decision</li>
+        <li>Coordinates executive site visit (Neeraj, Andy, or Arthur)</li>
+        <li>On approval: DocuSign to Andy, wire transfer, COI from insurance</li>
+        <li>Builds complete ops handoff package</li>
+      </ul>
+    </div>
+    <div class="issues-lane" contenteditable="true">
+      <div class="issue-title">Decision Bottleneck</div>
+      <ul>
+        <li>Leadership questions about a location's strategic position stall final decisions</li>
+        <li>Delays in getting feedback from all parties exacerbate the problem</li>
+      </ul>
+      <div class="issue-title" style="margin-top: 14px;">Duplicated Site Visits</div>
+      <ul>
+        <li>Zack visits first (feasibility + deal killers)</li>
+        <li>Ops authorizes Matterport + often walks the space themselves</li>
+        <li>Executive visit required before final sign-off</li>
+        <li>All represent duplicated effort — scheduling availability becomes a bottleneck to decision-making</li>
+      </ul>
+    </div>
+    <div class="auto-lane" contenteditable="true">
+      <p class="empty-note">Click to add automations...</p>
+    </div>
+  </div>
+
+</div>
+
+<!-- Summary -->
+<div class="summary-bar">
+  <div class="summary-card sc-av" contenteditable="true">
+    <h4>Andrew Vincent</h4>
+    <p><strong>Steps 1-3:</strong> Market selection, data pipeline, demographic/zoning screening. Delivers filtered addresses to Zack. ~250K listings narrowed to hundreds of candidates per market.</p>
+  </div>
+  <div class="summary-card sc-zk" contenteditable="true">
+    <h4>Zack Lamb</h4>
+    <p><strong>Steps 2-6:</strong> Broker relationships, site screening judgment, LOI negotiation, lease negotiation, executive presentation, ops handoff. Takes hundreds of candidates down to signed leases.</p>
+  </div>
+  <div class="summary-card sc-issues" contenteditable="true">
+    <h4>Key Themes</h4>
+    <p><strong>Filtering too aggressively too early.</strong> Non-standard leases slow everything. Marketing criteria are opaque. Site visits are duplicated. Executive decisions are the #1 bottleneck.</p>
+  </div>
+  <div class="summary-card sc-auto" contenteditable="true">
+    <h4>Workflow Automations</h4>
+    <p>Click to add automation summary...</p>
+  </div>
+</div>
+
+<div class="footer">Alpha School CRE Workflow &mdash; March 2026</div>
+
+<!-- Firebase SDK -->
+<script src="https://www.gstatic.com/firebasejs/10.12.0/firebase-app-compat.js"></script>
+<script src="https://www.gstatic.com/firebasejs/10.12.0/firebase-database-compat.js"></script>
+
+<script>
+  // ===== FIREBASE CONFIG — REPLACE WITH YOUR VALUES =====
+  const firebaseConfig = {
+    apiKey: "AIzaSyDqdJq6rK0Ca4mHimhfgITiFhtNWBxTmTY",
+    authDomain: "av-zack-workflow-automation.firebaseapp.com",
+    databaseURL: "https://av-zack-workflow-automation-default-rtdb.firebaseio.com",
+    projectId: "av-zack-workflow-automation",
+    storageBucket: "av-zack-workflow-automation.firebasestorage.app",
+    messagingSenderId: "865490189246",
+    appId: "1:865490189246:web:4d6f6ec2599bbe803e97ef"
+  };
+  // ========================================================
+
+  firebase.initializeApp(firebaseConfig);
+  const db = firebase.database().ref('workflow');
+
+  const statusEl = document.getElementById('saveStatus');
+  let saveTimer;
+  let suppressRemote = false; // prevent echo loops
+
+  // Assign stable IDs to all editable elements
+  document.querySelectorAll('[contenteditable]').forEach((el, i) => {
+    if (!el.id) el.id = 'edit-' + i;
+  });
+
+  // Load from Firebase on page open
+  db.once('value', (snap) => {
+    const saved = snap.val();
+    if (!saved) return;
+    suppressRemote = true;
+    Object.keys(saved).forEach(id => {
+      const el = document.getElementById(id);
+      if (el) el.innerHTML = saved[id];
+    });
+    suppressRemote = false;
+    statusEl.textContent = 'Synced from cloud';
+    setTimeout(() => { statusEl.textContent = 'Click any box to edit — changes sync live'; }, 2000);
+  });
+
+  // Listen for real-time changes from other users
+  db.on('child_changed', (snap) => {
+    if (suppressRemote) return;
+    const el = document.getElementById(snap.key);
+    if (el && !el.matches(':focus')) {
+      el.innerHTML = snap.val();
+    }
+  });
+
+  // Save all editable content to Firebase
+  function saveAll() {
+    const data = {};
+    document.querySelectorAll('[contenteditable]').forEach(el => {
+      if (el.id) data[el.id] = el.innerHTML;
+    });
+    db.set(data);
+    statusEl.textContent = 'Synced';
+    statusEl.classList.add('saved');
+    setTimeout(() => {
+      statusEl.textContent = 'Click any box to edit — changes sync live';
+      statusEl.classList.remove('saved');
+    }, 1500);
+  }
+
+  // Auto-save on any edit with debounce
+  document.addEventListener('input', (e) => {
+    if (e.target.closest('[contenteditable]')) {
+      statusEl.textContent = 'Editing...';
+      statusEl.classList.remove('saved');
+      clearTimeout(saveTimer);
+      saveTimer = setTimeout(saveAll, 800);
+    }
+  });
+</script>
+
+</body>
+</html>
