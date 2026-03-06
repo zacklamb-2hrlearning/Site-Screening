@@ -1,5 +1,5 @@
 # Alpha Real Estate — Master Deal Status
-**Auto-generated:** February 27, 2026 | **For:** Leadership Review
+**Auto-generated:** March 6, 2026 | **For:** Leadership Review
 
 ---
 
@@ -18,39 +18,39 @@
 |----------|--------|--------------|
 | **2200 NW 5th Ave Boca Raton FL** | 🟡 URGENT — Pending final decision. Discussed in 2/25 Andy Price + Neeraj Gupta deal review. Owners calling daily aski... | *2026-02-12* |
 | **307 Southgate Ct Brentwood TN** | 🟡 Approval pending. Discussed in 2/25 Andy Price + Neeraj Gupta deal review. Flagged as expensive micro location. Wai... | *2026-02-16* |
-| **7979 Ivanhoe Ave La Jolla CA** | 🟢 LEASE IN REVIEW. LOI fully signed by landlord (2/12). Zack: "Off to the races! Let's get this thing closed." Lease ... | *2026-02-13* |
+| **7979 Ivanhoe Ave La Jolla CA** | 🟢 LEASE IN REVIEW. Michael Shkreli confirmed receipt of lease (3/5): "Received, thank you." Elissa Davis sent lease r... | *2026-03-06* |
 | **838 SW 1st St Portland OR** | 🟡 URGENT — Pending final decision. Discussed in 2/25 Andy Price + Neeraj Gupta deal review. Owners calling daily. Ris... | *2026-02-25* |
 
-### **STAGE 2: LEASE NEGOTIATIONS** (10)
+### **STAGE 2: LEASE NEGOTIATIONS** (12)
 
 | Property | Status | Last Updated |
 |----------|--------|--------------|
 | **(1000) 511 W 25th St New York NY** | 🟢 LOI FULLY EXECUTED. Neeraj signed final LOI (2/12). Lease being drafted. CADs/as-built plans sent to team. Matterpo... | *2026-02-25* |
-| **(250) 1 Beach St, San Francisco, CA** | 🟢 LEADERSHIP GREENLIGHT (2/25). Reviewed in Andy/Neeraj deal review — decision: move forward. $6M tenant improvement ... | *2026-02-25* |
+| **(250) 1 Beach St, San Francisco, CA** | 🟢 LEADERSHIP GREENLIGHT (2/25). Dentons assigned — Mero Marmé copying Kellee Padgett for lease review (3/3): "The SF ... | *2026-03-06* |
 | **(250) McGarrah Jesse Building Austin TX (Austin 250)** | 🟡 SLOW-ROLL / HOLD pending Related project decision. Reviewed in Andy/Neeraj deal review 2/25 — neither ops nor leade... | *2026-02-25* |
-| **156 William St New York NY** | 🟢 LOI Executed. Landlord (LaSalle/Macklowe via CBRE) requested modified security deposit terms (2/17): 1 year rent up... | *2026-02-25* |
-| **20 E Elm St, Greenwich, CT** | 🟢 LOI FULLY EXECUTED (both sides signed 2/24). $800K/yr, 9,500 SF, 95 kids capacity. 10-year deal with Year 5 exit. Z... | *2026-02-25* |
+| **156 William St New York NY** | 🟢 LEASE COMMENTS SENT TO LANDLORD. Elissa Davis (SRD) returned marked and clean copies of the Lease (3/4). Ross sent ... | *2026-03-06* |
+| **20 E Elm St, Greenwich, CT** | 🟢 LOI FULLY EXECUTED (both sides signed 2/24). Elissa Davis reviewing lease — comments expected by 3/6 afternoon. Mic... | *2026-03-06* |
+| **212 Elm St, Somerville, MA 02144** | 🟢 Lease received from RP Thompson (Upland Capital). Elissa Davis (SRD) will have lease comments by afternoon of 3/6. ... | *2026-03-06* |
 | **350 E South Water St Chicago IL** | 🟢 LOI executed. Operations working through diligence. Neeraj working on financing and purchase agreement. With ops. | *2026-02-10* |
-| **44 Woods Ln, East Hampton, NY** | 🟢 LOI Executed. Jake Kelly (Serhant) flagged East Hampton Jewish Center as Hamptons summer camp target 2/6. Director ... | *2026-02-16* |
-| **5625 Schumacher Ln Houston TX 77057** | 🟡 LOI executed. Matterport complete. Joseph Bejjani confirmed lease draft coming today (2/18). Parking discussion: la... | *2026-02-10* |
-| **7514 Wisconsin Ave, Bethesda, MD 20814** | 🟢 Draft lease received from Richard Coppola (LPC) (2/23). Under review. LOI Executed. Landlord signed. | *2026-02-25* |
+| **4152 Cole Ave, Dallas, TX 75205** | 🟢 LOI SIGNED by landlord. Thomas Glendenning (Shop Companies) sent signed LOI with discussed edits (3/4): "Let me kno... | *2026-03-06* |
+| **44 Woods Ln, East Hampton, NY** | 🟢 LICENSE READY FOR SUBMISSION. Elissa Davis sent updated marked and clean copies of the License (3/5): "ready for su... | *2026-03-06* |
+| **5625 Schumacher Ln Houston TX 77057** | 🟡 LEASE UNDER REVIEW — Elissa Davis (SRD) reviewed lease comments and flagged remaining open issues (3/5), including ... | *2026-03-06* |
+| **7514 Wisconsin Ave, Bethesda, MD 20814** | 🟢 Lease comments sent to Richard Coppola (LPC). Richard confirmed receipt (3/5): "Gave you a call earlier today to di... | *2026-03-06* |
 | **775 Columbus Ave New York NY** | 🟡 Open go/no-go decision. Andy/Neeraj/leadership deciding whether to proceed or shut down. Need clear call so resourc... | *2026-02-16* |
 
-### **STAGE 1: LOI IN PROGRESS** (9)
+### **STAGE 1: LOI IN PROGRESS** (7)
 
 | Property | Status | Last Updated |
 |----------|--------|--------------|
-| **(250) 2925 Riverglen Dr, Fort Worth, TX 76109** | 🟡 Moving forward. Reviewed in Andy/Neeraj meeting (2/25). Adjacent 1-acre lot available ($115K/yr, total $1.4M incl N... | *2026-02-25* |
-| **(250) 600-614 Chapala St, Santa Barbara, CA 93101** | 🟡 Counter-proposal in progress. Reviewed as 250-campus in Andy/Neeraj meeting (2/25). $1.39M/yr gross (no triple net)... | *2026-02-25* |
+| **(250) 2925 Riverglen Dr, Fort Worth, TX 76109** | 🟡 Moving forward. Reviewed in Andy/Neeraj meeting (2/25). Adjacent 1-acre lot available ($115K/yr, total $1.4M incl N... | *2026-03-06* |
+| **(250) 600-614 Chapala St, Santa Barbara, CA 93101** | 🟡 Counter-proposal in progress. Owner's broker sent back LOI with additional requirement that was previously overlook... | *2026-03-06* |
 | **(250) 3301 Grand Avenue, Miami, Florida 33133 (Coconut Grove)** | 🟡 Proceeding with evaluation. Reviewed as Miami replacement 250-campus in Andy/Neeraj meeting (2/25). Phased approach... | *2026-02-25* |
-| **Oak Creek Center — 2000 Springer Dr, Lombard, IL 60148** | 🟡 LOI counter received from landlord (on their form). Michael Shkreli (RTL) sent suggested counter with cleanup items... | *2026-02-12* |
-| **212 Elm St, Somerville, MA 02144** | 🟡 LOI coming back shortly. Ryan Hurd (Cushman): "Should have your LOI shortly — ownership had a few minor comments." ... | *2026-02-25* |
-| **345 Peachtree Ave NE, Atlanta, GA 30305** | 🟡 LOI Sent - Zoning board confirmed location is good to go for K-8 private education. LOI sent 2/12 | *2026-02-12* |
+| **Oak Creek Center — 2000 Springer Dr, Lombard, IL 60148** | 🟢 TERMS AGREED — Final term sheet ready for signature. Michael Shkreli (RTL) sent clean final term sheet for 835 Oak ... | *2026-03-06* |
+| **345 Peachtree Ave NE, Atlanta, GA 30305** | 🟢 TERMS AGREED — Waiting on final term sheet for signature. Michael Shkreli (RTL) confirmed terms agreed in Buckhead ... | *2026-03-06* |
 | **3501 S Colorado Blvd, Cherry Hills Village, CO 80113** | 🟢 LOI submitted (2/17). Steve Billigmeier (Cushman) confirmed submission to landlord. August 1, 2026 commencement pro... | *2026-02-18* |
-| **4152 Cole Ave, Dallas, TX 75205** | 🟢 LOI submitted (2/16). Thomas Glendenning (Shop Companies): "Will review this with ownership and get back to you sho... | *2026-02-18* |
-| **620 5th Ave S, Kirkland, WA** | 🟢 LOI APPROVED by leadership in Andy/Neeraj deal review (2/25). $800K/yr, 13,000 SF, brand new building. 5+5+5 year t... | *2026-02-25* |
+| **620 5th Ave S, Kirkland, WA** | 🟢 LOI APPROVED by leadership in Andy/Neeraj deal review (2/25). $800K/yr, 13,000 SF, brand new building. 5+5+5 year t... | *2026-03-06* |
 
-### **STAGE 0: IDENTIFIED / TRACKING** (83)
+### **STAGE 0: IDENTIFIED / TRACKING** (88)
 
 | Property | Status | Last Updated |
 |----------|--------|--------------|
@@ -87,9 +87,11 @@
 | **1869 E Maple Rd Troy MI 48083** | 🟡 Screening Complete. Initial Conversations. | *2026-01-28* |
 | **19 Willow St, Natick, MA 01760 (Clock Tower Place)** | 🟡 Screening Complete. Initial Conversations. | *2026-02-11* |
 | **1950 Craig Rd, Maryland Heights, MO 63146** | 🟡 Screening Complete. Initial Conversations. | *2026-02-11* |
+| **2 Pickwick Plaza, Greenwich, CT 06830** | New site screening complete. Pickwick Plaza — 4-story, 86,937 SF Class A brick office building in downtown Greenwich.... | *2026-03-05* |
 | **200 Highland Blvd, Bozeman, MT 59715** | Deal created. Site screening complete. Score: 75/100 — GREEN. One of 5 Bozeman sites Zack touring week of 2/16 with B... | *2026-02-16* |
 | **20831 N Scottsdale Rd Scottsdale AZ 85255** | New site from Scottsdale batch screening. Neighborhood center 2-story, 27,464 SF total, 5,010 SF available. ~0.29mi f... | *2026-02-19* |
 | **210 Little Falls St Falls Church VA 22046** | 🟢 Screening Complete. Initial Conversations. | *2026-01-28* |
+| **2340 Calle de Luna, Santa Clara, CA 95054** | New site screening complete. Ground-floor commercial (~19,100 SF) in brand-new Class A mixed-use development by Relat... | *2026-03-05* |
 | **235 Worcester Rd, Framingham, MA 01701** | 🟡 Screening Complete. Initial Conversations. | *2026-02-12* |
 | **2524 N Scottsdale Rd Scottsdale AZ 85257** | New site from Scottsdale batch screening. STANDALONE freestanding (former Pep Boys), 1-story, 12,361 SF available. ~0... | *2026-02-19* |
 | **26592 Towne Centre Dr, Foothill Ranch, CA** | 🟡 Revived from Dead. Marketing vetoed 2/4 — want to be closer to Newport Beach. Andy inclined to proceed anyway given... | *2026-02-25* |
@@ -104,11 +106,14 @@
 | **31 Waltham St Lexington MA 02421** | 🟡 Screening Complete. Initial Conversations. | *2026-02-04* |
 | **3100 NC 55 Hwy, Cary NC (Somerset 55)** | AI site screening complete — GREEN. Top candidate from NC batch. Private exterior first-floor entrance confirmed in l... | *2026-02-20* |
 | **3300 Henry Ave, Philadelphia, PA 19129 (Falls Center)** | 🟡 Screening Complete. Initial Conversations. | *2026-02-12* |
+| **3400 W Bayshore Road, Palo Alto, CA 94303** | New site screening complete. Turnkey school building — The Girls' Middle School (200 students, 14+ years) relocating ... | *2026-03-05* |
 | **3709 Ohio Dr, Plano, TX** | 🟡 GP replacement option. Requires Special Use Permit (SUP). Al's team claims SUP expertise — should handle vs interna... | *2026-02-25* |
+| **3770 UT-224, Park City, UT 84060** | Building A — 3-5K SF, newer construction, on ~20-acre property. Currently a yoga studio. Usable near-term. Screening ... | *2026-03-05* |
 | **3800 Maple Ave, Dallas, TX 75219** | 🟡 Screening Complete. Initial Conversations. | *2026-02-12* |
 | **45 E Central St, Natick, MA 01760** | 🟡 Screening Complete. Initial Conversations. | *2026-02-12* |
 | **4501-4545 N Scottsdale Rd Scottsdale AZ 85251** | New site from Scottsdale batch screening. Strip center 1-story, 18,201 SF total, 3,912 SF available. ~0.2mi from Indi... | *2026-02-19* |
 | **4525 Lemmon Ave Dallas TX 75219** | 🟡 Screening Complete. Initial Conversations. | *2026-01-28* |
+| **460 E New England Ave, Winter Park, FL 32789** | Former Winter Park Public Library (33,000 SF, 3-story, 1979). City-owned, currently leased to Blue Bamboo Center for ... | *2026-03-05* |
 | **460 Swedesford Rd, Wayne, PA 19087** | 🟡 Screening Complete. Initial Conversations. | *2026-02-12* |
 | **461 W 9th St San Pedro CA** | 🟢 Screening Complete. Initial Conversations. | *2026-01-29* |
 | **4633 E Shea Blvd, Phoenix, AZ 85028 — The Pyramid** | 🟢 New site. Ross scheduled "Scottsdale Alpha Call" via Teams (2/11-2/12) to discuss The Pyramid. Awaiting call outcom... | *2026-02-13* |
@@ -165,17 +170,17 @@
 |-------|-------|
 | Stage 4: Handoff to Ops | 2 |
 | Stage 3: Final Lease | 4 |
-| Stage 2: Lease Negotiations | 10 |
-| Stage 1: LOI In Progress | 9 |
+| Stage 2: Lease Negotiations | 12 |
+| Stage 1: LOI In Progress | 7 |
 | Stage 0.5: Due Diligence | 0 |
-| Stage 0: Tracking | 83 |
+| Stage 0: Tracking | 88 |
 | Operational | 12 |
 | Dead | 48 |
 
-**Total Active Deals: 108**
+**Total Active Deals: 113**
 **Total Operational: 12**
 **Total Dead: 48**
 
 ---
 
-*Auto-generated from Pipeline/ on 2026-02-27*
+*Auto-generated from Pipeline/ on 2026-03-06*
