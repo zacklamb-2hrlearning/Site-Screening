@@ -38,7 +38,7 @@
 | **7514 Wisconsin Ave, Bethesda, MD 20814** | 🟢 Lease comments sent to Richard Coppola (LPC). Richard confirmed receipt (3/5): "Gave you a call earlier today to di... | *2026-03-06* |
 | **775 Columbus Ave New York NY** | 🟡 Open go/no-go decision. Andy/Neeraj/leadership deciding whether to proceed or shut down. Need clear call so resourc... | *2026-02-16* |
 
-### **STAGE 1: LOI IN PROGRESS** (7)
+### **STAGE 1: LOI IN PROGRESS** (6)
 
 | Property | Status | Last Updated |
 |----------|--------|--------------|
@@ -47,7 +47,6 @@
 | **(250) 3301 Grand Avenue, Miami, Florida 33133 (Coconut Grove)** | 🟡 Proceeding with evaluation. Reviewed as Miami replacement 250-campus in Andy/Neeraj meeting (2/25). Phased approach... | *2026-02-25* |
 | **Oak Creek Center — 2000 Springer Dr, Lombard, IL 60148** | 🟢 TERMS AGREED — Final term sheet ready for signature. Michael Shkreli (RTL) sent clean final term sheet for 835 Oak ... | *2026-03-06* |
 | **345 Peachtree Ave NE, Atlanta, GA 30305** | 🟢 TERMS AGREED — Waiting on final term sheet for signature. Michael Shkreli (RTL) confirmed terms agreed in Buckhead ... | *2026-03-06* |
-| **3501 S Colorado Blvd, Cherry Hills Village, CO 80113** | 🟢 LOI submitted (2/17). Steve Billigmeier (Cushman) confirmed submission to landlord. August 1, 2026 commencement pro... | *2026-02-18* |
 | **620 5th Ave S, Kirkland, WA** | 🟢 LOI APPROVED by leadership in Andy/Neeraj deal review (2/25). $800K/yr, 13,000 SF, brand new building. 5+5+5 year t... | *2026-03-06* |
 
 ### **STAGE 0: IDENTIFIED / TRACKING** (88)
@@ -171,15 +170,15 @@
 | Stage 4: Handoff to Ops | 2 |
 | Stage 3: Final Lease | 4 |
 | Stage 2: Lease Negotiations | 12 |
-| Stage 1: LOI In Progress | 7 |
+| Stage 1: LOI In Progress | 6 |
 | Stage 0.5: Due Diligence | 0 |
 | Stage 0: Tracking | 88 |
 | Operational | 12 |
-| Dead | 48 |
+| Dead | 49 |
 
-**Total Active Deals: 113**
+**Total Active Deals: 112**
 **Total Operational: 12**
-**Total Dead: 48**
+**Total Dead: 49**
 
 ---
 
