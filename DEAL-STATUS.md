@@ -49,11 +49,13 @@
 | **345 Peachtree Ave NE, Atlanta, GA 30305** | 🟢 TERMS AGREED — Waiting on final term sheet for signature. Michael Shkreli (RTL) confirmed terms agreed in Buckhead ... | *2026-03-06* |
 | **620 5th Ave S, Kirkland, WA** | 🟢 LOI APPROVED by leadership in Andy/Neeraj deal review (2/25). $800K/yr, 13,000 SF, brand new building. 5+5+5 year t... | *2026-03-06* |
 
-### **STAGE 0: IDENTIFIED / TRACKING** (88)
+### **STAGE 0: IDENTIFIED / TRACKING** (92)
 
 | Property | Status | Last Updated |
 |----------|--------|--------------|
+| **1 Greenwich Office Park, Greenwich, CT 06831** | 🟢 AI site screening complete. Score: 85/100 — GREEN. LEED-renovated building on 21-acre wooded campus. 7,331 SF first... | *2026-03-06* |
 | **1 Jenner Irvine CA 92618** | New site from Irvine batch screening. Jenner Business Park — 8-building industrial/flex park. Class B, built 1987. Su... | *2026-02-19* |
+| **1 Sound Shore Dr, Greenwich, CT 06830** | 🟡 AI site screening complete. Score: 75/100 — GREEN (low). Class A waterfront office in Cos Cob. Cos Cob Park playgro... | *2026-03-06* |
 | **10 Shoshone Dr, Carmel, IN 46032** | 🟡 Screening Complete. Initial Conversations. | *2026-02-12* |
 | **1000 W Main St, Durham NC** | AI site screening complete. Strong location near Duke University in Brightleaf area. 1925 building fully renovated. U... | *2026-02-20* |
 | **1003 Egypt Rd, Phoenixville, PA 19460** | 🟡 Screening Complete. Initial Conversations. | *2026-02-12* |
@@ -86,6 +88,7 @@
 | **1869 E Maple Rd Troy MI 48083** | 🟡 Screening Complete. Initial Conversations. | *2026-01-28* |
 | **19 Willow St, Natick, MA 01760 (Clock Tower Place)** | 🟡 Screening Complete. Initial Conversations. | *2026-02-11* |
 | **1950 Craig Rd, Maryland Heights, MO 63146** | 🟡 Screening Complete. Initial Conversations. | *2026-02-11* |
+| **2 Greenwich Office Park, Greenwich, CT 06831** | 🟢 AI site screening complete. Score: 82/100 — GREEN. Largest 1st floor option on campus — 9,849 SF with direct patio ... | *2026-03-06* |
 | **2 Pickwick Plaza, Greenwich, CT 06830** | New site screening complete. Pickwick Plaza — 4-story, 86,937 SF Class A brick office building in downtown Greenwich.... | *2026-03-05* |
 | **200 Highland Blvd, Bozeman, MT 59715** | Deal created. Site screening complete. Score: 75/100 — GREEN. One of 5 Bozeman sites Zack touring week of 2/16 with B... | *2026-02-16* |
 | **20831 N Scottsdale Rd Scottsdale AZ 85255** | New site from Scottsdale batch screening. Neighborhood center 2-story, 27,464 SF total, 5,010 SF available. ~0.29mi f... | *2026-02-19* |
@@ -119,6 +122,7 @@
 | **4646 Dubai Way Frisco TX 75034** | 🟡 Screening Complete. Initial Conversations. | *2026-01-28* |
 | **47 Discovery Irvine CA 92618** | New site from Irvine batch screening. Discovery Business Center, Class A, 55,672 SF total. Multiple suites 2,517-8,15... | *2026-02-19* |
 | **4821 N Scottsdale Rd Scottsdale AZ 85251** | New site from Scottsdale batch screening. Strip center 1-story (Scottsdale Highland), 21,324 SF total, 5,059 SF avail... | *2026-02-19* |
+| **5 Greenwich Office Park, Greenwich, CT 06831** | 🟢 AI site screening complete. Score: 83/100 — GREEN. 7,739 SF 2nd floor with private entrance on same 21-acre campus ... | *2026-03-06* |
 | **500 Technology Dr Irvine CA 92618** | New site from Irvine batch screening. The Quad @ Discovery Park, Class A, 105,643 SF total, built 2018, LEED Gold. Su... | *2026-02-19* |
 | **501 E Morehead St, Charlotte NC** | AI site screening complete. Standalone single-story building for sale in Dilworth. Full control over renovation. 8,00... | *2026-02-20* |
 | **501 Palm St, West Palm Beach FL (Imperial Plaza)** | AI site screening complete. AMBER (63/100). Prestige location in Arts & Design District — Imperial Plaza luxury campu... | *2026-02-20* |
@@ -172,11 +176,11 @@
 | Stage 2: Lease Negotiations | 12 |
 | Stage 1: LOI In Progress | 6 |
 | Stage 0.5: Due Diligence | 0 |
-| Stage 0: Tracking | 88 |
+| Stage 0: Tracking | 92 |
 | Operational | 12 |
 | Dead | 49 |
 
-**Total Active Deals: 112**
+**Total Active Deals: 116**
 **Total Operational: 12**
 **Total Dead: 49**
 
