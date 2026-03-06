@@ -49,7 +49,7 @@
 | **345 Peachtree Ave NE, Atlanta, GA 30305** | 🟢 TERMS AGREED — Waiting on final term sheet for signature. Michael Shkreli (RTL) confirmed terms agreed in Buckhead ... | *2026-03-06* |
 | **620 5th Ave S, Kirkland, WA** | 🟢 LOI APPROVED by leadership in Andy/Neeraj deal review (2/25). $800K/yr, 13,000 SF, brand new building. 5+5+5 year t... | *2026-03-06* |
 
-### **STAGE 0: IDENTIFIED / TRACKING** (92)
+### **STAGE 0: IDENTIFIED / TRACKING** (93)
 
 | Property | Status | Last Updated |
 |----------|--------|--------------|
@@ -95,6 +95,7 @@
 | **210 Little Falls St Falls Church VA 22046** | 🟢 Screening Complete. Initial Conversations. | *2026-01-28* |
 | **2340 Calle de Luna, Santa Clara, CA 95054** | New site screening complete. Ground-floor commercial (~19,100 SF) in brand-new Class A mixed-use development by Relat... | *2026-03-05* |
 | **235 Worcester Rd, Framingham, MA 01701** | 🟡 Screening Complete. Initial Conversations. | *2026-02-12* |
+| **240 Greenwich Ave, Greenwich, CT 06830** | 🟢 AI site screening complete. Score: 83/100 — GREEN. Premier Greenwich Ave location. 10,000 SF ground floor available... | *2026-03-06* |
 | **2524 N Scottsdale Rd Scottsdale AZ 85257** | New site from Scottsdale batch screening. STANDALONE freestanding (former Pep Boys), 1-story, 12,361 SF available. ~0... | *2026-02-19* |
 | **26592 Towne Centre Dr, Foothill Ranch, CA** | 🟡 Revived from Dead. Marketing vetoed 2/4 — want to be closer to Newport Beach. Andy inclined to proceed anyway given... | *2026-02-25* |
 | **2751 Colorado Blvd Los Angeles CA 90041** | 🟡 Screening Complete. Initial Conversations. | *2026-01-28* |
@@ -176,11 +177,11 @@
 | Stage 2: Lease Negotiations | 12 |
 | Stage 1: LOI In Progress | 6 |
 | Stage 0.5: Due Diligence | 0 |
-| Stage 0: Tracking | 92 |
+| Stage 0: Tracking | 93 |
 | Operational | 12 |
 | Dead | 49 |
 
-**Total Active Deals: 116**
+**Total Active Deals: 117**
 **Total Operational: 12**
 **Total Dead: 49**
 
